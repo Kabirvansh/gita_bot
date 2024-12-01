@@ -1,0 +1,369 @@
+{
+    "chapters": {
+      "1": {
+        "verses": {
+          "1": {
+            "original_verse": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥",
+            "speaker": "Dhritarashtra",
+            "commentary": {
+              "shankaracharya": "O Sanjaya, what did my sons (and others) and Pandu’s sons (and others) actually do when, eager for battle, they assembled on the sacred field, the Kurukshetra (Field of the Kurus)?"
+            },
+            "tags": ["duty", "battle"]
+        },
+          "2": {
+            "original_verse": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा। आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥ २ ॥",
+            "speaker": "Sanjaya",
+            "commentary": {
+              "shankaracharya": "But then, seeing the army of the Pandavas in battle array, King Duryodhana approached the teacher (Drona) and uttered a speech."
+            },
+            "tags": ["strategy", "fear"]
+        },
+          "3": {
+            "original_verse": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्। व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥ ३ ॥",
+            "speaker": "Duryodhana",
+            "commentary": {
+              "shankaracharya": "O teacher, (please) see this vast army of the sons of Pandu, arrayed for battle by the son of Drupada, your intelligent disciple."
+            },
+            "tags": ["observation", "battle"]
+        },
+          "4": {
+            "original_verse": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि। युयुधानो विराटश्च द्रुपदश्च महारथः ॥ ४ ॥",
+            "speaker": "Duryodhana",
+            "commentary": {
+              "shankaracharya": "Here are the heroes wielding great bows, who in battle are compeers of Bhima and Arjuna: Yuyudhāna (Sātyaki) and Virāṭa, and the mahāratha (great chariot-rider) Drupada."
+            },
+            "tags": ["warriors", "strength"]
+        },
+          "5": {
+            "original_verse": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्। पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥ ५ ॥",
+            "speaker": "Duryodhana",
+            "commentary": {
+              "shankaracharya": "Dhrsṭaketu, Cekitāna and the valiant king of Kāśi (Vārānasī); Purujit and Kuntibhoja, and Śaibya, the choicest among men."
+            },
+            "tags": ["warriors", "alliance"]
+        },
+          "6": {
+            "original_verse": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्। सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥ ६ ॥",
+            "speaker": "Duryodhana",
+            "commentary": {
+              "shankaracharya": "And the chivalrous Yudhāmanyu, and the valiant Uttamaujas; son of Subhadrā (Abhimanyu) and the sons of Draupadī—all (of whom) are, verily, mahārathas."
+            },
+            "tags": ["alliance", "warriors"]
+        },
+          "7": {
+            "original_verse": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम। नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥ ७ ॥",
+            "speaker": "Duryodhana",
+            "commentary": {
+              "shankaracharya": "But, O best among the Brāhmanas, please be appraised of those who are foremost among us, the commanders of my army. I speak of them to you by way of example."
+            },
+            "tags": ["commanders", "strategy"]
+        },
+          "8": {
+            "original_verse": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः। अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥ ८ ॥",
+            "speaker": "Duryodhana",
+            "commentary": {
+              "shankaracharya": "They are: Your venerable self, Bhishma and Karna, and Krpa, who is ever victorious in battle; Aśvatthāmā, Vikarna, Saumadatti, and Jayadratha."
+            },
+            "tags": ["commanders", "lineup"]
+        },
+          "9": {
+            "original_verse": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः। नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥ ९ ॥",
+            "speaker": "Duryodhana",
+            "commentary": {
+              "shankaracharya": "There are many other heroes also who have dedicated their lives for my sake, who possess various kinds of weapons and missiles, (and) all of whom are skilled in battle."
+            },
+            "tags": ["alliance", "loyalty"]
+        },
+          "10": {
+            "original_verse": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्। पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥ १० ॥",
+            "speaker": "Duryodhana",
+            "commentary": {
+              "shankaracharya": "Therefore, our army under the complete protection of Bhishma, and others is unlimited. But this army of these (enemies), under the protection of Bhima and others is limited."
+            },
+            "tags": ["comparison", "strategy"]
+          },
+          "11": {
+          "original_verse": "अयनेषु च सर्वेषु यथाभागमवस्थिता:। भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि॥ ११ ॥",
+          "speaker": "Duryodhana",
+          "commentary": {
+            "shankaracharya": "However, venerable sirs, all of you without exception, while occupying all the positions in the different directions as allotted (to you respectively), please fully protect Bhishma in particular."
+          },
+          "tags": ["strategy", "protection"]
+        },
+        "12": {
+          "original_verse": "तस्य सञ्जनयन्हर्षं कुरुवृद्ध: पितामह:। सिंहनादं विनद्योच्चै: शङ्खं दध्मौ प्रतापवान्॥ १२ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "The valiant grandfather, the eldest of the Kurus, loudly sounding a lion-roar, blew the conch to raise his (Duryodhana’s) spirits."
+          },
+          "tags": ["encouragement", "confidence"]
+        },
+        "13": {
+          "original_verse": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखा:। सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्॥ १३ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Just immediately after that, conchs and kettle-drums, and tabors, trumpets, and cow-horns blared forth. That sound became tumultuous."
+          },
+          "tags": ["war-cry", "battle"]
+        },
+        "14": {
+          "original_verse": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ। माधव: पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः॥ १४ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Then, Madhava (Krishna) and the son of Pandu (Arjuna), stationed in their magnificent chariot with white horses yoked to it, loudly blew their divine conchs."
+          },
+          "tags": ["war-cry", "divinity"]
+        },
+        "15": {
+          "original_verse": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जय:। पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदर:॥ १५ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Hrsīkeśa (Krishna) blew the conch Pāñcajanya; Dhanañjaya (Arjuna) blew the conch Devadatta; and Vrkodara (Bhima) of terrible deeds blew the great conch Paunḍra."
+          },
+          "tags": ["symbols", "strength"]
+        },
+        "16": {
+          "original_verse": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिर:। नकुल: सहदेवश्च सुघोषमणिपुष्पकौ॥ १६ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "King Yudhishtira, son of Kunti, blew the Anantavijaya; Nakula and Sahadeva, the Sughosa and the Manipuspaka (respectively)."
+          },
+          "tags": ["symbols", "unity"]
+        },
+        "17": {
+          "original_verse": "काश्यश्च परमेष्वास: शिखण्डी च महारथ:। धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजित:॥ १७ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "And the King of Kashi, wielding a great bow, and the great charioteer Shikhandi, Dhrishtadyumna, and Virata, and Satyaki, the unconquered."
+          },
+          "tags": ["warriors", "alliance"]
+        },
+        "18": {
+          "original_verse": "द्रुपदो द्रौपदेयाश्च सर्वश: पृथिवीपते। सौभद्रश्च महाबाहु: शङ्खान्दध्मु: पृथक्पृथक्॥ १८ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Drupada and the sons of Draupadi, and the son of Subhadra (Abhimanyu), the mighty-armed—all (of them) together, O King, blew their respective conchs."
+          },
+          "tags": ["unity", "strength"]
+        },
+        "19": {
+          "original_verse": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्। नभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन्॥ १९ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "That tremendous sound pierced the hearts of the associates of Dhritarashtra as it reverberated through the sky and the earth."
+          },
+          "tags": ["impact", "fear"]
+        },
+        "20": {
+          "original_verse": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वज:। प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डव:॥ २० ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "O King, thereafter, seeing Dhritarashtra’s men standing in their positions, when all the weapons were ready for action, the son of Pandu (Arjuna) who had the insignia of Hanumān on his chariot-flag, raising up his bow."
+          },
+          "tags": ["readiness", "symbolism"]
+        },
+        "21": {
+          "original_verse": "अर्जुन उवाच। सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत॥ २१ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "O Acyuta, please place my chariot between both the armies."
+          },
+          "tags": ["request", "strategy"]
+        },
+        "22": {
+          "original_verse": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्। कैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे॥ २२ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Until I survey these who stand intent on fighting, and those who are going to engage in battle with me in this impending war."
+          },
+          "tags": ["inspection", "preparation"]
+        },
+        "23": {
+          "original_verse": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागता:। धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षव:॥ २३ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "These who have assembled here and want to accomplish in the war what is dear to the perverted son of Dhritarashtra, I find them to be intent on fighting."
+          },
+          "tags": ["analysis", "enemies"]
+        },
+        "24": {
+          "original_verse": "सञ्जय उवाच। एवमुक्तो हृषीकेशो गुडाकेशेन भारत। सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्॥ २४ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "O scion of the line of Bharata (Dhritarashtra), Hrsīkeśa, on being told so by Guḍākeśa (Arjuna), placed the excellent chariot between the two armies."
+          },
+          "tags": ["action", "obedience"]
+        },
+        "25": {
+          "original_verse": "भीष्मद्रोणप्रमुखत: सर्वेषां च महीक्षिताम्। उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति॥ २५ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "In front of Bhishma and Drona as also all the rulers of the earth, he said, 'O Pārtha (Arjuna), see these assembled people of the Kuru dynasty.'"
+          },
+          "tags": ["observation", "symbolism"]
+        },
+        "26": {
+          "original_verse": "तत्रापश्यत्स्थितान्पार्थ: पितॄनथ पितामहान्। आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा॥ २६ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Then Pārtha (Arjuna) saw, marshaled among both the armies, (his) uncles as also grandfathers, teachers, maternal uncles, brothers (and cousins), sons, grandsons, as well as comrades and fathers-in-law and friends."
+          },
+          "tags": ["relationships", "compassion"]
+        },
+        "27": {
+          "original_verse": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोर्पि। तान्समीक्ष्य स कौन्तेय: सर्वान्बन्धूनवस्थितान्॥ २७ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "The son of Kuntī (Arjuna), seeing all those relatives arrayed (there), became overwhelmed by supreme compassion and said this sorrowfully."
+          },
+          "tags": ["emotions", "compassion"]
+        },
+        "28": {
+          "original_verse": "अर्जुन उवाच। दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्। सीदन्ति मम गात्राणि मुखं च परिशुष्यति॥ २८ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "O Krishna, seeing these relatives and friends who have assembled here with the intention of fighting, my limbs become languid and my mouth becomes completely dry."
+          },
+          "tags": ["fear", "compassion"]
+        },
+        "29": {
+          "original_verse": "वेपथुश्च शरीरे मे रोमहर्षश्च जायते। गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते॥ २९ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "And there is trembling in my body, and there is horripillation; the Gānḍīva (bow) slips from the hand and even the skin burns intensely."
+          },
+          "tags": ["emotions", "physical reaction"]
+        },
+        "30": {
+          "original_verse": "न च शक्नोम्यवस्थातुं भ्रमतीव च मे मन:। निमित्तानि च पश्यामि विपरीतानि केशव॥ ३० ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Moreover, O Keshava (Krishna), I am not able to stand firmly, and my mind seems to be whirling. And I notice the omens to be adverse."
+          },
+          "tags": ["fear", "doubt"]
+        },
+        "31": {
+          "original_verse": "न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे। न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च॥ ३१ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Besides, I do not see any good (to be derived) from killing my own people in battle. O Krishna, I do not hanker after victory, nor even a kingdom nor pleasures."
+          },
+          "tags": ["doubt", "compassion"]
+        },
+        "32": {
+          "original_verse": "किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा। येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च॥ ३२ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "O Govinda! What need do we have of a kingdom, or what (need) of enjoyments and livelihood? Those for whom kingdom, enjoyments, and pleasures are desired by us—teachers, uncles, sons, and so also grandfathers, maternal uncles, and fathers-in-law."
+          },
+          "tags": ["doubt", "self-reflection"]
+        },
+        "35": {
+          "original_verse": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन। अपि त्रैलोक्यराज्यस्य हेतो: किं नु महीकृते॥ ३५ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "O Madhusudan, even if I am killed, I do not want to kill these even for the sake of a kingdom extending over the three worlds; what to speak of doing so for the earth!"
+          },
+          "tags": ["compassion", "detachment"]
+        },
+        "36": {
+          "original_verse": "निहत्य धार्तराष्ट्रान्न: का प्रीति: स्याज्जनार्दन। पापमेवाश्रयेदस्मान्हत्वैतानाततायिन:॥ ३६ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "O Janārdana, what happiness shall we derive by killing the sons of Dhritarashtra? Sin alone will accrue to us by killing these felons."
+          },
+          "tags": ["ethics", "sin"]
+        },
+        "37": {
+          "original_verse": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्। स्वजनं हि कथं हत्वा सुखिन: स्याम माधव॥ ३७ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Therefore, it is not proper for us to kill the sons of Dhritarashtra who are our own relatives. For, O Madhava, how can we be happy by killing our kinsmen?"
+          },
+          "tags": ["duty", "relationships"]
+        },
+        "38": {
+          "original_verse": "यद्यप्येते न पश्यन्ति लोभोपहतचेतस:। कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्॥ ३८ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Although these people, whose hearts have become perverted by greed, do not see the evil arising from destroying the family and sin in hostility towards friends."
+          },
+          "tags": ["family", "greed"]
+        },
+        "39": {
+          "original_verse": "कथं न ज्ञेयमस्माभि: पापादस्मान्निवर्तितुम्। कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन॥ ३९ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Yet how can we, who clearly see the evil arising from destroying the family, remain unaware of (the need of) abstaining from this sin?"
+          },
+          "tags": ["duty", "awareness"]
+        },
+        "40": {
+          "original_verse": "कुलक्षये प्रणश्यन्ति कुलधर्मा: सनातना:। धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत॥ ४० ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "From the ruin of the family are totally destroyed the traditional rites and duties of the family. When rites and duties are destroyed, vice overpowers the entire family."
+          },
+          "tags": ["tradition", "vice"]
+        },
+        "41": {
+          "original_verse": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय:। स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर:॥ ४१ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "O Krishna, when vice predominates, the women of the family become corrupt. O descendant of the Vrishnis, when women become corrupted, it results in the intermingling of castes."
+          },
+          "tags": ["vice", "family"]
+        },
+        "42": {
+          "original_verse": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च। पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रिया:॥ ४२ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "And the intermingling in the family leads the ruiners of the family verily into hell. The forefathers of these fall down (into hell) because of being deprived of the offerings of rice-balls and water."
+          },
+          "tags": ["hell", "ancestors"]
+        },
+        "43": {
+          "original_verse": "दोषैरेतै: कुलघ्नानां वर्णसङ्करकारकै:। उत्साद्यन्ते जातिधर्मा: कुलधर्माश्च शाश्वता:॥ ४३ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Due to these misdeeds of the ruiners of the family, which cause intermingling of castes, the traditional rites and duties of the castes and families are destroyed."
+          },
+          "tags": ["tradition", "duty"]
+        },
+        "44": {
+          "original_verse": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन। नरकेऽनियतं वासो भवतीत्यनुशुश्रुम॥ ४४ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "O Janārdana, we have heard it said that living in hell becomes inevitable for those persons whose family duties get destroyed."
+          },
+          "tags": ["duty", "hell"]
+        },
+        "45": {
+          "original_verse": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्। यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यता:॥ ४५ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "What a pity that we have resolved to commit a great sin by being eager to kill our own kith and kin out of greed for the pleasures of a kingdom!"
+          },
+          "tags": ["regret", "greed"]
+        },
+        "46": {
+          "original_verse": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणय:। धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्॥ ४६ ॥",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "If, in this battle, the sons of Dhritarashtra armed with weapons kill me who am non-resistant and unarmed, that will be more beneficial to me."
+          },
+          "tags": ["sacrifice", "non-violence"]
+        },
+        "47": {
+          "original_verse": "सञ्जय उवाच। एवमुक्त्वार्जुन: सङ्ख्ये रथोपस्थ उपाविशत्। विसृज्य सशरं चापं शोकसंविग्नमानस:॥ ४७ ॥",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Having said so, Arjuna, with a mind afflicted with sorrow, sat down on the chariot in the midst of the battle, casting aside the bow along with the arrows."
+          },
+          "tags": ["sorrow", "resignation"]
+        }
+        }
+      }
+    }
+  }
+  
