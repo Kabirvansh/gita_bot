@@ -1,6 +1,6 @@
 import json
 
-file_name = 'chapter_1.json'
+file_name = 'chapter2.json'
 
 try:
     with open(file_name, 'r', encoding='utf-8') as file:
