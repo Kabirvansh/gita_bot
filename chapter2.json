@@ -1,6 +1,6 @@
 {
     "chapters": {
-       "2": {
+      "2": {
         "verses": {
           "2": {
             "original_verse": "The Blessed One said: How does this faint heart come to you in time of difficulty? This is not suitable for a noble one; it is not heavenly, and brings on disgrace.",
@@ -8,7 +8,10 @@
             "commentary": {
               "shankaracharya": "Krishna critiques Arjuna's despondency, emphasizing the importance of courage and action as befitting a warrior and a noble soul."
             },
-            "tags": ["duty", "courage"]
+            "tags": [
+              "duty",
+              "courage"
+            ]
           },
           "3": {
             "original_verse": "Do not become a cowardly eunuch, Son of Pritha; this is not fitting for you. Let go of this lowly weakness of the heart and stand up, Scorcher of the Enemy!",
@@ -16,1171 +19,1749 @@
             "commentary": {
               "shankaracharya": "Krishna urges Arjuna to cast off his weakness, invoking his responsibility and valor as a Kshatriya (warrior)."
             },
-            "tags": ["valor", "weakness", "responsibility"]
+            "tags": [
+              "valor",
+              "weakness",
+              "responsibility"
+            ]
           },
-
-        "11": {
-          "original_verse": "The Blessed One said: You have grieved for those who should not be grieved for, yet you speak words of wisdom. The wise do not grieve for the living or the dead.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna introduces the core teaching of detachment by emphasizing that grief arises from ignorance of the eternal nature of the self."
+          "11": {
+            "original_verse": "The Blessed One said: You have grieved for those who should not be grieved for, yet you speak words of wisdom. The wise do not grieve for the living or the dead.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna introduces the core teaching of detachment by emphasizing that grief arises from ignorance of the eternal nature of the self."
+            },
+            "tags": [
+              "grief",
+              "wisdom",
+              "detachment"
+            ]
           },
-          "tags": ["grief", "wisdom", "detachment"]
-        },
-        "12": {
-          "original_verse": "Never was there a time when I did not exist, nor you, nor these kings; and never will there be a time when we shall cease to exist.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna highlights the immortality of the soul, teaching that existence transcends birth and death."
+          "12": {
+            "original_verse": "Never was there a time when I did not exist, nor you, nor these kings; and never will there be a time when we shall cease to exist.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna highlights the immortality of the soul, teaching that existence transcends birth and death."
+            },
+            "tags": [
+              "eternity",
+              "soul",
+              "existence"
+            ]
           },
-          "tags": ["eternity", "soul", "existence"]
-        },
-        "13": {
-          "original_verse": "Just as the embodied self passes through childhood, youth, and old age, so also it passes into another body. The wise are not deluded by this.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna explains the transmigration of the soul, likening the changes of the body to the stages of life, to encourage detachment."
+          "13": {
+            "original_verse": "Just as the embodied self passes through childhood, youth, and old age, so also it passes into another body. The wise are not deluded by this.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna explains the transmigration of the soul, likening the changes of the body to the stages of life, to encourage detachment."
+            },
+            "tags": [
+              "soul",
+              "transmigration",
+              "wisdom"
+            ]
           },
-          "tags": ["soul", "transmigration", "wisdom"]
-        },
-        "14": {
-          "original_verse": "Contact of the senses with their objects produces cold and heat, pleasure and pain. They come and go and are impermanent. Endure them, O Bharata.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna advises equanimity in the face of sensory experiences, stressing their temporary nature."
+          "14": {
+            "original_verse": "Contact of the senses with their objects produces cold and heat, pleasure and pain. They come and go and are impermanent. Endure them, O Bharata.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna advises equanimity in the face of sensory experiences, stressing their temporary nature."
+            },
+            "tags": [
+              "senses",
+              "impermanence",
+              "equanimity"
+            ]
           },
-          "tags": ["senses", "impermanence", "equanimity"]
-        },
-        "15": {
-          "original_verse": "The person whom these do not disturb, O Chief among men, and who remains the same in pleasure and pain, is wise and fit for immortality.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna describes the state of equanimity as essential for spiritual liberation and the realization of immortality."
+          "15": {
+            "original_verse": "The person whom these do not disturb, O Chief among men, and who remains the same in pleasure and pain, is wise and fit for immortality.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna describes the state of equanimity as essential for spiritual liberation and the realization of immortality."
+            },
+            "tags": [
+              "equanimity",
+              "wisdom",
+              "immortality"
+            ]
           },
-          "tags": ["equanimity", "wisdom", "immortality"]
-        },
-        "16": {
-          "original_verse": "The unreal has no existence; the real never ceases to be. The seers of truth have concluded the nature of both.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna introduces the distinction between the eternal reality of the soul and the transience of the material world."
+          "16": {
+            "original_verse": "The unreal has no existence; the real never ceases to be. The seers of truth have concluded the nature of both.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna introduces the distinction between the eternal reality of the soul and the transience of the material world."
+            },
+            "tags": [
+              "reality",
+              "truth",
+              "soul"
+            ]
           },
-          "tags": ["reality", "truth", "soul"]
-        },
-        "17": {
-          "original_verse": "Know that to be indestructible by which all this is pervaded. None can destroy the imperishable self.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "The soul is described as eternal and indestructible, reinforcing the idea of its transcendence over physical destruction."
+          "17": {
+            "original_verse": "Know that to be indestructible by which all this is pervaded. None can destroy the imperishable self.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "The soul is described as eternal and indestructible, reinforcing the idea of its transcendence over physical destruction."
+            },
+            "tags": [
+              "soul",
+              "indestructibility",
+              "eternal"
+            ]
           },
-          "tags": ["soul", "indestructibility", "eternal"]
-        },
-        "18": {
-          "original_verse": "These bodies of the eternal, imperishable, and incomprehensible embodied self are said to have an end. Therefore, fight, O Bharata.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna contrasts the temporary nature of the body with the eternal self, encouraging Arjuna to perform his duty."
+          "18": {
+            "original_verse": "These bodies of the eternal, imperishable, and incomprehensible embodied self are said to have an end. Therefore, fight, O Bharata.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna contrasts the temporary nature of the body with the eternal self, encouraging Arjuna to perform his duty."
+            },
+            "tags": [
+              "body",
+              "self",
+              "duty"
+            ]
           },
-          "tags": ["body", "self", "duty"]
-        },
-        "19": {
-          "original_verse": "He who thinks that the self kills, and he who thinks that it is killed, are both ignorant. The self kills not, nor is it killed.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna emphasizes that the self is beyond action and unaffected by physical processes like killing or being killed."
+          "19": {
+            "original_verse": "He who thinks that the self kills, and he who thinks that it is killed, are both ignorant. The self kills not, nor is it killed.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna emphasizes that the self is beyond action and unaffected by physical processes like killing or being killed."
+            },
+            "tags": [
+              "ignorance",
+              "soul",
+              "nonviolence"
+            ]
           },
-          "tags": ["ignorance", "soul", "nonviolence"]
-        },
-        "20": {
-          "original_verse": "The self is never born, nor does it die. It does not come into existence, nor cease to be. It is unborn, eternal, changeless, and ancient; it is not killed when the body is killed.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna affirms the timeless nature of the self, untouched by the cycle of birth and death."
+          "20": {
+            "original_verse": "The self is never born, nor does it die. It does not come into existence, nor cease to be. It is unborn, eternal, changeless, and ancient; it is not killed when the body is killed.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna affirms the timeless nature of the self, untouched by the cycle of birth and death."
+            },
+            "tags": [
+              "soul",
+              "eternity",
+              "immortality"
+            ]
           },
-          "tags": ["soul", "eternity", "immortality"]
-        },
-        "21": {
-          "original_verse": "He who knows that the self is indestructible, eternal, unborn, and immutable—how can that person kill or cause to kill, O Partha?",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna questions the logic of Arjuna’s grief, pointing out that the eternal self cannot be harmed."
+          "21": {
+            "original_verse": "He who knows that the self is indestructible, eternal, unborn, and immutable—how can that person kill or cause to kill, O Partha?",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna questions the logic of Arjuna’s grief, pointing out that the eternal self cannot be harmed."
+            },
+            "tags": [
+              "logic",
+              "eternity",
+              "self"
+            ]
           },
-          "tags": ["logic", "eternity", "self"]
-        },
-        "22": {
-          "original_verse": "Just as a person casts off worn-out garments and puts on new ones, so the embodied self casts off worn-out bodies and enters others that are new.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna uses the metaphor of changing garments to illustrate the process of reincarnation."
+          "22": {
+            "original_verse": "Just as a person casts off worn-out garments and puts on new ones, so the embodied self casts off worn-out bodies and enters others that are new.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna uses the metaphor of changing garments to illustrate the process of reincarnation."
+            },
+            "tags": [
+              "reincarnation",
+              "soul",
+              "metaphor"
+            ]
           },
-          "tags": ["reincarnation", "soul", "metaphor"]
-        },
-        "23": {
-          "original_verse": "Weapons do not cut it, fire does not burn it, water does not wet it, wind does not dry it.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "The self is described as invulnerable to physical forces, highlighting its transcendental nature."
+          "23": {
+            "original_verse": "Weapons do not cut it, fire does not burn it, water does not wet it, wind does not dry it.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "The self is described as invulnerable to physical forces, highlighting its transcendental nature."
+            },
+            "tags": [
+              "invulnerability",
+              "soul",
+              "transcendence"
+            ]
           },
-          "tags": ["invulnerability", "soul", "transcendence"]
-        },
-        "24": {
-          "original_verse": "It cannot be cut, burned, wetted, or dried. It is eternal, all-pervading, stable, immovable, and timeless.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna emphasizes the unchanging, eternal nature of the self, which pervades all existence."
+          "24": {
+            "original_verse": "It cannot be cut, burned, wetted, or dried. It is eternal, all-pervading, stable, immovable, and timeless.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna emphasizes the unchanging, eternal nature of the self, which pervades all existence."
+            },
+            "tags": [
+              "eternity",
+              "self",
+              "stability"
+            ]
           },
-          "tags": ["eternity", "self", "stability"]
-        },
-        "25": {
-          "original_verse": "It is said to be unmanifest, unthinkable, and unchanging. Therefore, knowing it to be such, you should not grieve.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "The self is beyond perception and thought; understanding this truth liberates one from grief."
+          "25": {
+            "original_verse": "It is said to be unmanifest, unthinkable, and unchanging. Therefore, knowing it to be such, you should not grieve.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "The self is beyond perception and thought; understanding this truth liberates one from grief."
+            },
+            "tags": [
+              "self",
+              "grief",
+              "truth"
+            ]
           },
-          "tags": ["self", "grief", "truth"]
-        },
-        "26": {
-          "original_verse": "But if you think of it as being perpetually born and perpetually dying, even then, O Mighty-armed, you should not grieve.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Even within the framework of mortality, grief is unwarranted as life is a cycle of continuity."
+          "26": {
+            "original_verse": "But if you think of it as being perpetually born and perpetually dying, even then, O Mighty-armed, you should not grieve.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Even within the framework of mortality, grief is unwarranted as life is a cycle of continuity."
+            },
+            "tags": [
+              "mortality",
+              "grief",
+              "continuity"
+            ]
           },
-          "tags": ["mortality", "grief", "continuity"]
-        },
-        "27": {
-          "original_verse": "For certain is death for the born, and certain is birth for the dead. Therefore, you should not grieve over the inevitable.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna points out the inevitability of the life-death cycle, urging detachment and acceptance."
+          "27": {
+            "original_verse": "For certain is death for the born, and certain is birth for the dead. Therefore, you should not grieve over the inevitable.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna points out the inevitability of the life-death cycle, urging detachment and acceptance."
+            },
+            "tags": [
+              "inevitability",
+              "detachment",
+              "acceptance"
+            ]
           },
-          "tags": ["inevitability", "detachment", "acceptance"]
-        },
-        "28": {
-          "original_verse": "Beings are unmanifest in their beginning, manifest in their middle state, and unmanifest again in their end, O Bharata. What is there to grieve over?",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna explains that existence is cyclical, with appearances being transient phases, and hence grieving over such impermanent states is unnecessary."
+          "28": {
+            "original_verse": "Beings are unmanifest in their beginning, manifest in their middle state, and unmanifest again in their end, O Bharata. What is there to grieve over?",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna explains that existence is cyclical, with appearances being transient phases, and hence grieving over such impermanent states is unnecessary."
+            },
+            "tags": [
+              "cyclic existence",
+              "transience",
+              "grief"
+            ]
           },
-          "tags": ["cyclic existence", "transience", "grief"]
-        },
-        "29": {
-          "original_verse": "Some look upon the self as a marvel, some speak of it as a marvel, some hear of it as a marvel, and yet others, even after hearing, do not understand it at all.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "The self is described as an enigmatic and profound truth, appreciated fully only by a few, while most fail to grasp its essence."
+          "29": {
+            "original_verse": "Some look upon the self as a marvel, some speak of it as a marvel, some hear of it as a marvel, and yet others, even after hearing, do not understand it at all.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "The self is described as an enigmatic and profound truth, appreciated fully only by a few, while most fail to grasp its essence."
+            },
+            "tags": [
+              "self",
+              "marvel",
+              "understanding"
+            ]
           },
-          "tags": ["self", "marvel", "understanding"]
-        },
-        "30": {
-          "original_verse": "The self that dwells in all bodies can never be slain, O Bharata. Therefore, you should not grieve for any being.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna reiterates the indestructibility of the self, urging Arjuna to abandon sorrow and act according to his duty."
+          "30": {
+            "original_verse": "The self that dwells in all bodies can never be slain, O Bharata. Therefore, you should not grieve for any being.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna reiterates the indestructibility of the self, urging Arjuna to abandon sorrow and act according to his duty."
+            },
+            "tags": [
+              "self",
+              "indestructibility",
+              "grief"
+            ]
           },
-          "tags": ["self", "indestructibility", "grief"]
-        },
-        "31": {
-          "original_verse": "Further, looking at your own dharma, you should not waver, for there is nothing higher for a Kshatriya than a righteous war.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna reminds Arjuna of his duty as a warrior, emphasizing that fighting in a righteous war aligns with his dharma."
+          "31": {
+            "original_verse": "Further, looking at your own dharma, you should not waver, for there is nothing higher for a Kshatriya than a righteous war.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna reminds Arjuna of his duty as a warrior, emphasizing that fighting in a righteous war aligns with his dharma."
+            },
+            "tags": [
+              "dharma",
+              "duty",
+              "war"
+            ]
           },
-          "tags": ["dharma", "duty", "war"]
-        },
-        "32": {
-          "original_verse": "Fortunate are the Kshatriyas who are called to fight in such a battle, which comes unsought as an open door to heaven.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna presents the battle as an opportunity for glory and spiritual elevation, emphasizing its rare and noble nature."
+          "32": {
+            "original_verse": "Fortunate are the Kshatriyas who are called to fight in such a battle, which comes unsought as an open door to heaven.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna presents the battle as an opportunity for glory and spiritual elevation, emphasizing its rare and noble nature."
+            },
+            "tags": [
+              "duty",
+              "opportunity",
+              "glory"
+            ]
           },
-          "tags": ["duty", "opportunity", "glory"]
-        },
-        "33": {
-          "original_verse": "But if you will not fight this righteous battle, then, having abandoned your dharma and honor, you will incur sin.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna warns Arjuna of the spiritual and moral consequences of abandoning his duty, framing inaction as sinful."
+          "33": {
+            "original_verse": "But if you will not fight this righteous battle, then, having abandoned your dharma and honor, you will incur sin.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna warns Arjuna of the spiritual and moral consequences of abandoning his duty, framing inaction as sinful."
+            },
+            "tags": [
+              "dharma",
+              "sin",
+              "consequences"
+            ]
           },
-          "tags": ["dharma", "sin", "consequences"]
-        },
-        "34": {
-          "original_verse": "People will recount your everlasting dishonor, and for a man of honor, dishonor is worse than death.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna appeals to Arjuna’s sense of honor, emphasizing the disgrace and shame that inaction would bring."
+          "34": {
+            "original_verse": "People will recount your everlasting dishonor, and for a man of honor, dishonor is worse than death.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna appeals to Arjuna’s sense of honor, emphasizing the disgrace and shame that inaction would bring."
+            },
+            "tags": [
+              "honor",
+              "disgrace",
+              "duty"
+            ]
           },
-          "tags": ["honor", "disgrace", "duty"]
-        },
-        "35": {
-          "original_verse": "The great warriors will think that you have withdrawn from the battle out of fear, and those who once held you in high esteem will speak of you with contempt.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna underscores the perception of cowardice and the loss of respect that would follow Arjuna’s retreat."
+          "35": {
+            "original_verse": "The great warriors will think that you have withdrawn from the battle out of fear, and those who once held you in high esteem will speak of you with contempt.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna underscores the perception of cowardice and the loss of respect that would follow Arjuna’s retreat."
+            },
+            "tags": [
+              "perception",
+              "cowardice",
+              "respect"
+            ]
           },
-          "tags": ["perception", "cowardice", "respect"]
-        },
-        "36": {
-          "original_verse": "Your enemies will slander you in unseemly words and deride your strength. What could be more painful than that?",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna appeals to Arjuna’s warrior pride, warning him of the humiliation and mockery he would face from his enemies."
+          "36": {
+            "original_verse": "Your enemies will slander you in unseemly words and deride your strength. What could be more painful than that?",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna appeals to Arjuna’s warrior pride, warning him of the humiliation and mockery he would face from his enemies."
+            },
+            "tags": [
+              "humiliation",
+              "pride",
+              "enemies"
+            ]
           },
-          "tags": ["humiliation", "pride", "enemies"]
-        },
-        "37": {
-          "original_verse": "If you are killed, you will attain heaven; if you are victorious, you will enjoy the earth. Therefore, arise, O son of Kunti, resolved to fight!",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna motivates Arjuna by framing both outcomes—death or victory—as beneficial and urging him to act with resolve."
+          "37": {
+            "original_verse": "If you are killed, you will attain heaven; if you are victorious, you will enjoy the earth. Therefore, arise, O son of Kunti, resolved to fight!",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna motivates Arjuna by framing both outcomes—death or victory—as beneficial and urging him to act with resolve."
+            },
+            "tags": [
+              "resolve",
+              "motivation",
+              "action"
+            ]
           },
-          "tags": ["resolve", "motivation", "action"]
-        },
-        "38": {
-          "original_verse": "Treating alike pleasure and pain, gain and loss, victory and defeat, then prepare for battle. Thus you will not incur sin.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna introduces the concept of equanimity, emphasizing that detachment from outcomes ensures freedom from sin."
+          "38": {
+            "original_verse": "Treating alike pleasure and pain, gain and loss, victory and defeat, then prepare for battle. Thus you will not incur sin.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna introduces the concept of equanimity, emphasizing that detachment from outcomes ensures freedom from sin."
+            },
+            "tags": [
+              "equanimity",
+              "detachment",
+              "sin"
+            ]
           },
-          "tags": ["equanimity", "detachment", "sin"]
-        },
-        "39": {
-          "original_verse": "This wisdom has been taught to you from the perspective of Sankhya. Now listen to it from the perspective of yoga, which frees one from the bondage of action.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna transitions to explaining karma yoga, highlighting its role in transcending the limitations of action and attachment."
+          "39": {
+            "original_verse": "This wisdom has been taught to you from the perspective of Sankhya. Now listen to it from the perspective of yoga, which frees one from the bondage of action.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna transitions to explaining karma yoga, highlighting its role in transcending the limitations of action and attachment."
+            },
+            "tags": [
+              "wisdom",
+              "yoga",
+              "karma"
+            ]
           },
-          "tags": ["wisdom", "yoga", "karma"]
-        },
-        "40": {
-          "original_verse": "In this path, no effort is ever wasted, and no failure arises. Even a little of this practice protects one from great fear.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna emphasizes the infallibility of the yoga path, assuring Arjuna of its lasting benefits and protective nature."
+          "40": {
+            "original_verse": "In this path, no effort is ever wasted, and no failure arises. Even a little of this practice protects one from great fear.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna emphasizes the infallibility of the yoga path, assuring Arjuna of its lasting benefits and protective nature."
+            },
+            "tags": [
+              "yoga",
+              "effort",
+              "fearlessness"
+            ]
           },
-          "tags": ["yoga", "effort", "fearlessness"]
-        },
-        "41": {
-          "original_verse": "In this, O Joy of the Kurus, there is a single, unwavering conviction. The thoughts of the irresolute are many-branched and endless.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna emphasizes the importance of a resolute and focused mind in the path of knowledge and action, contrasting it with the scattered nature of the irresolute."
+          "41": {
+            "original_verse": "In this, O Joy of the Kurus, there is a single, unwavering conviction. The thoughts of the irresolute are many-branched and endless.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna emphasizes the importance of a resolute and focused mind in the path of knowledge and action, contrasting it with the scattered nature of the irresolute."
+            },
+            "tags": [
+              "focus",
+              "resolution",
+              "irresolution"
+            ]
           },
-          "tags": ["focus", "resolution", "irresolution"]
-        },
-        "42": {
-          "original_verse": "O Partha, the unwise, enchanted by the flowery words of the Vedas, and attached to desires, consider heaven as the supreme goal.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna criticizes those who are preoccupied with material rewards and superficial interpretations of the Vedas, neglecting deeper spiritual truths."
+          "42": {
+            "original_verse": "O Partha, the unwise, enchanted by the flowery words of the Vedas, and attached to desires, consider heaven as the supreme goal.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna criticizes those who are preoccupied with material rewards and superficial interpretations of the Vedas, neglecting deeper spiritual truths."
+            },
+            "tags": [
+              "materialism",
+              "desires",
+              "spiritual ignorance"
+            ]
           },
-          "tags": ["materialism", "desires", "spiritual ignorance"]
-        },
-        "43": {
-          "original_verse": "They are full of desire and intent on heaven; they utter speech that leads to actions that yield rebirth as the fruit of their works and are full of specific rituals.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Such individuals are bound by rituals and desire-driven actions, which perpetuate the cycle of birth and death, preventing liberation."
+          "43": {
+            "original_verse": "They are full of desire and intent on heaven; they utter speech that leads to actions that yield rebirth as the fruit of their works and are full of specific rituals.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Such individuals are bound by rituals and desire-driven actions, which perpetuate the cycle of birth and death, preventing liberation."
+            },
+            "tags": [
+              "desires",
+              "rituals",
+              "rebirth"
+            ]
           },
-          "tags": ["desires", "rituals", "rebirth"]
-        },
-        "44": {
-          "original_verse": "The resolute wisdom of those who are too attached to enjoyment and power is not established in the Self, O Arjuna.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Attachment to power and pleasure obstructs the realization of the Self, leading to spiritual stagnation."
+          "44": {
+            "original_verse": "The resolute wisdom of those who are too attached to enjoyment and power is not established in the Self, O Arjuna.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Attachment to power and pleasure obstructs the realization of the Self, leading to spiritual stagnation."
+            },
+            "tags": [
+              "attachment",
+              "power",
+              "wisdom"
+            ]
           },
-          "tags": ["attachment", "power", "wisdom"]
-        },
-        "45": {
-          "original_verse": "The Vedas deal with the three qualities of nature. Be free from these qualities, O Arjuna, and free from duality, ever firm in purity, independent of possessions, and possessed of the Self.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna urges Arjuna to transcend the gunas (qualities) and dualities of nature, focusing instead on inner purity and self-realization."
+          "45": {
+            "original_verse": "The Vedas deal with the three qualities of nature. Be free from these qualities, O Arjuna, and free from duality, ever firm in purity, independent of possessions, and possessed of the Self.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna urges Arjuna to transcend the gunas (qualities) and dualities of nature, focusing instead on inner purity and self-realization."
+            },
+            "tags": [
+              "gunas",
+              "duality",
+              "self-realization"
+            ]
           },
-          "tags": ["gunas", "duality", "self-realization"]
-        },
-        "46": {
-          "original_verse": "To the knower of the Self, the Vedas are as useful as a small reservoir of water in a flood.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna conveys that for one established in self-knowledge, the rituals and instructions of the Vedas lose their significance, akin to a small reservoir being redundant during a flood."
+          "46": {
+            "original_verse": "To the knower of the Self, the Vedas are as useful as a small reservoir of water in a flood.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna conveys that for one established in self-knowledge, the rituals and instructions of the Vedas lose their significance, akin to a small reservoir being redundant during a flood."
+            },
+            "tags": [
+              "self-knowledge",
+              "rituals",
+              "realization"
+            ]
           },
-          "tags": ["self-knowledge", "rituals", "realization"]
-        },
-        "47": {
-          "original_verse": "Your right is to perform action alone, never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna introduces the concept of Nishkama Karma (selfless action), advising Arjuna to focus on duty without attachment to outcomes."
+          "47": {
+            "original_verse": "Your right is to perform action alone, never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna introduces the concept of Nishkama Karma (selfless action), advising Arjuna to focus on duty without attachment to outcomes."
+            },
+            "tags": [
+              "selfless action",
+              "duty",
+              "detachment"
+            ]
           },
-          "tags": ["selfless action", "duty", "detachment"]
-        },
-        "48": {
-          "original_verse": "Remaining steadfast in yoga, O Arjuna, perform actions, abandoning attachment and remaining even-minded in success and failure. This equanimity is called yoga.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna defines yoga as equanimity in all circumstances, achieved through detachment and focused action."
+          "48": {
+            "original_verse": "Remaining steadfast in yoga, O Arjuna, perform actions, abandoning attachment and remaining even-minded in success and failure. This equanimity is called yoga.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna defines yoga as equanimity in all circumstances, achieved through detachment and focused action."
+            },
+            "tags": [
+              "yoga",
+              "equanimity",
+              "detachment"
+            ]
           },
-          "tags": ["yoga", "equanimity", "detachment"]
-        },
-        "49": {
-          "original_verse": "Action is far inferior to the yoga of wisdom, O Arjuna. Take refuge in wisdom. Those who are motivated by fruits are miserable.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna extols the superiority of wisdom over mere ritualistic actions, urging Arjuna to embrace higher knowledge."
+          "49": {
+            "original_verse": "Action is far inferior to the yoga of wisdom, O Arjuna. Take refuge in wisdom. Those who are motivated by fruits are miserable.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna extols the superiority of wisdom over mere ritualistic actions, urging Arjuna to embrace higher knowledge."
+            },
+            "tags": [
+              "wisdom",
+              "action",
+              "detachment"
+            ]
           },
-          "tags": ["wisdom", "action", "detachment"]
-        },
-        "50": {
-          "original_verse": "One who is steadfast in wisdom casts off both good and evil deeds here. Therefore, strive for yoga. Yoga is skill in action.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna describes yoga as skillful and detached action that transcends the duality of good and bad karma."
+          "50": {
+            "original_verse": "One who is steadfast in wisdom casts off both good and evil deeds here. Therefore, strive for yoga. Yoga is skill in action.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna describes yoga as skillful and detached action that transcends the duality of good and bad karma."
+            },
+            "tags": [
+              "karma",
+              "yoga",
+              "skill"
+            ]
           },
-          "tags": ["karma", "yoga", "skill"]
-        },
-        "51": {
-          "original_verse": "The wise, steadfast in yoga, renounce the fruits of action. Freed from the bonds of birth, they reach a state beyond suffering.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna highlights the liberation achieved through yoga, which frees one from rebirth and leads to ultimate bliss."
+          "51": {
+            "original_verse": "The wise, steadfast in yoga, renounce the fruits of action. Freed from the bonds of birth, they reach a state beyond suffering.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna highlights the liberation achieved through yoga, which frees one from rebirth and leads to ultimate bliss."
+            },
+            "tags": [
+              "liberation",
+              "yoga",
+              "freedom"
+            ]
           },
-          "tags": ["liberation", "yoga", "freedom"]
-        },
-        "52": {
-          "original_verse": "When your intellect crosses beyond the mire of delusion, you shall become indifferent to what has been heard and what is yet to be heard.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna explains that liberation from delusion leads to freedom from dependence on external teachings and rituals, as self-knowledge becomes paramount."
+          "52": {
+            "original_verse": "When your intellect crosses beyond the mire of delusion, you shall become indifferent to what has been heard and what is yet to be heard.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna explains that liberation from delusion leads to freedom from dependence on external teachings and rituals, as self-knowledge becomes paramount."
+            },
+            "tags": [
+              "intellect",
+              "delusion",
+              "freedom"
+            ]
           },
-          "tags": ["intellect", "delusion", "freedom"]
-        },
-        "53": {
-          "original_verse": "When your intellect, bewildered by the Vedas, becomes unmoving and steady in contemplation, then you shall attain yoga.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna points out that unwavering focus and contemplation lead to the realization of yoga, transcending confusion caused by ritualistic interpretations."
+          "53": {
+            "original_verse": "When your intellect, bewildered by the Vedas, becomes unmoving and steady in contemplation, then you shall attain yoga.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna points out that unwavering focus and contemplation lead to the realization of yoga, transcending confusion caused by ritualistic interpretations."
+            },
+            "tags": [
+              "contemplation",
+              "yoga",
+              "focus"
+            ]
           },
-          "tags": ["contemplation", "yoga", "focus"]
-        },
-       
-        "55": {
-          "original_verse": "The Blessed One said: When a man gives up all desires of the mind, O Partha, and is satisfied in the Self alone, then he is said to be steady in wisdom.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna defines the wise as those who have renounced desires and found contentment within the Self, embodying inner fulfillment."
+          "55": {
+            "original_verse": "The Blessed One said: When a man gives up all desires of the mind, O Partha, and is satisfied in the Self alone, then he is said to be steady in wisdom.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna defines the wise as those who have renounced desires and found contentment within the Self, embodying inner fulfillment."
+            },
+            "tags": [
+              "wisdom",
+              "self-contentment",
+              "desirelessness"
+            ]
           },
-          "tags": ["wisdom", "self-contentment", "desirelessness"]
-        },
-        "56": {
-          "original_verse": "He whose mind is not shaken by adversity, who does not hanker after pleasures, and who is free from attachment, fear, and anger, is called a sage of steady wisdom.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna highlights equanimity and freedom from negative emotions as key attributes of the steadfast sage."
+          "56": {
+            "original_verse": "He whose mind is not shaken by adversity, who does not hanker after pleasures, and who is free from attachment, fear, and anger, is called a sage of steady wisdom.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna highlights equanimity and freedom from negative emotions as key attributes of the steadfast sage."
+            },
+            "tags": [
+              "steadiness",
+              "equanimity",
+              "wisdom"
+            ]
           },
-          "tags": ["steadiness", "equanimity", "wisdom"]
-        },
-        "57": {
-          "original_verse": "He who is everywhere without attachment, on meeting with anything good or bad, who neither rejoices nor recoils, his wisdom is established.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna describes the sage as someone unaffected by external circumstances, maintaining detachment and inner balance."
+          "57": {
+            "original_verse": "He who is everywhere without attachment, on meeting with anything good or bad, who neither rejoices nor recoils, his wisdom is established.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna describes the sage as someone unaffected by external circumstances, maintaining detachment and inner balance."
+            },
+            "tags": [
+              "detachment",
+              "balance",
+              "wisdom"
+            ]
           },
-          "tags": ["detachment", "balance", "wisdom"]
-        },
-        "58": {
-          "original_verse": "When, like a tortoise drawing in its limbs, he withdraws his senses from the objects of sense, then his wisdom is established.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna uses the tortoise metaphor to illustrate the wise person's ability to withdraw from sensory distractions."
+          "58": {
+            "original_verse": "When, like a tortoise drawing in its limbs, he withdraws his senses from the objects of sense, then his wisdom is established.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna uses the tortoise metaphor to illustrate the wise person's ability to withdraw from sensory distractions."
+            },
+            "tags": [
+              "sense-control",
+              "wisdom",
+              "detachment"
+            ]
           },
-          "tags": ["sense-control", "wisdom", "detachment"]
-        },
-        "59": {
-          "original_verse": "The objects of sense turn away from the abstinent man, leaving the longing behind; but his longing also turns away upon seeing the Supreme.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna explains that desire subsides only when one experiences the higher joy of realizing the Supreme."
+          "59": {
+            "original_verse": "The objects of sense turn away from the abstinent man, leaving the longing behind; but his longing also turns away upon seeing the Supreme.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna explains that desire subsides only when one experiences the higher joy of realizing the Supreme."
+            },
+            "tags": [
+              "desire",
+              "abstinence",
+              "realization"
+            ]
           },
-          "tags": ["desire", "abstinence", "realization"]
-        },
-        "60": {
-          "original_verse": "The turbulent senses, O son of Kunti, violently carry away the mind of even a wise man striving for perfection.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna warns about the power of the senses and the need for constant vigilance, even for those on the path of wisdom."
+          "60": {
+            "original_verse": "The turbulent senses, O son of Kunti, violently carry away the mind of even a wise man striving for perfection.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna warns about the power of the senses and the need for constant vigilance, even for those on the path of wisdom."
+            },
+            "tags": [
+              "senses",
+              "vigilance",
+              "mind-control"
+            ]
           },
-          "tags": ["senses", "vigilance", "mind-control"]
-        },
-        "61": {
-          "original_verse": "Restraining them all, he should remain steadfast, intent on Me. His wisdom is steady whose senses are under control.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna emphasizes the importance of sense control and devotion to achieve steadiness of wisdom."
+          "61": {
+            "original_verse": "Restraining them all, he should remain steadfast, intent on Me. His wisdom is steady whose senses are under control.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna emphasizes the importance of sense control and devotion to achieve steadiness of wisdom."
+            },
+            "tags": [
+              "sense-control",
+              "devotion",
+              "wisdom"
+            ]
           },
-          "tags": ["sense-control", "devotion", "wisdom"]
-        },
-        "62": {
-          "original_verse": "When a man dwells on the objects of sense, attachment to them arises; from attachment desire is born, and from desire anger is born.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna outlines the chain reaction of attachment leading to desire, anger, and ultimately downfall."
+          "62": {
+            "original_verse": "When a man dwells on the objects of sense, attachment to them arises; from attachment desire is born, and from desire anger is born.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna outlines the chain reaction of attachment leading to desire, anger, and ultimately downfall."
+            },
+            "tags": [
+              "attachment",
+              "desire",
+              "anger"
+            ]
           },
-          "tags": ["attachment", "desire", "anger"]
-        },
-        "63": {
-          "original_verse": "From anger comes delusion; from delusion, loss of memory; from loss of memory, destruction of intellect; and from the destruction of intellect, he perishes.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna warns against anger, detailing how it leads to delusion and the eventual collapse of one's reasoning and progress."
+          "63": {
+            "original_verse": "From anger comes delusion; from delusion, loss of memory; from loss of memory, destruction of intellect; and from the destruction of intellect, he perishes.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna warns against anger, detailing how it leads to delusion and the eventual collapse of one's reasoning and progress."
+            },
+            "tags": [
+              "anger",
+              "delusion",
+              "intellect"
+            ]
           },
-          "tags": ["anger", "delusion", "intellect"]
-        },
-        "64": {
-          "original_verse": "But the self-controlled man, moving among objects with senses under restraint and free from attachment and aversion, attains peace.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna describes the state of peace attained through self-control and detachment from sensory pleasures."
+          "64": {
+            "original_verse": "But the self-controlled man, moving among objects with senses under restraint and free from attachment and aversion, attains peace.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna describes the state of peace attained through self-control and detachment from sensory pleasures."
+            },
+            "tags": [
+              "self-control",
+              "detachment",
+              "peace"
+            ]
           },
-          "tags": ["self-control", "detachment", "peace"]
-        },
-        "65": {
-          "original_verse": "In that peace, all sorrow is destroyed; for the intellect of the tranquil-minded man soon becomes steady.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna highlights the transformative power of peace in stabilizing the mind and removing sorrow."
+          "65": {
+            "original_verse": "In that peace, all sorrow is destroyed; for the intellect of the tranquil-minded man soon becomes steady.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna highlights the transformative power of peace in stabilizing the mind and removing sorrow."
+            },
+            "tags": [
+              "peace",
+              "sorrow",
+              "steadiness"
+            ]
           },
-          "tags": ["peace", "sorrow", "steadiness"]
-        },
-        "66": {
-          "original_verse": "There is no wisdom in the unsteady; nor is there meditation in him. To the unmeditative there is no peace, and to the peaceless, how can there be happiness?",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna emphasizes the necessity of steadiness, meditation, and peace as prerequisites for true happiness."
+          "66": {
+            "original_verse": "There is no wisdom in the unsteady; nor is there meditation in him. To the unmeditative there is no peace, and to the peaceless, how can there be happiness?",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna emphasizes the necessity of steadiness, meditation, and peace as prerequisites for true happiness."
+            },
+            "tags": [
+              "wisdom",
+              "meditation",
+              "happiness"
+            ]
           },
-          "tags": ["wisdom", "meditation", "happiness"]
-        },
-        "67": {
-          "original_verse": "When the mind runs after the wandering senses, it carries away one’s wisdom as the wind carries away a boat on the water.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna warns against the dangers of an uncontrolled mind and senses, likening it to a boat swept away by the wind."
+          "67": {
+            "original_verse": "When the mind runs after the wandering senses, it carries away one’s wisdom as the wind carries away a boat on the water.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna warns against the dangers of an uncontrolled mind and senses, likening it to a boat swept away by the wind."
+            },
+            "tags": [
+              "mind-control",
+              "senses",
+              "wisdom"
+            ]
           },
-          "tags": ["mind-control", "senses", "wisdom"]
-        },
-        "68": {
-          "original_verse": "Therefore, O mighty-armed, his wisdom is steady whose senses are completely restrained from the objects of sense.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna reinforces that sense control is essential for attaining steady wisdom and self-realization."
+          "68": {
+            "original_verse": "Therefore, O mighty-armed, his wisdom is steady whose senses are completely restrained from the objects of sense.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna reinforces that sense control is essential for attaining steady wisdom and self-realization."
+            },
+            "tags": [
+              "sense-control",
+              "wisdom",
+              "restraint"
+            ]
           },
-          "tags": ["sense-control", "wisdom", "restraint"]
-        },
-        "69": {
-          "original_verse": "What is night for all beings is the time of waking for the self-controlled; and the time of waking for all beings is night for the sage who sees.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna uses this paradox to describe the enlightened state, where the wise perceive reality differently from ordinary people."
+          "69": {
+            "original_verse": "What is night for all beings is the time of waking for the self-controlled; and the time of waking for all beings is night for the sage who sees.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna uses this paradox to describe the enlightened state, where the wise perceive reality differently from ordinary people."
+            },
+            "tags": [
+              "paradox",
+              "wisdom",
+              "enlightenment"
+            ]
           },
-          "tags": ["paradox", "wisdom", "enlightenment"]
-        },
-        "70": {
-          "original_verse": "He attains peace into whom all desires enter as waters enter the ocean, which, filled from all sides, remains unmoved—but not the desirer of desires.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna compares the wise to an ocean that remains steady despite the inflow of desires, highlighting detachment as the key to peace."
+          "70": {
+            "original_verse": "He attains peace into whom all desires enter as waters enter the ocean, which, filled from all sides, remains unmoved—but not the desirer of desires.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna compares the wise to an ocean that remains steady despite the inflow of desires, highlighting detachment as the key to peace."
+            },
+            "tags": [
+              "peace",
+              "detachment",
+              "desires"
+            ]
           },
-          "tags": ["peace", "detachment", "desires"]
-        },
-        "71": {
-          "original_verse": "That man attains peace who, abandoning all desires, moves about without longing, without the sense of 'I' and 'mine.'",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna describes the state of liberation as one free from desires and ego, living in harmony with the Self."
+          "71": {
+            "original_verse": "That man attains peace who, abandoning all desires, moves about without longing, without the sense of 'I' and 'mine.'",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna describes the state of liberation as one free from desires and ego, living in harmony with the Self."
+            },
+            "tags": [
+              "liberation",
+              "desires",
+              "ego"
+            ]
           },
-          "tags": ["liberation", "desires", "ego"]
-        },
-        "72": {
-          "original_verse": "This is the divine state, O son of Pritha. Attaining this, one is not deluded. Being established in this even at the end, one attains Brahman.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Krishna concludes by describing the ultimate state of enlightenment, where one merges with Brahman and transcends delusion."
-          },
-          "tags": ["enlightenment", "Brahman", "transcendence"]
+          "72": {
+            "original_verse": "This is the divine state, O son of Pritha. Attaining this, one is not deluded. Being established in this even at the end, one attains Brahman.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Krishna concludes by describing the ultimate state of enlightenment, where one merges with Brahman and transcends delusion."
+            },
+            "tags": [
+              "enlightenment",
+              "Brahman",
+              "transcendence"
+            ]
+          }
         }
-  "chapters": {
-    "3": {
-     "verses": {
-       "3": {
-          "original_verse": "Blameless One, in this world, a double foundation was taught by me in ancient times: the yoga of knowledge for those who follow samkhya, and the yoga of action for those who practise yoga.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Introduces two paths: knowledge (jnana) and action (karma)."
+      },
+      "3": {
+        "verses": {
+          "3": {
+            "original_verse": "Blameless One, in this world, a double foundation was taught by me in ancient times: the yoga of knowledge for those who follow samkhya, and the yoga of action for those who practise yoga.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Introduces two paths: knowledge (jnana) and action (karma)."
+            },
+            "tags": [
+              "dual-paths",
+              "knowledge",
+              "action"
+            ]
           },
-          "tags": ["dual-paths", "knowledge", "action"]
-        },
-       "4": {
-          "original_verse": "One does not reach the state beyond action by abstaining from actions; nor does one reach fulfilment only by renunciation.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Emphasizes the importance of action for spiritual progress."
+          "4": {
+            "original_verse": "One does not reach the state beyond action by abstaining from actions; nor does one reach fulfilment only by renunciation.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Emphasizes the importance of action for spiritual progress."
+            },
+            "tags": [
+              "action",
+              "renunciation",
+              "fulfillment"
+            ]
           },
-          "tags": ["action", "renunciation", "fulfillment"]
-        },
-        "5": {
-          "original_verse": "No one, not even for one moment, ever stands without acting; by virtue of the gunas born in nature, without willing it, everyone is made to perform action.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Describes the inevitability of action driven by nature's gunas."
+          "5": {
+            "original_verse": "No one, not even for one moment, ever stands without acting; by virtue of the gunas born in nature, without willing it, everyone is made to perform action.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Describes the inevitability of action driven by nature's gunas."
+            },
+            "tags": [
+              "gunas",
+              "inevitability",
+              "action"
+            ]
           },
-          "tags": ["gunas", "inevitability", "action"]
-        },
-        "6": {
-          "original_verse": "The person who sits and subdues the active senses, while remembering and mindful of the objects of the senses: it is said that such a one is a confused self – who proceeds falsely.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Critiques false asceticism and the lack of true control over senses."
+          "6": {
+            "original_verse": "The person who sits and subdues the active senses, while remembering and mindful of the objects of the senses: it is said that such a one is a confused self – who proceeds falsely.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Critiques false asceticism and the lack of true control over senses."
+            },
+            "tags": [
+              "asceticism",
+              "senses",
+              "confusion"
+            ]
           },
-          "tags": ["asceticism", "senses", "confusion"]
-        },
-        "7": {
-          "original_verse": "But, Arjuna, the one who begins to rein in the senses through the mind and who, without clinging, begins the yoga of action through the active senses, is unique.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Highlights disciplined action and self-control."
+          "7": {
+            "original_verse": "But, Arjuna, the one who begins to rein in the senses through the mind and who, without clinging, begins the yoga of action through the active senses, is unique.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Highlights disciplined action and self-control."
+            },
+            "tags": [
+              "discipline",
+              "yoga-of-action",
+              "self-control"
+            ]
           },
-          "tags": ["discipline", "yoga-of-action", "self-control"]
-        },
-        "8": {
-          "original_verse": "So perform action which is restrained, for this action is better than non-action; and even the working of your body would not succeed without action.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Advises Arjuna on the necessity and superiority of disciplined action."
+          "8": {
+            "original_verse": "So perform action which is restrained, for this action is better than non-action; and even the working of your body would not succeed without action.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Advises Arjuna on the necessity and superiority of disciplined action."
+            },
+            "tags": [
+              "restraint",
+              "action",
+              "necessity"
+            ]
           },
-          "tags": ["restraint", "action", "necessity"]
-        },
-        "9": {
-          "original_verse": "Except for action whose end is sacrifice, this world is bound by action; without clinging, perform action towards this end of sacrifice, Son of Kunti.",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Explains the purpose of selfless action as a form of sacrifice."
+          "9": {
+            "original_verse": "Except for action whose end is sacrifice, this world is bound by action; without clinging, perform action towards this end of sacrifice, Son of Kunti.",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Explains the purpose of selfless action as a form of sacrifice."
+            },
+            "tags": [
+              "sacrifice",
+              "selfless-action",
+              "detachment"
+            ]
           },
-          "tags": ["sacrifice", "selfless-action", "detachment"]
-        },  
-        "10": {
-          "original_verse": "In ancient times, after he created sacrifices along with humans, the lord of beings said: ‘You shall create through this! May this be the cow who grants your desires.’",
-          "speaker": "Krishna",
-          "commentary": {
-            "shankaracharya": "Discusses the origins of sacrificial actions as foundational to human life."
+          "10": {
+            "original_verse": "In ancient times, after he created sacrifices along with humans, the lord of beings said: ‘You shall create through this! May this be the cow who grants your desires.’",
+            "speaker": "Krishna",
+            "commentary": {
+              "shankaracharya": "Discusses the origins of sacrificial actions as foundational to human life."
+            },
+            "tags": [
+              "sacrifice",
+              "creation",
+              "human-dharma"
+            ]
           },
-          "tags": ["sacrifice", "creation", "human-dharma"]
-        },
-        "11": {
+          "11": {
             "original_verse": "By this, may you cause the gods to be; and may the gods cause you to be. As you both sustain each other, you will reach the higher good.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Mutual nourishment between humans and gods through sacrifices sustains the cosmic balance."
+              "shankaracharya": "Mutual nourishment between humans and gods through sacrifices sustains the cosmic balance."
             },
-            "tags": ["sacrifice", "mutual-support", "higher-good"]
-        },
-        "12": {
+            "tags": [
+              "sacrifice",
+              "mutual-support",
+              "higher-good"
+            ]
+          },
+          "12": {
             "original_verse": "As the gods are created by sacrifice, they will give you sought-after pleasures. The one who enjoys what is given by them but does not give to them is a thief.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Those who consume resources without contributing back disrupt the natural order and are metaphorically 'thieves.'"
+              "shankaracharya": "Those who consume resources without contributing back disrupt the natural order and are metaphorically 'thieves.'"
             },
-            "tags": ["sacrifice", "pleasure", "gratitude"]
-        },
-        "13": {
+            "tags": [
+              "sacrifice",
+              "pleasure",
+              "gratitude"
+            ]
+          },
+          "13": {
             "original_verse": "The true ones who eat the leftovers of the sacrifices are free from all evils; but the evil ones eat their own impurity, as they cook only for themselves.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Sharing sacrificial remnants purifies the soul, while selfish consumption binds one to sin."
+              "shankaracharya": "Sharing sacrificial remnants purifies the soul, while selfish consumption binds one to sin."
             },
-            "tags": ["purity", "sacrifice", "selflessness"]
-        },
-        "14": {
+            "tags": [
+              "purity",
+              "sacrifice",
+              "selflessness"
+            ]
+          },
+          "14": {
             "original_verse": "Beings exist through food; Parjanya, the rain, is the source of food. Parjanya exists through sacrifice and sacrifice exists through action.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "The interdependence of sacrifice, natural elements, and human survival emphasizes the necessity of actions."
+              "shankaracharya": "The interdependence of sacrifice, natural elements, and human survival emphasizes the necessity of actions."
             },
-            "tags": ["food", "rain", "action"]
-        },
-        "15": {
+            "tags": [
+              "food",
+              "rain",
+              "action"
+            ]
+          },
+          "15": {
             "original_verse": "Know the origin of sacrificial action as Brahman, arising from the eternal nature of Brahman; thus all-pervading Brahman is eternally fixed in sacrifice.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Sacrifice originates in the eternal knowledge of Brahman, linking it to the cosmic order."
+              "shankaracharya": "Sacrifice originates in the eternal knowledge of Brahman, linking it to the cosmic order."
             },
-            "tags": ["sacrifice", "eternal-nature", "Brahman"]
-        },
-        "16": {
+            "tags": [
+              "sacrifice",
+              "eternal-nature",
+              "Brahman"
+            ]
+          },
+          "16": {
             "original_verse": "The one who does not set the wheel in motion here on earth lives uselessly, wanting to hurt, impassioned by the senses, Son of Pritha.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Neglecting duty disrupts the cosmic wheel, leading to a life of selfishness and harm."
+              "shankaracharya": "Neglecting duty disrupts the cosmic wheel, leading to a life of selfishness and harm."
             },
-            "tags": ["duty", "action", "life-purpose"]
-        },
-        "17": {
+            "tags": [
+              "duty",
+              "action",
+              "life-purpose"
+            ]
+          },
+          "17": {
             "original_verse": "The person who would be content with what comes unbidden and does not cling to the fruit of action is free, and not bound by action, even though active.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Contentment with unbidden outcomes frees one from the bondage of actions."
+              "shankaracharya": "Contentment with unbidden outcomes frees one from the bondage of actions."
             },
-            "tags": ["contentment", "freedom", "action"]
-        },
-        "18": {
+            "tags": [
+              "contentment",
+              "freedom",
+              "action"
+            ]
+          },
+          "18": {
             "original_verse": "Without a need for external objects, content within himself, such a person does nothing and is free, even though engaged in action.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Self-contentment leads to liberation, even amidst active engagement."
+              "shankaracharya": "Self-contentment leads to liberation, even amidst active engagement."
             },
-            "tags": ["self-contentment", "freedom", "engagement"]
-        },
-        "19": {
+            "tags": [
+              "self-contentment",
+              "freedom",
+              "engagement"
+            ]
+          },
+          "19": {
             "original_verse": "Always perform action that is your duty, for action is superior to inaction; and without action, even the body would not survive.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Action sustains life and is vital for fulfilling one's duties in the cosmic order."
+              "shankaracharya": "Action sustains life and is vital for fulfilling one's duties in the cosmic order."
             },
-            "tags": ["duty", "action", "necessity"]
-        },
-        "20": {
+            "tags": [
+              "duty",
+              "action",
+              "necessity"
+            ]
+          },
+          "20": {
             "original_verse": "The enlightened king Janaka reached fulfillment by action. Consider how to maintain the world, Son of Pritha.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "The example of Janaka demonstrates that action can lead to liberation and world maintenance."
+              "shankaracharya": "The example of Janaka demonstrates that action can lead to liberation and world maintenance."
             },
-            "tags": ["action", "fulfillment", "world-maintenance"]
-        },
-        "21": {
+            "tags": [
+              "action",
+              "fulfillment",
+              "world-maintenance"
+            ]
+          },
+          "21": {
             "original_verse": "What the best person does is followed by others; people follow the example he sets.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Leaders influence society, emphasizing the importance of setting virtuous examples."
+              "shankaracharya": "Leaders influence society, emphasizing the importance of setting virtuous examples."
             },
-            "tags": ["example", "leadership", "influence"]
-        },
-        "22": {
+            "tags": [
+              "example",
+              "leadership",
+              "influence"
+            ]
+          },
+          "22": {
             "original_verse": "I do not have to perform any action in all the three worlds, nor is there anything unattained that must be attained; still, I remain active.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Even the divine remains active to uphold the natural order and guide humanity."
+              "shankaracharya": "Even the divine remains active to uphold the natural order and guide humanity."
             },
-            "tags": ["action", "duty", "divinity"]
-        },
-        "23": {
+            "tags": [
+              "action",
+              "duty",
+              "divinity"
+            ]
+          },
+          "23": {
             "original_verse": "If I did not remain active, without ceasing, people would follow my path, Son of Pritha.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Inactivity from a leader would misguide humanity, emphasizing the need for responsible action."
+              "shankaracharya": "Inactivity from a leader would misguide humanity, emphasizing the need for responsible action."
             },
-            "tags": ["responsibility", "influence", "example"]
-        },
-        "24": {
+            "tags": [
+              "responsibility",
+              "influence",
+              "example"
+            ]
+          },
+          "24": {
             "original_verse": "If I stopped acting, these worlds would perish, and I would become the cause of chaos and the destruction of all beings.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Abandoning action would result in chaos and destruction, emphasizing the necessity of responsible activity."
+              "shankaracharya": "Abandoning action would result in chaos and destruction, emphasizing the necessity of responsible activity."
             },
-            "tags": ["chaos", "responsibility", "creation"]
-        },
-        "25": {
+            "tags": [
+              "chaos",
+              "responsibility",
+              "creation"
+            ]
+          },
+          "25": {
             "original_verse": "The unwise perform action with attachment to results; the wise should act without attachment, for the welfare of the world.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "The wise act selflessly for the greater good, contrasting the attachment of the unwise."
+              "shankaracharya": "The wise act selflessly for the greater good, contrasting the attachment of the unwise."
             },
-            "tags": ["detachment", "duty", "welfare"]
-        },
-        "26": {
+            "tags": [
+              "detachment",
+              "duty",
+              "welfare"
+            ]
+          },
+          "26": {
             "original_verse": "The wise should not cause disruption in the understanding of the unwise; instead, they should act in accordance with duty, remaining unattached.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "The wise must act without attachment and set an example for others, avoiding unnecessary confusion in the minds of the unwise."
+              "shankaracharya": "The wise must act without attachment and set an example for others, avoiding unnecessary confusion in the minds of the unwise."
             },
-            "tags": ["wisdom", "duty", "guidance"]
-        },
-        "27": {
+            "tags": [
+              "wisdom",
+              "duty",
+              "guidance"
+            ]
+          },
+          "27": {
             "original_verse": "All actions are performed by the gunas of prakriti; but a person deluded by ego thinks, 'I am the doer.'",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Actions are driven by the qualities of nature, but ignorance leads one to falsely attribute doership to themselves."
+              "shankaracharya": "Actions are driven by the qualities of nature, but ignorance leads one to falsely attribute doership to themselves."
             },
-            "tags": ["ego", "gunas", "delusion"]
-        },
-        "28": {
+            "tags": [
+              "ego",
+              "gunas",
+              "delusion"
+            ]
+          },
+          "28": {
             "original_verse": "But one who knows the truth of the gunas and actions does not become attached, realizing that the gunas interact with the gunas.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "The knowledgeable observe the natural interplay of qualities without developing attachments."
+              "shankaracharya": "The knowledgeable observe the natural interplay of qualities without developing attachments."
             },
-            "tags": ["truth", "wisdom", "detachment"]
-        },
-        "29": {
+            "tags": [
+              "truth",
+              "wisdom",
+              "detachment"
+            ]
+          },
+          "29": {
             "original_verse": "Those deluded by the gunas of prakriti become attached to actions; the wise should not unsettle the ignorant whose knowledge is incomplete.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "While ignorance fosters attachment, the wise must maintain calm and avoid disturbing the uninitiated."
+              "shankaracharya": "While ignorance fosters attachment, the wise must maintain calm and avoid disturbing the uninitiated."
             },
-            "tags": ["ignorance", "attachment", "wisdom"]
-        },
-        "30": {
+            "tags": [
+              "ignorance",
+              "attachment",
+              "wisdom"
+            ]
+          },
+          "30": {
             "original_verse": "Renouncing all actions to me, with a mind that knows the self, without desire or a sense of possession, and free from lethargy, engage in battle.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Surrendering actions to the divine and acting selflessly leads to liberation, even amidst worldly duties."
+              "shankaracharya": "Surrendering actions to the divine and acting selflessly leads to liberation, even amidst worldly duties."
             },
-            "tags": ["renunciation", "selflessness", "action"]
-        },
-        "31": {
+            "tags": [
+              "renunciation",
+              "selflessness",
+              "action"
+            ]
+          },
+          "31": {
             "original_verse": "Those who follow this teaching of mine with faith and without complaint are also released from the bonds of actions.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Faithful adherence to divine teachings frees one from the cycle of karma."
+              "shankaracharya": "Faithful adherence to divine teachings frees one from the cycle of karma."
             },
-            "tags": ["faith", "freedom", "karma"]
-        },
-        "32": {
+            "tags": [
+              "faith",
+              "freedom",
+              "karma"
+            ]
+          },
+          "32": {
             "original_verse": "But those who criticize this teaching and do not follow it are deluded in all knowledge, and perish.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Rejecting divine guidance results in ignorance and spiritual downfall."
+              "shankaracharya": "Rejecting divine guidance results in ignorance and spiritual downfall."
             },
-            "tags": ["criticism", "ignorance", "loss"]
-        },
-        "33": {
+            "tags": [
+              "criticism",
+              "ignorance",
+              "loss"
+            ]
+          },
+          "33": {
             "original_verse": "Even the wise act according to their nature; beings follow nature. What can restraint do?",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Actions are driven by inherent qualities of nature, and external restraints alone are insufficient."
+              "shankaracharya": "Actions are driven by inherent qualities of nature, and external restraints alone are insufficient."
             },
-            "tags": ["nature", "action", "wisdom"]
-        },
-        "34": {
+            "tags": [
+              "nature",
+              "action",
+              "wisdom"
+            ]
+          },
+          "34": {
             "original_verse": "Attachment and aversion to sense objects arise from the gunas; one must not come under their sway, for they are obstacles on the path.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Mastery over attachment and aversion is crucial for spiritual progress."
+              "shankaracharya": "Mastery over attachment and aversion is crucial for spiritual progress."
             },
-            "tags": ["attachment", "aversion", "obstacles"]
-        },
-        "35": {
+            "tags": [
+              "attachment",
+              "aversion",
+              "obstacles"
+            ]
+          },
+          "35": {
             "original_verse": "Better is one’s own dharma, though imperfect, than the dharma of another well-performed; better is death in one’s own dharma; the dharma of another brings danger.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "One's individual duty, however flawed, is preferable to adopting another's path, which can lead to harm."
+              "shankaracharya": "One's individual duty, however flawed, is preferable to adopting another's path, which can lead to harm."
             },
-            "tags": ["dharma", "individuality", "duty"]
-        },
-        "36": {
+            "tags": [
+              "dharma",
+              "individuality",
+              "duty"
+            ]
+          },
+          "36": {
             "original_verse": "Arjuna said: But by what is one impelled to sin, even unwillingly, as if constrained by force, O Krishna?",
             "speaker": "Arjuna",
             "commentary": {
-                "shankaracharya": "Arjuna questions the compelling forces that drive people towards wrongful actions against their will."
+              "shankaracharya": "Arjuna questions the compelling forces that drive people towards wrongful actions against their will."
             },
-            "tags": ["sin", "force", "desire"]
-        },
-        "37": {
+            "tags": [
+              "sin",
+              "force",
+              "desire"
+            ]
+          },
+          "37": {
             "original_verse": "Krishna said: It is desire, it is anger, born of the guna of rajas; insatiable and greatly wicked, know this to be the enemy here.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Desire and anger, rooted in passion, are destructive forces obstructing spiritual progress."
+              "shankaracharya": "Desire and anger, rooted in passion, are destructive forces obstructing spiritual progress."
             },
-            "tags": ["desire", "anger", "enemy"]
-        },
-        "38": {
+            "tags": [
+              "desire",
+              "anger",
+              "enemy"
+            ]
+          },
+          "38": {
             "original_verse": "As fire is covered by smoke, as a mirror is obscured by dust, as the embryo is enveloped by the womb, so is this covered by that.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Desire veils wisdom in the same way physical obstructions obscure clarity."
+              "shankaracharya": "Desire veils wisdom in the same way physical obstructions obscure clarity."
             },
-            "tags": ["ignorance", "coverings", "obstacles"]
-        },
-        "39": {
+            "tags": [
+              "ignorance",
+              "coverings",
+              "obstacles"
+            ]
+          },
+          "39": {
             "original_verse": "Knowledge is covered by this eternal enemy of the wise, in the form of desire, which is an insatiable fire.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Unfulfilled desires perpetually obscure wisdom, making them the eternal enemy of enlightenment."
+              "shankaracharya": "Unfulfilled desires perpetually obscure wisdom, making them the eternal enemy of enlightenment."
             },
-            "tags": ["knowledge", "desire", "enemy"]
-        },
-        "40": {
+            "tags": [
+              "knowledge",
+              "desire",
+              "enemy"
+            ]
+          },
+          "40": {
             "original_verse": "The senses, the mind, and the intellect are said to be its seat; covering knowledge through these, it deludes the embodied being.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Desire operates through the senses, mind, and intellect, creating illusions and binding the self."
+              "shankaracharya": "Desire operates through the senses, mind, and intellect, creating illusions and binding the self."
             },
-            "tags": ["senses", "mind", "delusion"]
-        },
-        "41": {
+            "tags": [
+              "senses",
+              "mind",
+              "delusion"
+            ]
+          },
+          "41": {
             "original_verse": "So, Bull of the Bharatas: first rein in the senses; then strike down this evil one who destroys wisdom and discernment.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna advises controlling the senses to weaken the power of desire, which hinders discernment and wisdom."
+              "shankaracharya": "Krishna advises controlling the senses to weaken the power of desire, which hinders discernment and wisdom."
             },
-            "tags": ["senses", "control", "desire"]
-        },
-        "42": {
+            "tags": [
+              "senses",
+              "control",
+              "desire"
+            ]
+          },
+          "42": {
             "original_verse": "They say that the senses are crucial; and the mind more crucial than the senses; and even more crucial than the mind is insight; and much more crucial than insight, is this [self].",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "The hierarchy of subtlety places the self above intellect, highlighting its supreme importance."
+              "shankaracharya": "The hierarchy of subtlety places the self above intellect, highlighting its supreme importance."
             },
-            "tags": ["hierarchy", "mind", "self"]
-        },
-        "43": {
+            "tags": [
+              "hierarchy",
+              "mind",
+              "self"
+            ]
+          },
+          "43": {
             "original_verse": "Strong-Armed One, when you have learned what is higher than insight – the self, sustained through the self – then kill the enemy that takes the shape of desire and is hard to approach.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna emphasizes self-mastery and advises overcoming desire through a disciplined and self-sustained mind."
+              "shankaracharya": "Krishna emphasizes self-mastery and advises overcoming desire through a disciplined and self-sustained mind."
             },
-            "tags": ["self-mastery", "desire", "discipline"]
+            "tags": [
+              "self-mastery",
+              "desire",
+              "discipline"
+            ]
+          }
         }
-    "chapters": {
-        "4": {
-         "verses": {
-        "1": {
+      },
+      "4": {
+        "verses": {
+          "1": {
             "original_verse": "I declared this imperishable yoga to Vivasvat, god of the sun, and he told it to Manu, the first human, who told it to his son Ikshvaku.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna reveals that the ancient teachings of yoga were passed down through divine lineage to preserve dharma."
+              "shankaracharya": "Krishna reveals that the ancient teachings of yoga were passed down through divine lineage to preserve dharma."
             },
-            "tags": ["yoga", "lineage", "dharma"]
-        },
-        "2": {
+            "tags": [
+              "yoga",
+              "lineage",
+              "dharma"
+            ]
+          },
+          "2": {
             "original_verse": "Scorcher of the Enemy, through many an age, the royal sages knew this yoga, obtained as it was through lineage; and then this yoga was lost to the world.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "The lineage of dharma was disrupted, leading to the loss of the ancient yoga tradition."
+              "shankaracharya": "The lineage of dharma was disrupted, leading to the loss of the ancient yoga tradition."
             },
-            "tags": ["yoga", "loss", "lineage"]
-        },
-        "3": {
+            "tags": [
+              "yoga",
+              "loss",
+              "lineage"
+            ]
+          },
+          "3": {
             "original_verse": "Today I tell this ancient yoga to you, since you are devoted to me, and since you are my friend. This is indeed the highest mystery.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna emphasizes Arjuna’s devotion as the reason for revealing the sacred teachings to him."
+              "shankaracharya": "Krishna emphasizes Arjuna’s devotion as the reason for revealing the sacred teachings to him."
             },
-            "tags": ["devotion", "mystery", "friendship"]
-        },
-        "4": {
+            "tags": [
+              "devotion",
+              "mystery",
+              "friendship"
+            ]
+          },
+          "4": {
             "original_verse": "But your birth was later, and the birth of Vivasvat was earlier; how should I understand that you spoke it in the beginning?",
             "speaker": "Arjuna",
             "commentary": {
-                "shankaracharya": "Arjuna questions Krishna’s claim of having passed down ancient knowledge, given Krishna's apparent later birth."
+              "shankaracharya": "Arjuna questions Krishna’s claim of having passed down ancient knowledge, given Krishna's apparent later birth."
             },
-            "tags": ["birth", "questioning", "knowledge"]
-        },
-        "5": {
+            "tags": [
+              "birth",
+              "questioning",
+              "knowledge"
+            ]
+          },
+          "5": {
             "original_verse": "Arjuna, many of my births have come and gone, and yours, too; while I know them all, you do not, Scorcher of the Enemy.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna highlights the distinction between his divine omniscience and Arjuna's limited human memory."
+              "shankaracharya": "Krishna highlights the distinction between his divine omniscience and Arjuna's limited human memory."
             },
-            "tags": ["births", "omniscience", "divinity"]
-        },
-        "6": {
+            "tags": [
+              "births",
+              "omniscience",
+              "divinity"
+            ]
+          },
+          "6": {
             "original_verse": "Although I am unborn, an imperishable self, and the Lord of all Beings, I govern my own earthly nature, and come into being by my own creative force.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna describes his divine incarnation and creative force in manifesting in the world."
+              "shankaracharya": "Krishna describes his divine incarnation and creative force in manifesting in the world."
             },
-            "tags": ["unborn", "divine", "manifestation"]
-        },
-        "7": {
+            "tags": [
+              "unborn",
+              "divine",
+              "manifestation"
+            ]
+          },
+          "7": {
             "original_verse": "Son of Bharata, whenever there is decline in dharma, and the absence of dharma increases, I create myself.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna incarnates whenever dharma declines and adharma rises, to restore cosmic balance."
+              "shankaracharya": "Krishna incarnates whenever dharma declines and adharma rises, to restore cosmic balance."
             },
-            "tags": ["dharma", "incarnation", "balance"]
-        },
-        "8": {
+            "tags": [
+              "dharma",
+              "incarnation",
+              "balance"
+            ]
+          },
+          "8": {
             "original_verse": "I come into being from age to age with the purpose of fixing dharma – as a refuge for those who do good and as a doom for those who do evil.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna’s incarnations serve to protect the righteous and eradicate evil."
+              "shankaracharya": "Krishna’s incarnations serve to protect the righteous and eradicate evil."
             },
-            "tags": ["protection", "righteousness", "evil"]
-        },
-        "9": {
+            "tags": [
+              "protection",
+              "righteousness",
+              "evil"
+            ]
+          },
+          "9": {
             "original_verse": "So Arjuna, when one who truly knows my divine birth and action leaves the body, that person does not go to birth again, but goes to me.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Knowing Krishna’s divine nature liberates one from the cycle of rebirth."
+              "shankaracharya": "Knowing Krishna’s divine nature liberates one from the cycle of rebirth."
             },
-            "tags": ["divinity", "liberation", "rebirth"]
-        },
-        "10": {
+            "tags": [
+              "divinity",
+              "liberation",
+              "rebirth"
+            ]
+          },
+          "10": {
             "original_verse": "Thinking of me, resorting to me, many have reached my being, purified through the heated discipline of wisdom, their greed, fear and anger fully gone.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Devotion to Krishna and self-purification lead to union with the divine."
+              "shankaracharya": "Devotion to Krishna and self-purification lead to union with the divine."
             },
-            "tags": ["devotion", "wisdom", "purification"]
-        },
-        "11": {
+            "tags": [
+              "devotion",
+              "wisdom",
+              "purification"
+            ]
+          },
+          "11": {
             "original_verse": "Son of Pritha, I devote myself to those who resort to me; in just the same way, people follow my path in all places.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna reciprocates the devotion of his followers and is universally accessible."
+              "shankaracharya": "Krishna reciprocates the devotion of his followers and is universally accessible."
             },
-            "tags": ["devotion", "path", "reciprocity"]
-        },
-        "12": {
+            "tags": [
+              "devotion",
+              "path",
+              "reciprocity"
+            ]
+          },
+          "12": {
             "original_verse": "Longing for fulfillment through ritual acts, here in this world, they sacrifice to the gods; and in this mortal world, fulfillment born of such acts comes into being quickly indeed.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Ritual acts and sacrifices yield worldly results, but are distinct from eternal liberation."
+              "shankaracharya": "Ritual acts and sacrifices yield worldly results, but are distinct from eternal liberation."
             },
-            "tags": ["ritual", "sacrifice", "fulfillment"]
-        },
-        "13": {
+            "tags": [
+              "ritual",
+              "sacrifice",
+              "fulfillment"
+            ]
+          },
+          "13": {
             "original_verse": "The four castes were brought forth by me, distributing gunas with actions; although I am the Creator of this world, know me as the Imperishable One who does not act.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna acknowledges creating social orders but remains unattached and imperishable."
+              "shankaracharya": "Krishna acknowledges creating social orders but remains unattached and imperishable."
             },
-            "tags": ["social order", "gunas", "creation"]
-        },
-        "14": {
+            "tags": [
+              "social order",
+              "gunas",
+              "creation"
+            ]
+          },
+          "14": {
             "original_verse": "Actions do not stain me, nor do I desire the fruits of actions. So too, the one who knows me is not bound by actions.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Detachment from results liberates one from the bonds of karma."
+              "shankaracharya": "Detachment from results liberates one from the bonds of karma."
             },
-            "tags": ["karma", "detachment", "liberation"]
-        },
-        "15": {
+            "tags": [
+              "karma",
+              "detachment",
+              "liberation"
+            ]
+          },
+          "15": {
             "original_verse": "Action was undertaken by the ancient ones who knew this and who sought freedom; so undertake action as was done by the ancient ones in earlier times.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Krishna advises Arjuna to follow the path of the ancient sages in performing dutiful action."
+              "shankaracharya": "Krishna advises Arjuna to follow the path of the ancient sages in performing dutiful action."
             },
-            "tags": ["action", "freedom", "sages"]
-        },
-        "16": {
+            "tags": [
+              "action",
+              "freedom",
+              "sages"
+            ]
+          },
+          "16": {
             "original_verse": "Even the poets are confused by this, saying, ‘What is action? What is non-action?’ I tell you, when you know this action, you will be freed from impurity.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Action and inaction are subtle concepts, and understanding them leads to liberation from impurities of karma."
+              "shankaracharya": "Action and inaction are subtle concepts, and understanding them leads to liberation from impurities of karma."
             },
-            "tags": ["action", "non-action", "impurity"]
-        },
-        "17": {
+            "tags": [
+              "action",
+              "non-action",
+              "impurity"
+            ]
+          },
+          "17": {
             "original_verse": "One should have watchful insight into action, watchful insight into wrong action, and watchful insight into non-action. The way of action is hard to fathom.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Insight into actions, their consequences, and inaction requires deep discernment, making the path challenging but rewarding."
+              "shankaracharya": "Insight into actions, their consequences, and inaction requires deep discernment, making the path challenging but rewarding."
             },
-            "tags": ["insight", "action", "discernment"]
-        },
-        "18": {
+            "tags": [
+              "insight",
+              "action",
+              "discernment"
+            ]
+          },
+          "18": {
             "original_verse": "Among humans, the person who sees non-action in action, and action in non-action, has insight; and that person has undertaken all action.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Seeing stillness in activity and activity in stillness demonstrates true wisdom and mastery over actions."
+              "shankaracharya": "Seeing stillness in activity and activity in stillness demonstrates true wisdom and mastery over actions."
             },
-            "tags": ["wisdom", "action", "stillness"]
-        },
-        "19": {
+            "tags": [
+              "wisdom",
+              "action",
+              "stillness"
+            ]
+          },
+          "19": {
             "original_verse": "The wise call that person insightful, one who’s every act is free of desire, and whose acts have been burned by the fire of wisdom.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Acts performed without desire and illuminated by wisdom are the hallmark of an enlightened soul."
+              "shankaracharya": "Acts performed without desire and illuminated by wisdom are the hallmark of an enlightened soul."
             },
-            "tags": ["desirelessness", "wisdom", "enlightenment"]
-        },
-        "20": {
+            "tags": [
+              "desirelessness",
+              "wisdom",
+              "enlightenment"
+            ]
+          },
+          "20": {
             "original_verse": "Giving up all attachment to the fruit of actions, ever content, depending on nothing, though engaged in action, such a person does not act at all.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "A selfless person, detached from outcomes, remains untainted by actions even while performing them."
+              "shankaracharya": "A selfless person, detached from outcomes, remains untainted by actions even while performing them."
             },
-            "tags": ["selflessness", "action", "detachment"]
-        },
-        "21": {
+            "tags": [
+              "selflessness",
+              "action",
+              "detachment"
+            ]
+          },
+          "21": {
             "original_verse": "Devoid of desire, with a disciplined mind and body, and renouncing all possessions, such a person incurs no sin while performing action.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Renunciation of desires and disciplined conduct purify actions, rendering them sinless."
+              "shankaracharya": "Renunciation of desires and disciplined conduct purify actions, rendering them sinless."
             },
-            "tags": ["discipline", "renunciation", "sinlessness"]
-        },
-        "22": {
+            "tags": [
+              "discipline",
+              "renunciation",
+              "sinlessness"
+            ]
+          },
+          "22": {
             "original_verse": "Satisfied with whatever comes unasked, rising above dualities, free from envy, the same in success and failure, even when acting, such a person is not bound.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Equanimity and contentment liberate one from the bonds of success, failure, and desire."
+              "shankaracharya": "Equanimity and contentment liberate one from the bonds of success, failure, and desire."
             },
-            "tags": ["contentment", "equanimity", "freedom"]
-        },
-        "23": {
+            "tags": [
+              "contentment",
+              "equanimity",
+              "freedom"
+            ]
+          },
+          "23": {
             "original_verse": "The actions of a person who is free from attachment, with their thoughts established in wisdom and acting for the sake of sacrifice, dissolve entirely.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Actions performed selflessly and with wisdom merge into the eternal, leaving no residue of karma."
+              "shankaracharya": "Actions performed selflessly and with wisdom merge into the eternal, leaving no residue of karma."
             },
-            "tags": ["sacrifice", "wisdom", "karma"]
-        },
-        "24": {
+            "tags": [
+              "sacrifice",
+              "wisdom",
+              "karma"
+            ]
+          },
+          "24": {
             "original_verse": "For the one who sees Brahman in all actions, the act of offering, the offered material, the fire, the offering itself, and the one who offers all become Brahman.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Seeing unity in all aspects of action transforms every deed into a divine act."
+              "shankaracharya": "Seeing unity in all aspects of action transforms every deed into a divine act."
             },
-            "tags": ["Brahman", "unity", "divine"]
-        },
-        "25": {
+            "tags": [
+              "Brahman",
+              "unity",
+              "divine"
+            ]
+          },
+          "25": {
             "original_verse": "Some offer sacrifices to the gods; others, in the fire of Brahman, offer themselves through the fire of yoga.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Sacrifices can take many forms, but all lead towards self-realization when performed with dedication."
+              "shankaracharya": "Sacrifices can take many forms, but all lead towards self-realization when performed with dedication."
             },
-            "tags": ["sacrifice", "yoga", "self-realization"]
-        },
-        "26": {
+            "tags": [
+              "sacrifice",
+              "yoga",
+              "self-realization"
+            ]
+          },
+          "26": {
             "original_verse": "Others offer hearing and other senses as sacrifices in the fire of restraint, and still others offer sound and other sense objects in the fires of the senses.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Mastery over senses is itself a form of sacrifice, leading to spiritual purification."
+              "shankaracharya": "Mastery over senses is itself a form of sacrifice, leading to spiritual purification."
             },
-            "tags": ["restraint", "senses", "sacrifice"]
-        },
-        "27": {
+            "tags": [
+              "restraint",
+              "senses",
+              "sacrifice"
+            ]
+          },
+          "27": {
             "original_verse": "Others, with disciplined minds, offer all the functions of the senses and the vital breath in the fire of the yoga of self-control.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Self-control, channeling all energies towards discipline, becomes a higher form of sacrifice."
+              "shankaracharya": "Self-control, channeling all energies towards discipline, becomes a higher form of sacrifice."
             },
-            "tags": ["self-control", "discipline", "yoga"]
-        },
-        "28": {
+            "tags": [
+              "self-control",
+              "discipline",
+              "yoga"
+            ]
+          },
+          "28": {
             "original_verse": "Some perform sacrifices with material possessions, others through austerity, others through the yoga of meditation, and still others through study and knowledge.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Sacrifices take various forms but are unified in their purpose of spiritual elevation."
+              "shankaracharya": "Sacrifices take various forms but are unified in their purpose of spiritual elevation."
             },
-            "tags": ["austerity", "meditation", "knowledge"]
-        },
-        "29": {
+            "tags": [
+              "austerity",
+              "meditation",
+              "knowledge"
+            ]
+          },
+          "29": {
             "original_verse": "Others offer as a sacrifice the outgoing breath in the incoming, and the incoming in the outgoing, restraining the flow of breaths, solely absorbed in the regulation of breath.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Breath regulation and mindfulness become sacred acts when performed with focus and devotion."
+              "shankaracharya": "Breath regulation and mindfulness become sacred acts when performed with focus and devotion."
             },
-            "tags": ["breath", "mindfulness", "sacrifice"]
-        },
-        "30": {
+            "tags": [
+              "breath",
+              "mindfulness",
+              "sacrifice"
+            ]
+          },
+          "30": {
             "original_verse": "The yogis who eat what remains from the sacrifice go to eternal Brahman; those who do not sacrifice in this world are not even this world’s inhabitants. How can they be of another world, Son of Pritha?",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Sacrifice purifies and elevates the soul towards Brahman; neglecting it leads to spiritual stagnation and loss."
+              "shankaracharya": "Sacrifice purifies and elevates the soul towards Brahman; neglecting it leads to spiritual stagnation and loss."
             },
-            "tags": ["sacrifice", "yoga", "Brahman"]
-        },
-        "31": {
+            "tags": [
+              "sacrifice",
+              "yoga",
+              "Brahman"
+            ]
+          },
+          "31": {
             "original_verse": "Those men who ever follow this teaching of Mine with faith and without cavil, they also become freed from actions.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Following Krishna’s teachings with faith and without criticism leads to liberation from the effects of actions."
+              "shankaracharya": "Following Krishna’s teachings with faith and without criticism leads to liberation from the effects of actions."
             },
-            "tags": ["faith", "liberation", "teachings"]
-        },
-        "32": {
+            "tags": [
+              "faith",
+              "liberation",
+              "teachings"
+            ]
+          },
+          "32": {
             "original_verse": "But those who, decrying this, do not follow My teaching, know them—who are deluded about all knowledge and who are devoid of discrimination—to have gone to ruin.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Those who reject Krishna’s teachings and remain in ignorance are doomed to spiritual downfall."
+              "shankaracharya": "Those who reject Krishna’s teachings and remain in ignorance are doomed to spiritual downfall."
             },
-            "tags": ["ignorance", "downfall", "rejection"]
-        },
-        "33": {
+            "tags": [
+              "ignorance",
+              "downfall",
+              "rejection"
+            ]
+          },
+          "33": {
             "original_verse": "Superior is knowledge-sacrifice to material sacrifice, O Scorcher of Enemies. All actions in their totality culminate in knowledge.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Sacrifices rooted in knowledge are higher than material sacrifices; wisdom is the ultimate goal of all actions."
+              "shankaracharya": "Sacrifices rooted in knowledge are higher than material sacrifices; wisdom is the ultimate goal of all actions."
             },
-            "tags": ["knowledge", "sacrifice", "wisdom"]
-        },
-        "34": {
+            "tags": [
+              "knowledge",
+              "sacrifice",
+              "wisdom"
+            ]
+          },
+          "34": {
             "original_verse": "Understand this through humble submission, inquiry, and service. The wise who have realized the truth will instruct you in knowledge.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Approach the wise with humility and questions to gain true knowledge and spiritual insight."
+              "shankaracharya": "Approach the wise with humility and questions to gain true knowledge and spiritual insight."
             },
-            "tags": ["humility", "wisdom", "inquiry"]
-        },
-        "35": {
+            "tags": [
+              "humility",
+              "wisdom",
+              "inquiry"
+            ]
+          },
+          "35": {
             "original_verse": "Having known this, O Son of Pandu, you will not be deluded like this again, and by this you will see all beings in your Self and also in Me.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "True knowledge dispels delusion and reveals the unity of all beings in the Self and Krishna."
+              "shankaracharya": "True knowledge dispels delusion and reveals the unity of all beings in the Self and Krishna."
             },
-            "tags": ["unity", "self", "knowledge"]
-        },
-        "36": {
+            "tags": [
+              "unity",
+              "self",
+              "knowledge"
+            ]
+          },
+          "36": {
             "original_verse": "Even if you are the most sinful of all sinners, you will cross over all evil by the raft of knowledge alone.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "The power of knowledge is such that it can absolve even the greatest sins and guide one to purity."
+              "shankaracharya": "The power of knowledge is such that it can absolve even the greatest sins and guide one to purity."
             },
-            "tags": ["sin", "knowledge", "purity"]
-        },
-        "37": {
+            "tags": [
+              "sin",
+              "knowledge",
+              "purity"
+            ]
+          },
+          "37": {
             "original_verse": "As the blazing fire reduces fuel to ashes, O Arjuna, so does the fire of knowledge reduce all actions to ashes.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Knowledge burns away the residue of all actions, leaving the seeker purified and free."
+              "shankaracharya": "Knowledge burns away the residue of all actions, leaving the seeker purified and free."
             },
-            "tags": ["fire", "purification", "actions"]
-        },
-        "38": {
+            "tags": [
+              "fire",
+              "purification",
+              "actions"
+            ]
+          },
+          "38": {
             "original_verse": "In this world, there is no purifier like knowledge. One who is perfected in yoga finds this in due time within themselves.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Knowledge is the supreme purifier, realized through disciplined practice and yoga."
+              "shankaracharya": "Knowledge is the supreme purifier, realized through disciplined practice and yoga."
             },
-            "tags": ["purifier", "yoga", "realization"]
-        },
-        "39": {
+            "tags": [
+              "purifier",
+              "yoga",
+              "realization"
+            ]
+          },
+          "39": {
             "original_verse": "The one with faith, the one who is devoted, and the one who controls their senses, gains knowledge; having gained knowledge, one attains supreme peace quickly.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Faith, devotion, and self-control are prerequisites for knowledge, which leads to inner peace."
+              "shankaracharya": "Faith, devotion, and self-control are prerequisites for knowledge, which leads to inner peace."
             },
-            "tags": ["faith", "devotion", "peace"]
-        },
-        "40": {
+            "tags": [
+              "faith",
+              "devotion",
+              "peace"
+            ]
+          },
+          "40": {
             "original_verse": "The ignorant and faithless person, of doubting nature, perishes. Neither this world, nor the next, nor happiness is there for the doubting soul.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Doubt and lack of faith obstruct spiritual progress, leading to loss in both this life and the afterlife."
+              "shankaracharya": "Doubt and lack of faith obstruct spiritual progress, leading to loss in both this life and the afterlife."
             },
-            "tags": ["ignorance", "doubt", "loss"]
-        },
-        "41": {
+            "tags": [
+              "ignorance",
+              "doubt",
+              "loss"
+            ]
+          },
+          "41": {
             "original_verse": "The one who has renounced actions through yoga, whose doubts are torn asunder by knowledge, is poised in the Self and is not bound by actions.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Knowledge and yoga dissolve doubts, anchoring one in the Self and freeing them from bondage to actions."
+              "shankaracharya": "Knowledge and yoga dissolve doubts, anchoring one in the Self and freeing them from bondage to actions."
             },
-            "tags": ["self", "yoga", "freedom"]
-        },
-        "42": {
+            "tags": [
+              "self",
+              "yoga",
+              "freedom"
+            ]
+          },
+          "42": {
             "original_verse": "Therefore, with the sword of knowledge, cut asunder the doubt born of ignorance residing in your heart. Be established in yoga and rise, O Scion of Bharata.",
             "speaker": "Krishna",
             "commentary": {
-                "shankaracharya": "Knowledge is the weapon to overcome ignorance; yoga and determination lead to liberation."
+              "shankaracharya": "Knowledge is the weapon to overcome ignorance; yoga and determination lead to liberation."
             },
-            "tags": ["knowledge", "doubt", "liberation"]
-        }      
-          
+            "tags": [
+              "knowledge",
+              "doubt",
+              "liberation"
+            ]
+          }
         }
       }
     }
   }
-  
