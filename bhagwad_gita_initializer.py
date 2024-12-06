@@ -10,14 +10,12 @@ def initialize_gita_database(json_file_path: str, db_path: str = 'gita_verses.db
         json_file_path (str): Path to JSON file with Gita verses
         db_path (str): Path to SQLite database file
     """
-    # Initialize embedding model
+
     model = SentenceTransformer('all-MiniLM-L6-v2')
-    
-    # Connect to SQLite database
+
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
     
-    # Create verses table
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS verses (
             id TEXT PRIMARY KEY,
@@ -28,19 +26,16 @@ def initialize_gita_database(json_file_path: str, db_path: str = 'gita_verses.db
             embedding BLOB
         )
     ''')
-    
-    # Load data from JSON
+
     with open(json_file_path, 'r', encoding='utf-8') as file:
         gita_data = json.load(file)
-    
-    # Insert verses and compute embeddings
+
     for chapter_key, chapter in gita_data.get('chapters', {}).items():
         for verse_num, verse in chapter.get('verses', {}).items():
-            # Compute embedding
+
             original_verse = verse.get('original_verse', '')
             embedding = model.encode(original_verse).tobytes()
-            
-            # Insert verse with embedding
+
             cursor.execute('''
                 INSERT OR REPLACE INTO verses 
                 (id, chapter, verse_number, original_verse, commentary, embedding) 

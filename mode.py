@@ -6,10 +6,8 @@ from sentence_transformers import SentenceTransformer
 
 class GitaChatbot:
     def __init__(self, db_path: str = 'gita_verses.db'):
-        # Initialize embedding model
         self.model = SentenceTransformer('all-MiniLM-L6-v2')
         
-        # Connect to SQLite database
         self.conn = sqlite3.connect(db_path, check_same_thread=False)
 
     def normalize_text(self, text: str) -> str:
@@ -55,20 +53,16 @@ class GitaChatbot:
         return response
 
 def main():
-    st.title("🕉️ Bhagavad Gita Wisdom Chatbot")
-    
-    # Singleton to cache chatbot
+    st.title("🕉️ Bhagavad Gita Chatbot")
+
     if 'chatbot' not in st.session_state:
         st.session_state.chatbot = GitaChatbot()
     
-    # Chat input
     user_question = st.text_input("Ask a question about life, philosophy, or spirituality:")
     
     if user_question:
-        # Generate response
         response = st.session_state.chatbot.chat(user_question)
         
-        # Display response
         st.markdown("### Response")
         st.markdown(response)
 
