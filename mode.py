@@ -35,7 +35,7 @@ class GitaChatbot:
         
         return {
             "similarity_score": best_match[0],
-            "chapter": best_match[2],
+            "chapter": best_match[1],
             "verse_number": best_match[3],
             "original_verse": best_match[4],
             "commentary": best_match[5]
