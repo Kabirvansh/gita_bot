@@ -1765,6 +1765,28 @@
       },
     "5": {
       "verses": {
+        "1": {
+          "original_verse": "Arjuna said: O Krishna, You praise renunciation of actions, and again (You praise) Karma-Yog. Tell me for certain that one which is better between these two.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "In this verse, Arjuna questions Krishna's teaching about renunciation (sannyasa) and Karma-Yoga, seeking clarity on the superior path. Krishna emphasizes the necessity of actions even for one pursuing renunciation, as actions lead to purification and ultimately to liberation."
+          },
+          "tags": ["Karma", "Renunciation", "Choice"]
+        },
+        "2": {
+          "original_verse": "The Blessed Lord said: Renunciation of actions and Karma-Yog both lead to Liberation. But, of the two, Karma-Yog excels renunciation of actions.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna asserts that while both paths can lead to liberation, Karma-Yog is superior because it involves active engagement with the world while maintaining detachment, fostering quicker progress."
+          },
+          "tags": ["Karma", "Liberation", "Comparison"]
+        },
+        "3": {
+          "original_verse": "He who neither hates nor desires should be considered as renouncer. Free from opposites, O mighty-armed one, he is easily released from bondage.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna elaborates that true renunciation is about transcending likes and dislikes, leading to inner equanimity, which is the foundation for liberation."
+          },
         "4": {
           "original_verse": "Children, not the wise, speak of Sānkhya and Karma-Yog as different. He who is truly established in one obtains the results of both.",
           "speaker": "Krishna",
@@ -2096,7 +2118,742 @@
             "shankaracharya": "Through harmonization and purity, the yogi achieves communion with the Supreme."
           },
           "tags": ["harmony", "bliss", "self"]
+        },
+        "16": {
+          "original_verse": "Yoga is not about eating too much, nor is it about not eating at all. It is not about the practice of sleeping too much, nor is it about keeping awake.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Moderation in food, sleep, and activities is essential for a yogi's discipline."
+          },
+          "tags": ["moderation", "discipline", "yogi"]
+        },
+        "17": {
+          "original_verse": "For one who is joined to yoga, yoga destroys all pain – in food and sport, in the undertaking of action, and in sleeping and awakening.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Yoga becomes a tool for liberation only when one adopts moderation in every aspect of life."
+          },
+          "tags": ["moderation", "liberation", "yoga"]
+        },
+        "18": {
+          "original_verse": "One is said to be joined in this way, when one’s thought is restrained; when one abides in the self alone, beyond longing and all desires.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "True harmony is achieved when the mind rests in the Self, devoid of external cravings."
+          },
+          "tags": ["self", "harmony", "discipline"]
+        },
+        "19": {
+          "original_verse": "One is like a lit lamp that does not flicker, standing without wind. This likeness is kept in mind for one who practises yoga, whose thought is controlled, joined to the yoga of the self.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The mind of a disciplined yogi is as steady as an unflickering flame in a sheltered spot."
+          },
+          "tags": ["discipline", "meditation", "self"]
+        },
+        "20": {
+          "original_verse": "Where thought is at rest, held back by the practice of yoga, and where one is content, seeing the self by the self, in the self.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Self-realization through yoga brings inner contentment and profound peace."
+          },
+          "tags": ["self-realization", "peace", "yoga"]
+        },
+        "21": {
+          "original_verse": "That one knows the place of endless joy – grasped by insight, beyond the senses, and when it is firm, one does not move away from truth.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The bliss of spiritual realization transcends sensory experiences and brings unwavering stability."
+          },
+          "tags": ["bliss", "stability", "realization"]
+        },
+        "22": {
+          "original_verse": "When one has reached it, one can think of nothing beyond it; when one is firm in it, one is not shaken, even by deep pain.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "True spiritual attainment provides inner fortitude, immune to external suffering."
+          },
+          "tags": ["spirituality", "fortitude", "sorrow"]
+        },
+        "23": {
+          "original_verse": "Let it be known: this dissolution of the bond to pain is called yoga; this yoga should be followed with an absence of doubt, and with thoughts that are not despondent.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Yoga is the path to liberating oneself from suffering, requiring determination and focus."
+          },
+          "tags": ["yoga", "determination", "focus"]
+        },
+        "24": {
+          "original_verse": "When one has fully let go of all those desires that begin with purpose, and when one has wholly reined in the whole set of the senses.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Detachment from desires and mastery over the senses are prerequisites for spiritual progress."
+          },
+          "tags": ["detachment", "mastery", "progress"]
+        },
+        "25": {
+          "original_verse": "With insight firmly grasped, one should become quiet little by little. When one’s mind is fixed on the self, one should not think of anything else.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Gradual control over the mind and focus on the Self leads to profound tranquility."
+          },
+          "tags": ["quietude", "focus", "tranquility"]
+        },
+        "26": {
+          "original_verse": "From wherever the mind wanders away, flitting unsteadily back and forth, one should direct it from that place, to control in the self.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The wandering mind must be persistently brought back to focus on the Self."
+          },
+          "tags": ["focus", "self-control", "persistence"]
+        },
+        "27": {
+          "original_verse": "The practitioner of yoga who is peaceful in mind, whose passions are calm, without evil, of one being with Brahman, reaches the highest joy.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Supreme bliss is realized by identifying with Brahman and subduing worldly passions."
+          },
+          "tags": ["bliss", "Brahman", "happiness"]
+        },
+        "28": {
+          "original_verse": "The practitioner of yoga, constantly restraining the self, with evil vanished, reaches endless joy, easily touching Brahman.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Yoga enables one to perceive the unity of existence and the presence of the Self in all beings."
+          },
+          "tags": ["unity", "yoga", "perception"]
+        },
+        "29": {
+          "original_verse": "The self of the one joined to yoga always sees the same way: the self is in all beings and all beings are in the self.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The ultimate unity with Krishna is achieved when one perceives divine presence in all aspects of existence."
+          },
+          "tags": ["unity", "Krishna", "divine presence"]
+        },
+        "30": {
+          "original_verse": "The one who sees me everywhere and sees everything in me, I am not lost to that person, and that person is not lost to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Living in unity and reverence for Krishna leads to abiding in divine grace, irrespective of external circumstances."
+          },
+          "tags": ["unity", "worship", "divine grace"]
         }
+        "31": {
+          "original_verse": "The practitioner of yoga who is devoted to me as one who abides in all beings, abiding in oneness, in whatever ways that one is existing, that one dwells in me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Devotion to Krishna and recognition of unity with all beings are paths to spiritual harmony."
+          },
+          "tags": ["devotion", "oneness", "yogi"]
+        },
+        "32": {
+          "original_verse": "Arjuna, one who everywhere sees equality, through likeness with oneself, whether pleasure or pain, is thought to be the highest practitioner of yoga.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Equality in perceiving pleasure and pain as one's own is the mark of the highest yogi."
+          },
+          "tags": ["equality", "yogi", "perception"]
+        },
+        "33": {
+          "original_verse": "Killer of Madhu, because of [the mind’s] instability, I don’t see the stable foundation of this yoga, declared by you with such balance.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna expresses doubt about the practical implementation of yoga due to the instability of the mind."
+          },
+          "tags": ["doubt", "instability", "mind"]
+        },
+        "34": {
+          "original_verse": "Krishna, the mind is ever straying, troubling, strong and unyielding; I think holding it back is as hard to bring about as holding back the wind.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "The restless nature of the mind makes control extremely challenging, akin to controlling the wind."
+          },
+          "tags": ["mind", "restlessness", "control"]
+        },
+        "35": {
+          "original_verse": "Strong-Armed One, the straying mind, without doubt, is hard to hold back – but by practice and by not engaging passion, it is held back, Son of Kunti.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna reassures that through consistent practice and detachment, the mind can be steadied."
+          },
+          "tags": ["practice", "detachment", "mind"]
+        },
+        "36": {
+          "original_verse": "This is what I think: yoga is hard to reach for the one whose self is not restrained, but it is possible to reach yoga for one whose self is reined in by striving in skilful ways.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Self-restraint and disciplined effort are essential for attaining yoga, while lack of control makes it unreachable."
+          },
+          "tags": ["self-restraint", "discipline", "yoga"]
+        },
+        "37": {
+          "original_verse": "One who is not controlled, but who comes with trust, whose mind has strayed from yoga, who has not reached the fulfilment of yoga, what way does that one travel, Krishna?",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna questions the fate of a person who fails to achieve yoga despite having faith and good intentions."
+          },
+          "tags": ["yoga", "faith", "failure"]
+        },
+        "38": {
+          "original_verse": "Strong-Armed One, is that one not lost, like a splintered cloud, fallen from both worlds, without grounding, confused on the path of Brahman?",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Such a person is not entirely lost but may feel ungrounded, like a broken cloud, unsure of their place in spiritual or worldly realms."
+          },
+          "tags": ["doubt", "Brahman", "spiritual confusion"]
+        },
+        "39": {
+          "original_verse": "Krishna, You should cut away this doubt of mine with nothing left. No one exists other than you who can cut away this doubt.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna appeals to Krishna to clear his doubt, acknowledging Krishna's unique authority in resolving it."
+          },
+          "tags": ["doubt", "Krishna", "guidance"]
+        },
+        "40": {
+          "original_verse": "Son of Pritha, such a person is not destroyed – neither in heaven nor on earth; dear friend, no one who does good travels the hard road.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna reassures that those who strive for good are never truly lost, either in the spiritual or worldly paths."
+          },
+          "tags": ["reassurance", "good deeds", "yoga"]
+        },
+        "41": {
+          "original_verse": "When one has reached the worlds of virtuous action, and has dwelt for endless years, one who is lost to yoga is then born again in the home of the pure and illustrious.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "One who is lost to yoga may find rebirth in a virtuous and noble family, enabling further spiritual growth."
+          },
+          "tags": ["rebirth", "virtue", "yoga"]
+        },
+        "42": {
+          "original_verse": "Or one exists in a family of intelligent practitioners of yoga – a birth like this is surely very hard to reach in this world.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Being born into a family of yogis is a rare and auspicious opportunity for spiritual advancement."
+          },
+          "tags": ["yoga", "birth", "family"]
+        },
+        "43": {
+          "original_verse": "There in that body one attains the joining of insight from the previous body, and from there, one strives once again toward fulfilment, Joy of the Kurus.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Insight from previous lives aids in regaining spiritual progress and striving toward fulfillment."
+          },
+          "tags": ["insight", "rebirth", "fulfillment"]
+        },
+        "44": {
+          "original_verse": "One is carried by the practice of an earlier life, even against one’s will. Just the desire to know yoga goes beyond the Brahman of the word.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The momentum of past practices propels one forward, even against their conscious will, surpassing superficial religious pursuits."
+          },
+          "tags": ["momentum", "desire", "yoga"]
+        },
+        "45": {
+          "original_verse": "Through great effort and restrained mind, completely purified of evil, and fulfilled through many births, the practitioner of yoga then travels the highest way.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Through many lifetimes of effort and purification, a dedicated yogi attains the ultimate spiritual goal."
+          },
+          "tags": ["effort", "purity", "spiritual goal"]
+        },
+        "46": {
+          "original_verse": "The practitioner of yoga surpasses those who practise heated discipline, and also surpasses those who are wise, and those who act in ritual. Therefore, Arjuna, be a practitioner of yoga!",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The yogi surpasses those engaged in austerities, wisdom, or rituals, embodying the essence of spiritual practice."
+          },
+          "tags": ["yoga", "discipline", "wisdom"]
+        },
+        "47": {
+          "original_verse": "Even among all these practitioners of yoga, the one who loves me, who has trust, and who goes to me with the inner self, that one is thought by me the most closely joined to yoga.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The highest yogi is one who, with love and faith, fully surrenders to Krishna and remains devoted."
+          },
+          "tags": ["devotion", "love", "faith"]
+        }
+      }
+    },
+  "chapters": {
+    "7": {
+      "verses": {
+        "1": {
+          "original_verse": "Son of Pritha, hear this! With [your] mind intent on me, joined to yoga, [your] refuge in me, in that way you will know me completely, without doubt.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna invites Arjuna to focus his mind and take refuge in Him to gain complete and doubtless knowledge of the divine."
+          },
+          "tags": ["focus", "yoga", "divine"]
+        },
+        "2": {
+          "original_verse": "I will explain this knowledge to you in its fullness; as well as the means of discerning it; once it is known, nothing is left to be known here on earth.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna promises to share the ultimate knowledge that leaves nothing more to be known in this life."
+          },
+          "tags": ["knowledge", "divine wisdom", "fulfillment"]
+        },
+        "3": {
+          "original_verse": "Among thousands of mortals, only some strive towards fulfilment. Even among those who are striving, and among those who are fulfilled, only some truly know me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna explains the rarity of truly knowing Him, even among those who strive for perfection."
+          },
+          "tags": ["striving", "divinity", "perfection"]
+        },
+        "4": {
+          "original_verse": "My material nature is split in eight ways: earth, water, fire, wind, space, mind, insight and ‘I’-making.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The eight-fold division of material nature as earth, water, fire, air, space, mind, intellect, and ego arises from Krishna."
+          },
+          "tags": ["material nature", "division", "creation"]
+        },
+        "5": {
+          "original_verse": "Strong-Armed One, this is my lower nature. But be aware of my other, highest nature – that nature being the life by which this world is held up.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The higher nature of Krishna is the life force that sustains the world, distinct from the material nature."
+          },
+          "tags": ["higher nature", "life force", "materiality"]
+        },
+        "6": {
+          "original_verse": "Understand that all beings have their origins in this nature: I am the birth and the dissolution of the whole world.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "All beings and the universe originate and dissolve in Krishna's twofold nature."
+          },
+          "tags": ["origins", "birth", "dissolution"]
+        },
+        "7": {
+          "original_verse": "Winner of Wealth, there is nothing higher than me; all this is woven on me, like patterned jewels woven on a thread.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna is the ultimate cause and foundation of all existence, like pearls strung on a thread."
+          },
+          "tags": ["foundation", "cause", "existence"]
+        },
+        "8": {
+          "original_verse": "Son of Kunti, I am the taste in the waters, the radiance in the sun and in the rabbit-marked moon, the sacred syllable ‘Om’ in all the Vedas, the sound in the air, and the virility in men.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna identifies Himself as the essence in nature: taste in water, light in the sun and moon, sound in air, and more."
+          },
+          "tags": ["essence", "Vedas", "nature"]
+        },
+        "9": {
+          "original_verse": "I am the fresh smell within the earth; I am the brilliance in the flaming sun, and the life in all beings; and I am the heated discipline in those who meditate.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna describes His presence in the fragrance of earth, brilliance in fire, life in all beings, and austerity in ascetics."
+          },
+          "tags": ["presence", "meditation", "discipline"]
+        },
+        "10": {
+          "original_verse": "Son of Pritha, recognize me as the ancient seed of all beings, there since the beginning. I am the insight of the insightful, the radiance of those who shine.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna is the eternal seed of all beings, the wisdom of the wise, and the radiance of those who shine."
+          },
+          "tags": ["seed", "insight", "radiance"]
+        },
+        "11": {
+          "original_verse": "Bull of the Bharatas, I am the strength of the strong; with neither passion nor desire, I am that desire in beings to follow dharma.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna is the pure strength of the strong and the righteous desire in beings aligned with dharma."
+          },
+          "tags": ["strength", "dharma", "righteousness"]
+        },
+        "12": {
+          "original_verse": "Recognize that the states of being of sattva, rajas and tamas arise from me. While I am not in them, they are in me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna explains that the three gunas (sattva, rajas, tamas) emanate from Him but do not limit Him."
+          },
+          "tags": ["gunas", "states of being", "emanation"]
+        },
+        "13": {
+          "original_verse": "This whole world is confused by these three states of being that come from these gunas. It is not aware of me, the one who is above all these, imperishable.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The world, deluded by the gunas, fails to realize Krishna's transcendental, imperishable nature."
+          },
+          "tags": ["confusion", "gunas", "imperishable"]
+        },
+        "14": {
+          "original_verse": "The creative power that comes from these gunas is indeed divine and hard to master. Only those who take refuge in me can pass beyond this creative power.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna reveals that only those who seek refuge in Him can transcend the divine, binding power of the gunas."
+          },
+          "tags": ["creative power", "divinity", "refuge"]
+        },
+        "15": {
+          "original_verse": "The worst of people, confused evildoers, do not take refuge in me; they are attached to the way of the demon, and their wisdom is taken away through [my] creative power.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna explains that evildoers, deluded and aligned with demonic traits, fail to take refuge in Him."
+          },
+          "tags": ["evildoers", "wisdom", "delusion"]
+        },
+        "16": {
+          "original_verse": "But Arjuna, among doers of good, four kinds honour me: those who are afflicted; those who want to know; those who have a goal; those who have wisdom, Bull of the Bharatas.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna identifies four types of devotees who honor Him: those seeking relief from suffering, seekers of knowledge, those with goals, and the wise."
+          },
+          "tags": ["devotion", "wisdom", "seekers"]
+        },
+        "17": {
+          "original_verse": "Among them, the person who has wisdom, eternally joined to yoga, is distinguished, devoted to one thing. I surely love the one who has wisdom, and that one also loves me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The wise, eternally devoted to yoga, hold a special place with Krishna due to their unwavering love and wisdom."
+          },
+          "tags": ["wisdom", "devotion", "yoga"]
+        },
+        "18": {
+          "original_verse": "All of these are exalted, but the one with wisdom is thought to be my own self; the one joined to yoga abides in me as the highest way.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "While all devotees are esteemed, the wise are especially close to Krishna, embodying His essence."
+          },
+          "tags": ["devotion", "yoga", "wisdom"]
+        },
+        "19": {
+          "original_verse": "At the end of many births, the one with wisdom takes refuge in me, thinking, ‘Vasudeva is everything.’ Such a larger self is hard to find.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "True wisdom culminates after many lifetimes in the realization that Krishna is the ultimate truth."
+          },
+          "tags": ["wisdom", "realization", "devotion"]
+        },
+        "20": {
+          "original_verse": "Those whose wisdom is taken away by this desire and that desire take refuge in other gods. They resort to this observance and that observance, reined in by their own material natures.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Desires mislead people into worshiping other deities, driven by material inclinations."
+          },
+          "tags": ["desire", "materiality", "devotion"]
+        },
+        "21": {
+          "original_verse": "But if one desires to worship any honoured form with trust, I will grant to that person trust that is immovable.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna instills unwavering faith in devotees who seek to worship other forms."
+          },
+          "tags": ["faith", "trust", "worship"]
+        },
+        "22": {
+          "original_verse": "And one joined to this trust who desires to honour this god, reaches one’s desires, as they are ordained by me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Devotees achieve their goals through faith, but their successes are ultimately granted by Krishna."
+          },
+          "tags": ["trust", "worship", "success"]
+        },
+        "23": {
+          "original_verse": "But for those of small intelligence, this fruit has a limit. The ones who worship those gods go to the gods. The ones who choose me truly go to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Worship of lesser deities yields temporary results, while devotion to Krishna leads to eternal union."
+          },
+          "tags": ["devotion", "temporary", "eternal"]
+        },
+        "24": {
+          "original_verse": "While those who have no insight think of me as changed into form, I am formless. They don’t know my higher being, imperishable and incomparable.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Ignorance leads people to perceive Krishna as limited to forms, failing to grasp His eternal and formless nature."
+          },
+          "tags": ["ignorance", "formless", "eternal"]
+        },
+        "25": {
+          "original_verse": "But I do not shine for all, wrapped as I am in the creative power of yoga. The confused world does not perceive me, as I am – unborn, and imperishable.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna remains concealed by His divine creative power, incomprehensible to the deluded world."
+          },
+          "tags": ["confusion", "imperishable", "yoga"]
+        },
+        "26": {
+          "original_verse": "Arjuna, I know those beings who have crossed over, as well as those who exist, and the ones yet to be. But no one knows me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna is omniscient, knowing all beings across time, yet remains unknowable to them."
+          },
+          "tags": ["omniscience", "unknowable", "time"]
+        },
+        "27": {
+          "original_verse": "Son of Bharata, because of the rise of hatred and desire, and the confusion of dualities, at birth, all beings end up in delusion, Scorcher of the Enemy.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Hatred, desire, and dualities cloud beings at birth, leading to delusion."
+          },
+          "tags": ["dualities", "delusion", "birth"]
+        },
+        "28": {
+          "original_verse": "But those whose evil deeds have ended, whose actions are pure, are freed from the confusion of dualities. Those whose vows are firm are devoted to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Pure actions and firm devotion lead to liberation from delusion and dualities."
+          },
+          "tags": ["purity", "liberation", "devotion"]
+        },
+        "29": {
+          "original_verse": "Those who move towards freedom from ageing and death, resorting to me, know this Brahman completely; they know the highest self, and the entirety of action.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Devotion to Krishna leads to understanding Brahman, the self, and ultimate freedom."
+          },
+          "tags": ["freedom", "Brahman", "self"]
+        },
+        "30": {
+          "original_verse": "They know me as the highest being, the highest god, the highest sacrifice, and even at the time of departure, they know me, their thought joined to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "At life's end, devoted souls recognize Krishna as the ultimate truth and remain united with Him."
+          },
+          "tags": ["devotion", "ultimate truth", "unity"]
+        }
+      }
+    },
+    "8": {
+      "verses": {
+        "1": {
+          "original_verse": "Highest among Beings, what is this Brahman, what is the highest self, what is action? How is the highest being declared? And how is the highest god spoken of?",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna seeks to understand Brahman, the self, action, the highest being, and the highest god as taught by Krishna."
+          },
+          "tags": ["Brahman", "self", "action"]
+        },
+        "2": {
+          "original_verse": "Killer of Madhu, how and what is the highest sacrifice in this body? And how, at the time of departure, are you known by those whose selves are restrained?",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna inquires about the nature of the highest sacrifice and the knowledge needed at the time of death to attain liberation."
+          },
+          "tags": ["sacrifice", "departure", "knowledge"]
+        },
+        "3": {
+          "original_verse": "Brahman is the highest imperishable; the highest self is said to be one’s own nature, giving rise to all states of being; action is understood as ‘sending forth’.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna describes Brahman as the imperishable, the self as one’s nature, and action as the source of all creations."
+          },
+          "tags": ["Brahman", "imperishable", "action"]
+        },
+        "4": {
+          "original_verse": "Among the embodied, the highest being is finite existence; the highest god is the great spirit; I am the highest sacrifice here in this body, Chosen One.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna describes Himself as the ultimate sacrifice within the body, encompassing all physical and divine aspects."
+          },
+          "tags": ["sacrifice", "embodied beings", "divine"]
+        },
+        "5": {
+          "original_verse": "And at the end time, remembering me, freed from the body, the one who departs goes to my state of being. There is no doubt in this matter.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "At the time of death, one who remembers Krishna achieves liberation and enters His state of being."
+          },
+          "tags": ["liberation", "remembrance", "state of being"]
+        },
+        "6": {
+          "original_verse": "Whatever state of being one remembers, when, at the end, one abandons the body, one goes to that state – always changed into that state of being, Son of Kunti.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The state of mind at the time of death determines the next state of being, emphasizing the power of one's final thoughts."
+          },
+          "tags": ["thoughts", "death", "state of being"]
+        },
+        "7": {
+          "original_verse": "For this reason, remember me at all times, and fight with insight and mind placed on me. And doubtless, you will come to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna advises constant remembrance of Him, even during life's duties, as the path to attaining Him."
+          },
+          "tags": ["remembrance", "duty", "attainment"]
+        },
+        "8": {
+          "original_verse": "With thought joined to the practice of yoga, by turning towards nothing else, one goes to the highest divine spirit, meditating [on that], Son of Pritha.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Through unwavering focus and yoga, one attains the supreme divine spirit."
+          },
+          "tags": ["focus", "yoga", "divine spirit"]
+        },
+        "9": {
+          "original_verse": "One should meditate on the ancient one, the poet and ruler, smaller than the atom, the supporter of all, whose shape is unknowable, and whose colour is the sun, beyond the dark.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna instructs meditation on His eternal, subtle, and incomprehensible form as the source of all existence."
+          },
+          "tags": ["meditation", "incomprehensible", "source of existence"]
+        },
+        "10": {
+          "original_verse": "At the time of departure, with a motionless mind, joined to devotion through the strength of yoga, after making the breath enter between the two eyebrows, one goes to this divine, highest spirit.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Through controlled breath and focused devotion, one unites with the highest spirit."
+          },
+          "tags": ["devotion", "yoga", "breath control"]
+        },
+        "11": {
+          "original_verse": "I will tell you the path which ascetics enter, without passion, where they follow a celibate vow, and desire that which those who know the Veda call the infinite.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The ascetic path leads to liberation through detachment and desire for the infinite."
+          },
+          "tags": ["asceticism", "detachment", "liberation"]
+        },
+        "12": {
+          "original_verse": "When one has restricted all the doors [of the body], and kept closed the mind in the heart, and put the breath in the head, abiding in the concentration of yoga.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Yoga requires control of bodily senses, mind, and breath for supreme concentration."
+          },
+          "tags": ["yoga", "concentration", "control"]
+        },
+        "13": {
+          "original_verse": "When one has said ‘Om’, the Brahman of one syllable, meditating on me, one goes forth, abandons the body, and then travels the highest way.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Chanting Om and meditating on Krishna leads to the ultimate path of liberation."
+          },
+          "tags": ["Om", "meditation", "liberation"]
+        },
+        "14": {
+          "original_verse": "Son of Pritha, for the one whose thought does not ever go elsewhere, who eternally remembers me, for one who practises yoga always joined [to practice], I am easy to find.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Constant remembrance and devotion make Krishna attainable for devoted yogis."
+          },
+          "tags": ["remembrance", "devotion", "yoga"]
+        },
+        "15": {
+          "original_verse": "When they come near to me, those great selves who have gone to the highest fulfilment do not reach another birth – that impermanent place of sorrow.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Reaching Krishna liberates souls from rebirth and the impermanent cycle of suffering."
+          },
+          "tags": ["liberation", "rebirth", "fulfillment"]
+        },
+        "16": {
+          "original_verse": "The worlds are always returning again to birth, up to the world of Brahman. But when one has come near to me, one does not find another rebirth, Son of Kunti.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Even the highest worlds, including that of Brahma, are impermanent. However, attaining Krishna leads to liberation from the cycle of rebirth."
+          },
+          "tags": ["rebirth", "liberation", "impermanence"]
+        },
+        "17": {
+          "original_verse": "The ones who know that a day of Brahma ends at a thousand yugas, and that his night ends at a thousand yugas, are the ones who know the day and the night.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Brahma's day and night span vast cosmic cycles of creation and dissolution, understood by the wise."
+          },
+          "tags": ["cosmic cycles", "Brahma", "knowledge"]
+        },
+        "18": {
+          "original_verse": "At the coming of day, all those things which have form come from that which is formless; at the coming of night, they are dissolved at random into that which is known as the formless.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Creation arises from the unmanifest during Brahma's day, and dissolves back during his night."
+          },
+          "tags": ["creation", "dissolution", "formless"]
+        },
+        "19": {
+          "original_verse": "The great group of beings is born again and again, and dissolved at the coming of night; it comes into being again at the coming of day, Son of Pritha.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The cycle of repeated births and dissolutions continues endlessly during Brahma's cosmic days and nights."
+          },
+          "tags": ["birth", "dissolution", "cosmic cycle"]
+        },
+        "20": {
+          "original_verse": "But higher than this is another state of being which is also formless; it is higher than that formless state existent from the beginning. And when all beings are lost, it does not die.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Beyond the manifest and unmanifest lies the eternal, imperishable state of the Supreme Being."
+          },
+          "tags": ["eternal", "supreme being", "formless"]
+        },
+        "21": {
+          "original_verse": "It is said that the imperishable is unseen; they call that the highest way. When they reach this, they do not return. That is my highest abode.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The imperishable, unseen Supreme Reality is Krishna's highest abode, and those who reach it do not return to the cycle of birth."
+          },
+          "tags": ["imperishable", "supreme reality", "abode"]
+        },
+        "22": {
+          "original_verse": "Son of Pritha, this highest being is reachable by singular devotion; all beings stand within it, this whole world is woven through it.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Through unwavering devotion, one can attain the Supreme Being, who pervades and sustains all existence."
+          },
+          "tags": ["devotion", "supreme being", "sustenance"]
+        },
+        "23": {
+          "original_verse": "Bull of the Bharatas, I will tell you the time when those who practise yoga depart, and the time of their returning, and not returning.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna explains the paths of light and darkness, through which yogis either transcend rebirth or return to it."
+          },
+          "tags": ["yoga", "paths", "rebirth"]
+        },
+        "24": {
+          "original_verse": "In light, fire and day, or the waxing moon of the month, and the six months of the sun’s northern path, then at that time the ones who know Brahman go to Brahman.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Yogis who follow the path of light and auspicious times attain Brahman and do not return to rebirth."
+          },
+          "tags": ["light", "Brahman", "liberation"]
+        },
+        "25": {
+          "original_verse": "In night and smoke, and the darkening moon of the month, and the six months of the sun’s southern path, then reaching lunar light, the one who practises yoga comes back.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Yogis on the path of darkness and inauspicious times enjoy lunar worlds but return to rebirth."
+          },
+          "tags": ["darkness", "rebirth", "yoga"]
+        },
+        "26": {
+          "original_verse": "These two ways of light and dark are thought to be eternal for the world; by the first, one does not come back; by the other, one comes back again.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The eternal paths of light and darkness lead to liberation or rebirth, respectively."
+          },
+          "tags": ["eternal paths", "light", "darkness"]
+        },
+        "27": {
+          "original_verse": "Son of Pritha, knowing these two paths, the one who practises yoga is not at all confused; because of this, Arjuna, at all times be joined to yoga.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Awareness of the two paths enables yogis to remain steadfast in their spiritual practice without confusion."
+          },
+          "tags": ["yoga", "awareness", "steadfastness"]
+        },
+        "28": {
+          "original_verse": "Knowing all this, one who practises yoga moves beyond the pure fruit fixed in the Vedas, in sacrifices, in gifts and in heated discipline; he goes to the ancient highest place.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Through yoga, one transcends the rituals and rewards of the Vedas to attain the eternal Supreme State."
+          },
+          "tags": ["transcendence", "yoga", "supreme state"]
+        }
+      }
+    },
+
+
+
+
 
 
     }
