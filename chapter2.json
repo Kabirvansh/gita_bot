@@ -3466,6 +3466,618 @@
         }
       }
     },
+    "11": {
+      "verses": {
+        "1": {
+          "original_verse": "In kindness to me, you have uttered the highest mystery, recognized as the highest self. With your words, my confusion is gone.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna expresses gratitude for Krishna revealing the highest truth, which has alleviated his confusion."
+          },
+          "tags": ["gratitude", "mystery", "knowledge"]
+        },
+        "2": {
+          "original_verse": "Lotus-Eyed One, I have heard from you in detail of two things: the beginning and end of beings, and also your imperishable greatness.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna acknowledges Krishna's teachings on the creation and dissolution of beings and the eternal nature of Krishna."
+          },
+          "tags": ["creation", "imperishable", "greatness"]
+        },
+        "3": {
+          "original_verse": "Supreme Lord, thus it is as you yourself say it. Now I want to see your lordly form, Highest Spirit.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna, having understood Krishna’s divine teachings, now seeks to witness Krishna’s supreme form."
+          },
+          "tags": ["devotion", "divine form", "seeking"]
+        },
+        "4": {
+          "original_verse": "Master, Lord of Yoga, if you think I am able to see this, then show yourself to me, you who are the imperishable one.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna requests Krishna to reveal His true form, acknowledging His power as the imperishable supreme being."
+          },
+          "tags": ["request", "divine form", "imperishable"]
+        },
+        "5": {
+          "original_verse": "Son of Pritha, see my divine forms, a hundred, a thousand kinds – all different, all divine, and in many colours and shapes.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna responds, inviting Arjuna to witness His infinite divine forms, showcasing His boundless power and nature."
+          },
+          "tags": ["divine forms", "infinite", "power"]
+        },
+        "6": {
+          "original_verse": "See the Adityas, the Vasus, the Rudras, the twin Ashvins, and the Maruts – these many wonders which have never been seen before, Son of Bharata.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna reveals the divine beings and cosmic powers that Arjuna is about to witness in His supreme form."
+          },
+          "tags": ["gods", "cosmic powers", "wonders"]
+        },
+        "7": {
+          "original_verse": "See now the whole world, with all things moving and unmoving standing together in my body, and anything else you would like to see, Thick-Haired One.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna displays His universal form, where all beings and phenomena exist simultaneously within His body."
+          },
+          "tags": ["universal form", "everything", "divine revelation"]
+        },
+        "8": {
+          "original_verse": "But you are not able to see with your own eye, so I will give to you the divine eye; see my powerful yoga.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Since Arjuna cannot perceive Krishna's divine form with ordinary vision, Krishna grants him divine sight to witness the extraordinary."
+          },
+          "tags": ["divine eye", "sight", "vision"]
+        },
+        "9": {
+          "original_verse": "Your Majesty, when he said this, Hari, the great lord of yoga, showed to Arjuna the Son of Pritha his highest, most powerful, form.",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Sanjaya narrates the moment when Krishna revealed His supreme form to Arjuna, marking a divine revelation."
+          },
+          "tags": ["divine revelation", "supreme form", "power"]
+        },
+        "10": {
+          "original_verse": "It had many mouths and eyes; many wondrous aspects to behold; many divine ornaments; many divine weapons of war, raised high.",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "The form Krishna reveals to Arjuna is overwhelming, with countless features, ornaments, and weapons, symbolizing the infinite powers of Krishna."
+          },
+          "tags": ["divine form", "power", "infinite"]
+        },
+        "11": {
+          "original_verse": "Bearing divine garlands and garments, divine scents and oils, the god held every wonder – facing everywhere, without end.",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Krishna’s form is adorned with divine attributes, symbolizing His limitless reach and presence in all directions."
+          },
+          "tags": ["divine", "ornaments", "limitless"]
+        },
+        "12": {
+          "original_verse": "If a thousand suns had risen in the sky all at once, such brilliance would be the brilliance of that great self.",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "The radiance of Krishna’s universal form is so intense that it surpasses the brilliance of a thousand suns."
+          },
+          "tags": ["brilliance", "light", "divine radiance"]
+        },
+        "13": {
+          "original_verse": "There, Arjuna, the son of Pandu, saw in the body of the God of gods the whole world, standing as one, and yet divided up in many ways.",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Arjuna perceives the entire universe as one within Krishna’s form, with the infinite diversity of existence contained within Him."
+          },
+          "tags": ["universe", "oneness", "diversity"]
+        },
+        "14": {
+          "original_verse": "Then Arjuna, winner of wealth, was seized by awe; his hair stood on end. Bowing, with folded hands, with his head bent towards the god, he said:",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Arjuna is awestruck by Krishna’s supreme form, filled with reverence and humility."
+          },
+          "tags": ["awe", "reverence", "humility"]
+        },
+        "15": {
+          "original_verse": "I see the gods in your body, and all kinds of beings gathered together: Lord Brahma, seated in a lotus, all the sages and all the divine serpents.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna witnesses the presence of all divine beings and sages within Krishna’s cosmic form."
+          },
+          "tags": ["gods", "divinity", "cosmic form"]
+        },
+        "16": {
+          "original_verse": "I see you everywhere: arms, bellies, faces, eyes – form without end. I see you, Lord of the Universe, Manifold One, you have no beginning, no middle, no end.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna sees Krishna's infinite, all-encompassing form, with no start, middle, or end, reflecting His divine nature."
+          },
+          "tags": ["infinite", "divine form", "Krishna"]
+        },
+        "17": {
+          "original_verse": "I see you, who are hard to see, completely, beyond measure. With the light of a sun whose fire is blazing, you shine everywhere – a mountain of light, with crown, club and discus.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna perceives Krishna's radiance, akin to a blazing sun, shining omnipresently with divine weapons in hand."
+          },
+          "tags": ["radiance", "divine", "omnipresence"]
+        },
+        "18": {
+          "original_verse": "You are to be known as the highest, unchanging; you are the great refuge of all, you are the imperishable, eternal protector of dharma. I know your spirit to be ancient.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna acknowledges Krishna as the eternal, unchanging protector of dharma, embodying the imperishable nature of the universe."
+          },
+          "tags": ["eternal", "protector", "dharma"]
+        },
+        "19": {
+          "original_verse": "I see you, with endless vital power, endless arms, eyes of the sun and moon, your mouth taking in fiery offerings, scorching all this world with your own light.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna perceives Krishna's infinite power, with divine attributes that symbolize the sun and moon, consuming everything in His flame."
+          },
+          "tags": ["power", "divine attributes", "consumption"]
+        },
+        "20": {
+          "original_verse": "This realm between earth and sky is filled by you at every point; when the three worlds see your wondrous and awful form, they start to tremble, Great Self.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Krishna's presence fills the entire cosmos, causing all realms to tremble in awe and reverence before His wondrous form."
+          },
+          "tags": ["cosmos", "awe", "tremble"]
+        },
+        "21": {
+          "original_verse": "There, great gatherings of gods enter you. Some sing praise, fearful, with folded hands. When the gatherings of fulfilled beings and great sages say, ‘Svasti!’ they praise you with many songs.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Even the gods and sages, overwhelmed by Krishna's form, offer praises and prayers in reverence to Him."
+          },
+          "tags": ["gods", "praise", "reverence"]
+        },
+        "22": {
+          "original_verse": "They all see you, truly amazed: the Rudras, the Adityas, the Vasus, and the Sadhyas; the All-gods; the two Ashvins; the Maruts; the Drinkers of Steam; the groups of Gandharvas, the Yakshas, the Demons, and those who are fulfilled.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna describes how even the highest beings, from gods to sages, gaze upon Krishna in awe, recognizing His divine supremacy."
+          },
+          "tags": ["gods", "beings", "awe"]
+        },
+        "23": {
+          "original_verse": "Strong-Armed One, when the worlds see your great form, with many eyes and mouths, many arms, thighs and feet, with many fearsome tusks and many bellies, they tremble as I do.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna expresses his fear and amazement at Krishna's terrifying, multi-formed cosmic presence."
+          },
+          "tags": ["fear", "cosmic form", "awe"]
+        },
+        "24": {
+          "original_verse": "Vishnu, since I have seen you ablaze with many colours, touching the sky, flames in your huge eyes, your mouth gaping, my self trembles and I find neither courage nor calm.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "The overwhelming sight of Krishna's divine form, with his blazing colors and fiery presence, leaves Arjuna shaken and devoid of courage."
+          },
+          "tags": ["overwhelm", "fire", "trembling"]
+        },
+        "25": {
+          "original_verse": "Show compassion, Lord of Gods, Abode of the World! When I have seen your faces with many fearsome tusks, so much like the fires at the end of time, I do not know the way, and I find no refuge.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna, overwhelmed by Krishna's form, pleads for mercy, as he sees the destructive power of Krishna resembling the end of time."
+          },
+          "tags": ["compassion", "destruction", "mercy"]
+        },
+        "26": {
+          "original_verse": "And all these sons of Dhritarashtra, alongside the gatherings of kings Bhishma, Drona and Karna, son of the charioteer, together with our chief warriors, too,",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna witnesses the warriors of both sides entering Krishna's terrifying mouth, symbolizing their imminent destruction."
+          },
+          "tags": ["warriors", "destruction", "Krishna"]
+        },
+        "27": {
+          "original_verse": "all in a rush, they enter your terrible mouths, gaping with tusks. Some appear with heads crushed, clinging between your teeth.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna envisions the gruesome fate of warriors being consumed by Krishna's form, as if trapped in His mighty jaws."
+          },
+          "tags": ["consumption", "death", "cosmic form"]
+        },
+        "28": {
+          "original_verse": "The heroes of the mortal world enter your flaming mouths, as so many currents of water in a river might run towards the ocean.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "The warriors' swift destruction is likened to a river flowing into the ocean, symbolizing the inevitability of their fate."
+          },
+          "tags": ["fate", "destruction", "water"]
+        },
+        "29": {
+          "original_verse": "As moths that fly to their full will rush to death in the blazing fire, so, too, worlds rush to death in your mouths.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "The helplessness of beings is compared to moths rushing into the fire, destined for death in Krishna's cosmic form."
+          },
+          "tags": ["fate", "death", "helplessness"]
+        },
+        "30": {
+          "original_verse": "Vishnu, your mouths, their flames licking the worlds, devour on all sides. Your fierce rays burn the earth, even as they fill it with light.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Krishna's cosmic form, with its fiery rays, destroys the world while simultaneously illuminating it with divine light."
+          },
+          "tags": ["destruction", "light", "divinity"]
+        },
+    "11": {
+      "verses": {
+        "31": {
+          "original_verse": "Tell me who you are in your terrible form. May you be honoured, Chosen of the Gods. Show compassion! I want to know you, Primal One; I do not understand your activity.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna, overcome by the overwhelming form of Krishna, seeks to understand the true nature and purpose of Krishna's divine manifestation."
+          },
+          "tags": ["devotion", "divine form", "seeking"]
+        },
+        "32": {
+          "original_verse": "I am time that has aged, who makes the world perish. I have come forth to destroy the worlds. Even without you, these warriors facing off against each other will no longer exist.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna reveals Himself as time, the ultimate force of dissolution, responsible for the destruction of the world and the inevitability of death."
+          },
+          "tags": ["time", "destruction", "inevitable"]
+        },
+        "33": {
+          "original_verse": "So stand up, and gain honour! After conquering enemies, enjoy an abundant reign. I’ve already destroyed them. You who sling arrows from the left and the right, be an instrument, and nothing more.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna encourages Arjuna to fight without hesitation, as the outcome is already decided by Krishna's will."
+          },
+          "tags": ["action", "destiny", "battle"]
+        },
+        "34": {
+          "original_verse": "All these heroes of battle, Drona, Bhishma, Jayadratha and Karna, have been struck down by me. Do not be troubled, but strike! Fight! For you will conquer enemies in battle.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna assures Arjuna that the battle is already won by divine will and that Arjuna is merely the instrument of victory."
+          },
+          "tags": ["assurance", "divine will", "battle"]
+        },
+        "35": {
+          "original_verse": "When he heard the words of the lovely-haired god, Arjuna, trembling despite his kingly crown, his hands folded, fearful, and bowing down, spoke to Krishna again.",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Sanjaya narrates Arjuna's emotional reaction to Krishna's words, where Arjuna is overcome by awe and fear of Krishna's overwhelming form."
+          },
+          "tags": ["fear", "devotion", "emotion"]
+        },
+        "36": {
+          "original_verse": "Bristling-Haired One, it is right that the world exults, delighting in your fame; that the demons are fearful, and flee all places; and that the gatherings of fulfilled beings honour you.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna acknowledges Krishna's divine power and the reverence He commands from both gods and demons."
+          },
+          "tags": ["reverence", "power", "divinity"]
+        },
+        "37": {
+          "original_verse": "And why, Great Self, would they not bow to you, the first maker? Endless lord of gods, greater than Brahma, abode of the world, undying, existent, non-existent, and yet beyond.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna marvels at Krishna’s supreme nature, acknowledging Him as the eternal origin of all creation, beyond all limits and descriptions."
+          },
+          "tags": ["supremacy", "eternity", "creator"]
+        },
+        "38": {
+          "original_verse": "You are the highest abode of all the universe, the god in the beginning, the spirit of old, You are the knower, and that which is to be known. All is pervaded by you, One of Endless Form!",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna praises Krishna as the source and sustainer of all existence, the ultimate truth that transcends all."
+          },
+          "tags": ["universe", "truth", "pervasion"]
+        },
+        "39": {
+          "original_verse": "You are Vayu, Yama, Agni, Varuna, the rabbit-marked moon, the lord of creatures, the first great-grandfather. May honour be made to you a thousand times, and yet again. Honour to you!",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna enumerates various divine aspects of Krishna, recognizing His omnipresence and transcendence across all deities."
+          },
+          "tags": ["divinity", "honour", "cosmic"]
+        },
+        "40": {
+          "original_verse": "Honour to you, before you and behind you; honour to you on all sides! You who are all, you are force without measure, endless courage. Since you reach all, you are all.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna acknowledges Krishna’s all-encompassing presence and limitless power, offering his respect and devotion from all directions."
+          },
+          "tags": ["all-encompassing", "devotion", "omnipresence"]
+        },
+        "41": {
+          "original_verse": "I was in ignorance about your majesty when I said hastily ‘O Krishna of the Yadu, O Friend!’ I was thinking as a friend would – in confusion, and also love.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna humbly admits his ignorance and improper understanding of Krishna’s supreme nature, recognizing the divine beyond their friendship."
+          },
+          "tags": ["ignorance", "humility", "realization"]
+        },
+        "42": {
+          "original_verse": "If you were badly treated, in jest, eating or sitting, lying in bed or in play, alone or even in front of others, I ask your pardon, Immeasurable, Unshakeable One!",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna asks for forgiveness for any unintentional disrespect shown to Krishna, acknowledging Krishna's immensity and unshakable nature."
+          },
+          "tags": ["forgiveness", "devotion", "respect"]
+        },
+        "43": {
+          "original_verse": "You are father of the world, of the moving and the still – its weighty, honoured teacher. There is no one like you in the three worlds. How can there be another who is greater, Incomparable One?",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna praises Krishna as the supreme father, teacher, and the one incomparable in all the worlds."
+          },
+          "tags": ["supreme", "teacher", "incomparability"]
+        },
+        "44": {
+          "original_verse": "Thus bowing with body laid down, I ask your mercy, Praiseworthy Lord. Have patience, God, as a father for a son, or a friend for a friend, a lover for a beloved.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna bows before Krishna, seeking His mercy, comparing Krishna’s love to the care of a father, friend, and lover."
+          },
+          "tags": ["mercy", "love", "devotion"]
+        },
+        "45": {
+          "original_verse": "I have seen what has never before been seen. I am filled with delight; my mind is shaken with fear. God, let me see the form [I know]! Lord of Gods, Abode of the Earth, show compassion.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna, having seen Krishna's universal form, is both in awe and fear, desiring to return to the more familiar form of Krishna."
+          },
+          "tags": ["awe", "fear", "compassion"]
+        },
+        "46": {
+          "original_verse": "I would like to see you in that form, with crown and club and discus in hand. Thousand-Armed One, One Who has All Shapes, take on that four-armed form!",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna requests Krishna to reveal His divine, awe-inspiring four-armed form, which symbolizes the highest aspect of divinity."
+          },
+          "tags": ["divinity", "form", "awe"]
+        },
+        "47": {
+          "original_verse": "Arjuna, in favour to you, I showed this highest form through my own yoga. No one other than you has seen this before; it is made of light, endless, primordial.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna reveals that this divine form, unique to Arjuna, is of primordial, infinite light and is shown to him by His divine yoga."
+          },
+          "tags": ["divine form", "yoga", "light"]
+        },
+        "48": {
+          "original_verse": "Neither by Vedic study nor Vedic sacrifice, nor ritual actions, nor gifts, nor heated disciplines, can I be seen in this form in the human realm by anyone other than you, Brave Kuru.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna explains that this divine form cannot be perceived by ordinary means, such as Vedic rituals, except by those He chooses."
+          },
+          "tags": ["perception", "divine", "exclusivity"]
+        },
+        "49": {
+          "original_verse": "So do not tremble and do not be confused; you have seen my awe-inspiring form, and your dread disappeared, your mind encouraged. See again this form of mine [that you know].",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna reassures Arjuna, telling him not to be frightened by the terrifying vision, and to focus on His familiar, gentle form."
+          },
+          "tags": ["reassurance", "fear", "transformation"]
+        },
+        "50": {
+          "original_verse": "After he spoke to Arjuna, the son of Vasudeva showed his own form again, and he calmed Arjuna’s dread when the great self once again took on a pleasing, gentle appearance.",
+          "speaker": "Sanjaya",
+          "commentary": {
+            "shankaracharya": "Sanjaya narrates how Krishna reassured Arjuna by revealing His calming, familiar form after the terrifying divine vision."
+          },
+          "tags": ["calmness", "reassurance", "transformation"]
+        },
+        "51": {
+          "original_verse": "Mover of Men, as I see this, your gentle human form, I am now composed. My thoughts have returned to a natural state.",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna expresses his relief upon seeing Krishna in His human form, which brings him back to a state of composure and clarity."
+          },
+          "tags": ["relief", "clarity", "composure"]
+        },
+        "52": {
+          "original_verse": "The form of mine which you have seen is hard to discern. Even the gods are eternally wanting to have the sacred sight of this form.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna tells Arjuna that His divine form is beyond ordinary comprehension and even the gods yearn to witness it."
+          },
+          "tags": ["divine", "form", "incomprehensible"]
+        },
+        "53": {
+          "original_verse": "Neither through Veda, nor heated discipline, nor gift, nor sacrifice, is it possible to see me in the way you have seen me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna emphasizes that His true form cannot be understood or seen through rituals or disciplines, only through divine grace."
+          },
+          "tags": ["understanding", "grace", "divinity"]
+        },
+        "54": {
+          "original_verse": "Arjuna, I can only be known by devotion that has no other object. In this way, may I be truly known and seen and reached, Scorcher of the Enemy.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna explains that the only way to truly know Him is through single-minded devotion, which leads to union with the divine."
+          },
+          "tags": ["devotion", "union", "divinity"]
+        },
+        "55": {
+          "original_verse": "The one who acts on my behalf, who holds me as highest, who is devoted to me, who lets go of clinging and is free from hatred towards all beings, comes to me, Son of Pandu.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna explains that the ultimate path to liberation is through selfless service, detachment, and love for all beings."
+          },
+          "tags": ["selflessness", "liberation", "love"]
+        }
+      }
+    },
+    "12": {
+      "verses": {
+        "1": {
+          "original_verse": "Arjuna said: Between the ones who are always joined to yoga, and honour you with devotion, and the ones who honour the imperishable one, the one without form, who is the wisest about yoga?",
+          "speaker": "Arjuna",
+          "commentary": {
+            "shankaracharya": "Arjuna asks Krishna who is the better practitioner of yoga: those devoted to His form or those devoted to the formless Brahman."
+          },
+          "tags": ["yoga", "devotion", "formless"]
+        },
+        "2": {
+          "original_verse": "The Blessed One said: Those who are eternally joined to yoga, and who honour me with the mind fixed on me, and gifted with the highest trust, I think of them as the most joined to yoga.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna answers that those devoted to Him with full trust and concentration are the highest in yoga."
+          },
+          "tags": ["yoga", "trust", "concentration"]
+        },
+        "3": {
+          "original_verse": "But those who honour the imperishable one, who is undefinable, and without form, who pervades all and is beyond thought, unmoving, steady, as if fixed on a mountaintop,",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna describes those who worship the formless and imperishable Brahman, highlighting their dedication."
+          },
+          "tags": ["formless", "Brahman", "worship"]
+        },
+        "4": {
+          "original_verse": "and those whose many senses are reined in together, with equal insight in all places, and who exult in the good of all beings, also reach me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Those who control their senses, see all beings equally, and act for the welfare of others also reach Krishna."
+          },
+          "tags": ["self-control", "compassion", "equality"]
+        },
+        "5": {
+          "original_verse": "The pain of those whose thought focuses on the one without form is greater. The goal of the one without form is hard to reach for those with bodies.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The difficulty of focusing on the formless is greater for those with physical bodies, and it brings greater hardship."
+          },
+          "tags": ["difficulty", "formless", "spiritual practice"]
+        },
+        "6": {
+          "original_verse": "But those who give up all actions to me, who hold me as highest, and with yoga where the goal is clear, in pure concentration, they honour me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Those who dedicate all actions to Krishna, placing Him as the highest goal, and practice yoga with clear focus, honor Him in the truest sense."
+          },
+          "tags": ["dedication", "yoga", "clarity"]
+        },
+        "7": {
+          "original_verse": "Son of Pritha, for those whose thoughts have entered into me, I will very soon become their uplifter from the ocean of death and rebirth.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna promises to elevate those whose thoughts are devoted to Him, freeing them from the cycle of birth and death."
+          },
+          "tags": ["liberation", "devotion", "cycle of rebirth"]
+        },
+        "8": {
+          "original_verse": "Place your mind on me alone; let your power of insight enter into me. Then doubtless, from now on, you will abide in me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna urges Arjuna to concentrate his mind on Him alone, and by doing so, he will surely be united with Him."
+          },
+          "tags": ["concentration", "insight", "unity"]
+        },
+        "9": {
+          "original_verse": "If you cannot put your thought steadily on me, then you should seek to reach me through the practice of yoga, Winner of Wealth.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna suggests that if Arjuna cannot focus his mind on Him, he should pursue yoga to reach Him."
+          },
+          "tags": ["yoga", "devotion", "practice"]
+        },
+        "10": {
+          "original_verse": "If you are not able even to practise, then be focused on my work. Also, while doing actions for my sake, you will reach fulfilment.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "If yoga practice is not possible, Krishna advises Arjuna to dedicate his actions to Him, which will lead to spiritual fulfillment."
+          },
+          "tags": ["dedication", "action", "spiritual fulfillment"]
+        },
+        "11": {
+          "original_verse": "Or, if you are unable to do even this, take refuge in my power, leaving aside all fruit of action. Act from that place, holding back the self.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "If all else fails, Krishna tells Arjuna to surrender to His divine power, renouncing the results of actions and focusing on self-restraint."
+          },
+          "tags": ["surrender", "self-restraint", "divine power"]
+        },
+        "12": {
+          "original_verse": "Wisdom is better than practice, and focused mind is better than wisdom. Letting go of the fruit of action is better than focused mind. From letting go, peace soon comes.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna extols the importance of renouncing the fruits of actions, stating that peace follows detachment more swiftly than intense concentration."
+          },
+          "tags": ["renunciation", "peace", "wisdom"]
+        },
+        "13": {
+          "original_verse": "One who has no hatred for any being, a compassionate friend, without the sense of ‘mine’, without making an ‘I’, one who is patient, for whom pain and pleasure are the same,",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The ideal yogi is one who harbors no hatred, is patient, treats all beings with compassion, and is unaffected by pain or pleasure."
+          },
+          "tags": ["compassion", "patience", "equanimity"]
+        },
+        "14": {
+          "original_verse": "that practitioner of yoga who is always content, whose self is controlled, and whose resolve is firm, whose power of insight and mind are fixed on me, who is devoted to me, that one is dear to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna describes the ideal devotee as one who is content, self-controlled, determined, and always devoted to Him."
+          },
+          "tags": ["contentment", "self-control", "devotion"]
+        },
+        "15": {
+          "original_verse": "The one in whose presence the world does not tremble, and who does not tremble in the presence of the world, who is free from pleasure and impatience, fear and anxiety, is also dear to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The yogi who is unaffected by external circumstances, free from fear, anxiety, and impatience, and remains unshaken, is especially dear to Krishna."
+          },
+          "tags": ["equanimity", "fearlessness", "devotion"]
+        },
+        "16": {
+          "original_verse": "The one who is able, pure and impartial, who sits apart, whose anxiety is gone, who leaves off all endeavours, who is devoted to me, is dear to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "A person who is free from anxiety, detached from worldly endeavours, and devoted to Krishna is cherished by Him."
+          },
+          "tags": ["purity", "devotion", "detachment"]
+        },
+        "17": {
+          "original_verse": "The one who neither rejoices nor resents, neither sorrows nor lusts, letting go of states both happy and unhappy, filled with devotion, is dear to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "True devotion comes from emotional balance, not swayed by joy or sorrow, pain or pleasure."
+          },
+          "tags": ["balance", "emotion", "devotion"]
+        },
+        "18": {
+          "original_verse": "The one for whom enemy and friend, honour and infamy, cold and heat, pleasure and pain, are the same, who has moved away from clinging,",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The one who perceives no difference between friend and foe, or pain and pleasure, has transcended attachment and clinging."
+          },
+          "tags": ["equanimity", "detachment", "balance"]
+        },
+        "19": {
+          "original_verse": "the one for whom curse and praise are equal, who keeps silent, content with whatsoever comes his way, without home, with steady mind, full of devotion, that one is dear to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "True devotion is expressed by those who are unaffected by external praise or blame, remain silent and content in all circumstances."
+          },
+          "tags": ["devotion", "silence", "contentment"]
+        },
+        "20": {
+          "original_verse": "Those who honour that nectar of dharma spoken in this way, holding trust, holding me as highest, devoted to me, are very dear to me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Those who follow the path of righteousness with trust and devotion, considering Krishna as the highest, are especially dear to Him."
+          },
+          "tags": ["righteousness", "trust", "devotion"]
+        }
+      }
+    }
+
+
 
 
 
