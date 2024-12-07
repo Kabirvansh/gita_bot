@@ -1762,6 +1762,342 @@
             ]
           }
         }
+      },
+    "5": {
+      "verses": {
+        "4": {
+          "original_verse": "Children, not the wise, speak of Sānkhya and Karma-Yog as different. He who is truly established in one obtains the results of both.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The paths of Sānkhya (knowledge) and Karma-Yog (action) are ultimately complementary. Krishna highlights the harmony between intellectual realization and practical engagement."
+          },
+          "tags": ["Harmony", "Paths", "Wisdom"]
+        },
+        "5": {
+          "original_verse": "The State that is reached by the Sānkhyas is also reached by the yogīs. He truly sees who sees Sānkhya and Karma-Yog as one.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna stresses the unified goal of liberation through both paths, encouraging integration of knowledge and action."
+          },
+          "tags": ["Liberation", "Unity", "Integration"]
+        },
+        "6": {
+          "original_verse": "But renunciation, O mighty-armed one, is hard to attain without Karma-Yog. The meditative man equipped with Yog attains Brahman without delay.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Action performed in the spirit of dedication aids in renunciation, as it purifies the mind and prepares one for realization of Brahman."
+          },
+          "tags": ["Renunciation", "Action", "Brahman"]
+        },
+        "7": {
+          "original_verse": "The yogī who is devoted, pure, self-controlled, and free from material dualities is established in the Self and remains unaffected by actions.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna explains that a pure and disciplined mind helps a person transcend the binding effects of actions, leading to spiritual stability."
+          },
+          "tags": ["Discipline", "Purity", "Self-Control"]
+        },
+        "8": {
+          "original_verse": "He who knows the truth about the divisions of the Self and actions realizes that he does not act, nor is he entangled by actions.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Knowledge of the true nature of the Self as distinct from the body and actions frees one from identifying with actions and their results."
+          },
+          "tags": ["Self-Knowledge", "Freedom", "Detachment"]
+        },
+        "9": {
+          "original_verse": "He who sees that actions are performed by Nature alone, and that the Self is actionless, truly sees.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Understanding the distinction between the impermanent body and the eternal Self leads to the realization of inaction amidst action."
+          },
+          "tags": ["Inaction", "Nature", "Realization"]
+        },
+        "10": {
+          "original_verse": "He who dedicates all actions to Brahman, abandoning attachment, remains untouched by sin, as a lotus leaf by water.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Offering actions to Brahman while renouncing attachment ensures purity and freedom from the effects of karma."
+          },
+          "tags": ["Detachment", "Purity", "Karma"]
+        },
+        "11": {
+          "original_verse": "By giving up attachment, yogīs undertake work with body, mind, intellect, and even the senses, for self-purification.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Renouncing attachment to results and focusing on self-purification transforms mundane work into a path to liberation."
+          },
+          "tags": ["Purification", "Detachment", "Action"]
+        },
+        "12": {
+          "original_verse": "The resolute yogī, having renounced the fruits of work, attains peace, while the unsteady, driven by desire, is bound by actions.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Detachment from the fruits of action is key to inner peace, while attachment causes entanglement in the cycle of karma."
+          },
+          "tags": ["Peace", "Desire", "Liberation"]
+        },
+        "13": {
+          "original_verse": "The embodied being, having renounced actions mentally, dwells happily in the city of nine gates, neither acting nor causing to act.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Krishna uses the metaphor of the body as a city with nine gates to describe the Self's detachment from physical and mental actions."
+          },
+          "tags": ["Self", "Detachment", "Metaphor"]
+        },
+        "14": {
+          "original_verse": "The Self does not create agentship or actions, nor does it associate with the fruits of actions. It is Nature that acts.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Actions are driven by Nature (Prakriti), not the Self, which remains untouched and eternal."
+          },
+          "tags": ["Nature", "Agentship", "Eternal"]
+        },
+        "15": {
+          "original_verse": "The Omnipresent neither accepts sin nor virtue. Knowledge is covered by ignorance, and thus beings are deluded.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Ignorance obscures the true knowledge of the Self, causing beings to err and suffer in the material world."
+          },
+          "tags": ["Ignorance", "Knowledge", "Delusion"]
+        },
+        "16": {
+          "original_verse": "But among those whose ignorance of the Self is destroyed by wisdom, their wisdom illuminates the highest, like the sun.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Wisdom removes the veil of ignorance, allowing the eternal truth of the Self to shine forth as brightly as the sun."
+          },
+          "tags": ["wisdom", "ignorance", "illumination"]
+        },
+        "17": {
+          "original_verse": "Those whose insight is that, whose selves are that, whose grounding is that, who hold that as highest, and whose evils are shaken off by wisdom, do not go to another birth.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "With minds fixed on the supreme reality, such individuals transcend rebirth, shedding all evils through knowledge."
+          },
+          "tags": ["insight", "rebirth", "knowledge"]
+        },
+        "18": {
+          "original_verse": "The pandits see the same – in a Brahmin, gifted with knowledge and training, as in a cow or an elephant, as in a dog or a dog-cooker.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "True wisdom sees the universal essence in all beings, irrespective of their societal distinctions or physical forms."
+          },
+          "tags": ["equality", "wisdom", "universal essence"]
+        },
+        "19": {
+          "original_verse": "Rebirth is conquered here in this world by those whose minds abide in that sameness; Brahman has no fault, and so they abide in Brahman.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Attaining equanimity and realizing the faultless nature of Brahman leads to liberation from the cycle of birth and death."
+          },
+          "tags": ["equanimity", "liberation", "Brahman"]
+        },
+        "20": {
+          "original_verse": "When one finds something loved, one shouldn’t be excited; when one finds something unloved, one shouldn’t tremble. With insight firm, without confusion, knowing Brahman, one abides in Brahman.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Steadfastness and equanimity in both joy and sorrow reveal one's alignment with Brahman."
+          },
+          "tags": ["steadfastness", "equanimity", "Brahman"]
+        },
+        "21": {
+          "original_verse": "The one who does not cling to sensations from the outside, who finds joy in the self, and who joins with Brahman through yoga, reaches endless joy.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "True joy is eternal and arises from detachment and inner alignment with Brahman through yoga."
+          },
+          "tags": ["joy", "detachment", "Brahman"]
+        },
+        "22": {
+          "original_verse": "Son of Kunti, pleasures born of sensations are like wombs filled with pain; they have a beginning and an end, so the wise one does not rejoice in them.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Material pleasures are fleeting and inherently linked to suffering; wisdom seeks lasting contentment beyond these."
+          },
+          "tags": ["pleasure", "suffering", "contentment"]
+        },
+        "23": {
+          "original_verse": "One who can endure in this world the shock that begins in desire and anger, before release from the body, is joined to yoga and a happy person.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Self-control over desires and anger leads to happiness and prepares one for liberation."
+          },
+          "tags": ["self-control", "desire", "happiness"]
+        },
+        "24": {
+          "original_verse": "The one who practises yoga, who has joy within, delight within, and then radiance within, thus reaches cessation in Brahman, of one being with Brahman.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Inner joy and light achieved through yoga bring liberation and union with Brahman."
+          },
+          "tags": ["yoga", "inner joy", "liberation"]
+        },
+        "25": {
+          "original_verse": "The sages reach cessation in Brahman; their evils destroyed, their dualities cut, their selves restrained, they rejoice in the friendship of all beings.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Restraint, purification, and universal compassion lead to liberation in Brahman."
+          },
+          "tags": ["compassion", "restraint", "liberation"]
+        },
+        "26": {
+          "original_verse": "Cessation in Brahman lies nearby for those ascetics who are restrained, who are not joined to anger and desire, who are restrained in thought and who know the self.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Freedom from anger and desire, combined with self-realization, ensures liberation in Brahman."
+          },
+          "tags": ["anger", "desirelessness", "self-realization"]
+        },
+        "27": {
+          "original_verse": "Making outside sensation truly outside, focusing the eye between the eyebrows, making equal the ingoing breath and the outgoing breath, moving in the nose.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Meditative focus and breath control are pathways to inner peace and spiritual awakening."
+          },
+          "tags": ["meditation", "breath control", "peace"]
+        },
+        "28": {
+          "original_verse": "The sage whose highest path is release, whose sense, mind, and insight are controlled, whose anger, fear, and longing have disappeared, is always released.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Mastery over the senses and emotions leads to eternal liberation."
+          },
+          "tags": ["control", "fearlessness", "release"]
+        },
+        "29": {
+          "original_verse": "That sage attains peace who knows me as the enjoyer of the heated disciplines of sacrifice, as great lord of the whole world, as one whose heart is with all beings.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Understanding Krishna as the ultimate benefactor and friend of all beings brings profound peace and fulfillment."
+          },
+          "tags": ["peace", "Krishna", "fulfillment"]
+        }
       }
+    },
+    "6": {
+      "verses": {
+        "1": {
+          "original_verse": "The Blessed Lord said: He who performs his bounden duty without depending on the fruits of actions, he is a renouncer and also a devotee, and not he who is without fire and without action.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "A true renouncer and yogi is one who acts without attachment to results, as opposed to one who merely gives up external actions."
+          },
+          "tags": ["duty", "renunciation", "devotion"]
+        },
+        "2": {
+          "original_verse": "Know that to be called renunciation which is Yoga; for none becomes a yogi who has not renounced the thought of results of action.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Yoga is the unification of the mind, attainable through renunciation of desires for results."
+          },
+          "tags": ["renunciation", "yoga", "results"]
+        },
+        "3": {
+          "original_verse": "For a sage who is desirous of ascending to Yoga, action is said to be the means; when he has ascended to Yoga, inaction is said to be the means.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Initial discipline involves action, but later realization leads to transcendence and non-attachment to actions."
+          },
+          "tags": ["yoga", "action", "inaction"]
+        },
+        "4": {
+          "original_verse": "When a man is unattached to objects of sense or to actions, having renounced all thoughts, then he is said to have ascended to Yoga.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Detachment from the sensory and mental realms is a marker of yogic ascension."
+          },
+          "tags": ["detachment", "yoga", "renunciation"]
+        },
+        "5": {
+          "original_verse": "One should raise oneself by oneself; one should not let oneself sink; for oneself is verily one's own friend, oneself is verily one's own enemy.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Self-effort is crucial for spiritual progress; the mind can act as an ally or adversary depending on discipline."
+          },
+          "tags": ["self-discipline", "effort", "spirituality"]
+        },
+        "6": {
+          "original_verse": "For him who has conquered himself by himself, his own self is his friend. But for him who has not conquered himself, his own self acts as his enemy.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Mastery over oneself brings harmony; failure to do so results in inner conflict."
+          },
+          "tags": ["self-mastery", "friendship", "conflict"]
+        },
+        "7": {
+          "original_verse": "The supreme Self of him who is self-controlled and serene is balanced in cold and heat, pleasure and pain, and also in honour and dishonour.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Equanimity in the face of dualities is a hallmark of yogic discipline."
+          },
+          "tags": ["equanimity", "self-control", "duality"]
+        },
+        "8": {
+          "original_verse": "The yogi who is satisfied with knowledge and wisdom, who remains unshaken, who has conquered the senses, and to whom a clod of earth, a stone, and gold are alike, is said to be harmonized.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "A balanced yogi treats all material forms equally, rising above attachment and aversion."
+          },
+          "tags": ["balance", "knowledge", "wisdom"]
+        },
+        "9": {
+          "original_verse": "He who has the same attitude towards a benefactor, friend, foe, the indifferent, the neutral, the hateful, a relative, the righteous, and even the unrighteous, excels.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "True spiritual harmony sees beyond superficial distinctions between people."
+          },
+          "tags": ["neutrality", "relationships", "yoga"]
+        },
+        "10": {
+          "original_verse": "A yogi should constantly engage his mind in meditation, remaining in solitude, alone, with controlled mind and body, free from desires and possessions.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Meditation requires focus, solitude, and freedom from material distractions."
+          },
+          "tags": ["meditation", "solitude", "control"]
+        },
+        "11": {
+          "original_verse": "Having established in a clean place his firm seat, neither too high nor too low, made of cloth, a skin and grass, one upon the other;",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "The physical preparation for meditation reflects the importance of stability and purity."
+          },
+          "tags": ["meditation", "preparation", "stability"]
+        },
+        "12": {
+          "original_verse": "There, having made the mind one-pointed, with the actions of the mind and the senses controlled, let him practice Yoga for the purification of the self.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Mental focus and sensory discipline are central to self-purification through Yoga."
+          },
+          "tags": ["yoga", "focus", "purification"]
+        },
+        "13": {
+          "original_verse": "Holding the body, head, and neck erect, motionless and firm, looking at the tip of the nose and not around, let him focus his mind.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Physical posture aids concentration and mental discipline in Yoga."
+          },
+          "tags": ["posture", "concentration", "discipline"]
+        },
+        "14": {
+          "original_verse": "Serene and fearless, firm in the vow of celibacy, having controlled the mind, thinking of Me and balanced, let him sit, intent on Me.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Mental steadiness combined with devotion brings the yogi closer to the divine."
+          },
+          "tags": ["devotion", "fearlessness", "focus"]
+        },
+        "15": {
+          "original_verse": "With the mind harmonized by Yoga, the yogi, rid of sins, attains easily the infinite bliss of contact with the supreme Self.",
+          "speaker": "Krishna",
+          "commentary": {
+            "shankaracharya": "Through harmonization and purity, the yogi achieves communion with the Supreme."
+          },
+          "tags": ["harmony", "bliss", "self"]
+        }
+
+
     }
   }
