@@ -761,6 +761,22 @@
       },
       "3": {
         "verses": {
+      "1": {
+        "original_verse": "Mover of Men, if your idea is that insight is stronger than action, then why do you enjoin me to such terrible action, Lovely-Haired One?",
+        "speaker": "Arjuna",
+        "commentary": {
+          "shankaracharya": "Arjuna expresses confusion as Krishna has praised wisdom and renunciation, yet he is urging him toward action. Arjuna perceives an apparent contradiction and seeks clarification."
+        },
+        "tags": ["confusion", "wisdom vs action", "doubt"]
+      },
+      "2": {
+        "original_verse": "Through words that seem contradictory, you confuse my insight; tell me one thing that is without doubt – how might I reach the higher good?",
+        "speaker": "Arjuna",
+        "commentary": {
+          "shankaracharya": "Arjuna requests Krishna to resolve his doubt by providing a clear path, as the mixed messages on knowledge and action leave him uncertain."
+        },
+        "tags": ["higher good", "clarity", "question"]
+      },
           "3": {
             "original_verse": "Blameless One, in this world, a double foundation was taught by me in ancient times: the yoga of knowledge for those who follow samkhya, and the yoga of action for those who practise yoga.",
             "speaker": "Krishna",
@@ -3708,8 +3724,6 @@
           },
           "tags": ["destruction", "light", "divinity"]
         },
-    "11": {
-      "verses": {
         "31": {
           "original_verse": "Tell me who you are in your terrible form. May you be honoured, Chosen of the Gods. Show compassion! I want to know you, Primal One; I do not understand your activity.",
           "speaker": "Arjuna",
@@ -4352,18 +4366,1461 @@
       }
     }
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
+  "14": {
+    "verses": {
+      "1": {
+        "original_verse": "I will tell you again the highest wisdom; when the sages came to know this utmost wisdom, they went from here to the highest fulfilment.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna introduces the supreme wisdom that leads to liberation, emphasizing its transformative power as realized by sages."
+        },
+        "tags": ["wisdom", "liberation", "sages"]
+      },
+      "2": {
+        "original_verse": "After they have arrived at this wisdom, the same essence as myself, they do not come into being at the creation, nor do they tremble at the dissolution.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Those who attain unity with the divine essence transcend cycles of creation and destruction, achieving eternal liberation."
+        },
+        "tags": ["creation", "dissolution", "unity"]
+      },
+      "3": {
+        "original_verse": "Son of Bharata, the great Brahman is my womb; in this I place the embryo. From that emerges the origin of all beings.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna describes Brahman as the source of all creation, likened to a womb where the seed of existence is placed."
+        },
+        "tags": ["Brahman", "creation", "source"]
+      },
+      "4": {
+        "original_verse": "Son of Kunti, Brahman is the great womb of all forms that exist; I am the father who places the seeds.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna positions Himself as the active principle that initiates creation, with Brahman as the sustaining source."
+        },
+        "tags": ["Brahman", "father", "creation"]
+      },
+      "5": {
+        "original_verse": "Strong-Armed One, sattva, rajas and tamas are gunas born of matter; they bind the embodied, imperishable one within the body.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The gunas, or qualities of nature, arise from matter and bind the eternal Self to the physical body."
+        },
+        "tags": ["gunas", "Self", "body"]
+      },
+      "6": {
+        "original_verse": "Blameless One, there sattva is stainless and brings light; it binds by connection to joy, and by connection to wisdom.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattva, the purest quality, promotes clarity and joy but can bind through attachment to knowledge and happiness."
+        },
+        "tags": ["sattva", "light", "joy"]
+      },
+      "7": {
+        "original_verse": "Son of Kunti, recognize that rajas has the nature of passion arising from connection to thirst; it binds this embodied one through connection to action.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajas is characterized by desire and action, binding the Self through restless activity and craving."
+        },
+        "tags": ["rajas", "passion", "action"]
+      },
+      "8": {
+        "original_verse": "Son of Bharata, recognize that tamas is born of ignorance, and is the confusion of all embodied ones; it binds through sleep, laziness and distraction.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamas, arising from ignorance, deludes beings through inertia and lack of clarity, leading to inaction."
+        },
+        "tags": ["tamas", "ignorance", "confusion"]
+      },
+      "9": {
+        "original_verse": "Son of Bharata, sattva brings connection to joy; rajas brings connection to action; tamas brings connection to neglect, and obscures wisdom.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Each guna has distinct effects: sattva illuminates, rajas incites activity, and tamas obscures understanding."
+        },
+        "tags": ["gunas", "wisdom", "action"]
+      },
+      "10": {
+        "original_verse": "Son of Bharata, sattva ascends when it prevails over rajas and tamas; rajas can prevail over sattva and tamas; tamas can prevail over sattva and rajas.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The gunas compete for dominance, shaping the individual's state of mind and actions."
+        },
+        "tags": ["sattva", "rajas", "tamas"]
+      },
+      "11": {
+        "original_verse": "When a light is born in all doorways of this body, and when wisdom occurs, then one should know that sattva has grown strong.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The predominance of sattva manifests as wisdom and clarity, illuminating the individual’s perception."
+        },
+        "tags": ["light", "sattva", "wisdom"]
+      },
+      "12": {
+        "original_verse": "Bull of the Bharatas, greed, exertion, the beginning of action, restlessness and lust are born when rajas has grown strong.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The dominance of rajas leads to excessive desire, restlessness, and compulsive action."
+        },
+        "tags": ["rajas", "greed", "restlessness"]
+      },
+      "13": {
+        "original_verse": "Son of Kuru, absence of light, absence of exertion, neglect, and confusion are born when tamas has grown strong.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamas manifests as darkness and inertia, hindering progress and causing delusion."
+        },
+        "tags": ["tamas", "inertia", "delusion"]
+      },
+      "14": {
+        "original_verse": "When sattva has grown strong, the embodied one goes to dissolution; then one enters the stainless realms of those who know the highest.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "A sattvic state at death leads to realms of purity and knowledge, paving the way for liberation."
+        },
+        "tags": ["sattva", "liberation", "purity"]
+      },
+      "15": {
+        "original_verse": "When [at death] one dissolves in rajas, one is born among those clinging to action; when [at death] one dissolves in tamas, one is born in the wombs of the deluded.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Death in rajas results in rebirth among the action-driven, while tamas leads to lives of delusion."
+        },
+        "tags": ["rajas", "tamas", "rebirth"]
+      },
+      "16": {
+        "original_verse": "They say that action well done has fruit without stain, filled with sattva; but the fruit of rajas is pain, and the fruit of tamas is ignorance.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Actions born of sattva produce pure and beneficial results, while rajas leads to dissatisfaction, and tamas results in ignorance and inertia."
+        },
+        "tags": ["actions", "sattva", "ignorance"]
+      },
+      "17": {
+        "original_verse": "From sattva, wisdom is born, and from rajas, greed is born; neglect, confusion and ignorance arise from tamas.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Each guna produces distinct outcomes: sattva fosters clarity, rajas incites desire, and tamas causes delusion and ignorance."
+        },
+        "tags": ["wisdom", "greed", "ignorance"]
+      },
+      "18": {
+        "original_verse": "The ones who abide in sattva rise up; the ones who have rajas abide in the middle; the ones who abide in the lowest guna state, those who have tamas, go downward.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The predominance of sattva elevates individuals spiritually, rajas keeps them engaged in worldly actions, and tamas leads to degradation."
+        },
+        "tags": ["elevation", "guna", "degradation"]
+      },
+      "19": {
+        "original_verse": "When the one who observes perceives an agent which is not separate from the gunas, and knows the element higher than the gunas, that one reaches my being.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Realizing the gunas as the cause of actions and transcending them through wisdom leads one to unity with Krishna."
+        },
+        "tags": ["transcendence", "wisdom", "unity"]
+      },
+      "20": {
+        "original_verse": "When the embodied one transcends these three gunas which come into being in the body, that one reaches eternity, and is free from sorrow, old age, death and birth.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "By rising above the gunas, one attains liberation, transcending the cycles of birth and death and achieving eternal freedom."
+        },
+        "tags": ["liberation", "eternity", "freedom"]
+      },
+      "21": {
+        "original_verse": "Splendid One, does one who has transcended the three gunas have special marks and practice? And how does one transcend the three gunas?",
+        "speaker": "Arjuna",
+        "commentary": {
+          "shankaracharya": "Arjuna seeks clarity on the characteristics and methods of transcending the gunas, aiming to understand the liberated state."
+        },
+        "tags": ["questions", "gunas", "transcendence"]
+      },
+      "22": {
+        "original_verse": "Son of Pandu, that one does not hate occurrences of confusion, or of exertion, or of brightness; nor does that one desire that they not occur.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "A person transcending the gunas neither resents nor craves their effects, maintaining equanimity regardless of circumstances."
+        },
+        "tags": ["equanimity", "acceptance", "gunas"]
+      },
+      "23": {
+        "original_verse": "One who stands firm, and does not stir, one who is seated as if sitting apart, who is not shaken by the gunas, but thinks ‘The gunas are turning’.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The observer remains detached, recognizing the gunas as the forces acting, while staying rooted in their own nature."
+        },
+        "tags": ["detachment", "observation", "steadiness"]
+      },
+      "24": {
+        "original_verse": "One who is self-contained; for whom pleasure and pain are the same, as are a lump of earth, a stone and a piece of gold; one who is steady, for whom the loved and unloved are equal, as are praise and blame.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The transcendent individual views dualities such as pleasure and pain, or praise and blame, with the same calm detachment."
+        },
+        "tags": ["equanimity", "detachment", "steadiness"]
+      },
+      "25": {
+        "original_verse": "The one for whom honour and dishonour are equal; as are friend and enemy; who abandons all endeavours; that one is said to transcend the gunas.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Transcendence is marked by impartiality toward relationships and freedom from the pursuit of external objectives."
+        },
+        "tags": ["impartiality", "freedom", "gunas"]
+      },
+      "26": {
+        "original_verse": "And the one who serves me with the yoga of devotion, and does not waver, that one transcends the gunas and becomes ready for becoming one with Brahman.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Devotion to Krishna, through unwavering focus and practice, leads to transcending the gunas and merging with Brahman."
+        },
+        "tags": ["devotion", "transcendence", "Brahman"]
+      },
+      "27": {
+        "original_verse": "I am the support of Brahman, the immortal and imperishable; and the support of everlasting dharma; and the support of unique joy.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna declares Himself as the foundation of Brahman, eternal righteousness, and supreme bliss, highlighting His transcendental nature."
+        },
+        "tags": ["Brahman", "support", "bliss"]
+      }
     }
+  },
+  "15": {
+    "verses": {
+      "1": {
+        "original_verse": "They say the ashvattha tree is imperishable, its roots high, its branches below. The metres are its leaves; the one who knows this is wise in the Veda.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The ashvattha tree symbolizes the impermanence of the material world. Its roots represent Brahman, and its leaves (the Vedas) provide guidance on understanding its essence."
+        },
+        "tags": ["ashvattha", "impermanence", "Vedas"]
+      },
+      "2": {
+        "original_verse": "Its branches spread wide below and above, grown large through the gunas, it sprouts the objects of sense; its roots are stretched below, growing action in the human realm.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The tree's branches represent the manifestations of the gunas, while its roots symbolize actions that entangle beings in the material world."
+        },
+        "tags": ["gunas", "actions", "manifestations"]
+      },
+      "3": {
+        "original_verse": "The form of the ashvattha is not to be discerned here, neither its end, nor beginning, nor ongoing life. When its fully grown roots are cut by the strong axe of non-clinging,",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The tree's form is elusive, emphasizing the illusory nature of the world. Detachment is the axe that cuts through this illusion."
+        },
+        "tags": ["detachment", "illusion", "world"]
+      },
+      "4": {
+        "original_verse": "then that place must be sought where, once they have gone, they will not turn back again, and they think, ‘I take refuge in that first spirit where activity flowed forth in ancient times.’",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Liberation comes from seeking refuge in the eternal source of creation, transcending the cycle of rebirth."
+        },
+        "tags": ["liberation", "eternal", "creation"]
+      },
+      "5": {
+        "original_verse": "Without pride or confusion, the wrongs of clinging vanquished, eternal in the highest self, desires turned away, freed from dualities of pleasure and pain, those who are not confused go to that imperishable place.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Freedom from ego and attachment leads to transcendence, where one attains the imperishable state beyond dualities."
+        },
+        "tags": ["freedom", "transcendence", "imperishable"]
+      },
+      "6": {
+        "original_verse": "Neither the sun nor the rabbit-marked moon nor flame lights up that place; when they have gone to my highest dwelling place, they do not return.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The supreme abode is self-illuminating and eternal, free from the cycles of return."
+        },
+        "tags": ["supreme abode", "eternal", "illumination"]
+      },
+      "7": {
+        "original_verse": "Just a fragment of me in the realm of the living is the eternal individual life; it draws to itself the senses dwelling in material nature, and the sixth [sense] is the mind.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The individual soul, as a fragment of Krishna, interacts with the material world through the senses and mind."
+        },
+        "tags": ["soul", "senses", "mind"]
+      },
+      "8": {
+        "original_verse": "When the lord gains a body, and when he leaves it, he goes and takes up the senses, just as the wind takes fragrances from the place where they began.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The soul carries its sensory faculties from one body to another, like wind transporting scents."
+        },
+        "tags": ["soul", "body", "senses"]
+      },
+      "9": {
+        "original_verse": "This lord rules taste and smell, hearing, sight and touch, as well as the mind; he enjoys the objects of the senses.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The individual soul experiences the material world through sensory perceptions, driven by desires."
+        },
+        "tags": ["perception", "senses", "desires"]
+      },
+      "10": {
+        "original_verse": "The confused do not perceive the lord as he leaves or stays, or partakes in the midst of the gunas, but the ones with eyes of wisdom see him.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Only the wise perceive the Self as it transcends the gunas and its interactions with the material world."
+        },
+        "tags": ["wisdom", "Self", "gunas"]
+      },
+      "11": {
+        "original_verse": "In their effort, the practitioners of yoga see this one abiding in the self, but even with effort those thoughtless ones whose selves are not prepared, do not see him.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Yoga practitioners with disciplined minds perceive the Self, whereas those lacking preparation remain blind to it."
+        },
+        "tags": ["yoga", "Self", "discipline"]
+      },
+      "12": {
+        "original_verse": "The brilliance which comes from the sun lights up the world with no break; it is in the moon, and in fire; recognize that brilliance as mine.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The light of the sun, moon, and fire is an expression of Krishna’s divine brilliance."
+        },
+        "tags": ["brilliance", "sun", "divinity"]
+      },
+      "13": {
+        "original_verse": "When I enter the earth on which all creatures walk, I preserve all beings with energy. When I become Soma, liquid in nature, I cause the plants to flower.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna sustains life on Earth through His energy, nurturing all living beings and promoting growth."
+        },
+        "tags": ["sustenance", "growth", "energy"]
+      },
+      "14": {
+        "original_verse": "When I become that fire which belongs to all people, and enter the body of all who breathe, I have joined the in-breath with the out-breath, and I cook four kinds of food.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna, as the digestive fire, processes sustenance within all beings, supporting life’s vital functions."
+        },
+        "tags": ["digestive fire", "sustenance", "life"]
+      },
+      "15": {
+        "original_verse": "I am seated in the heart of all; memory, wisdom and reason come from me. I am especially to be known through the Vedas, as I am a knower of Veda and the creator of Vedanta.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna resides in every heart as the source of memory, wisdom, and understanding, and is the ultimate knowledge in the Vedas."
+        },
+        "tags": ["heart", "wisdom", "Vedas"]
+      },
+      "16": {
+        "original_verse": "In the world, there are two spirits; one can be destroyed, and the other can never be destroyed. All beings can be destroyed, but the one who stands above all is called the indestructible.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna distinguishes between the perishable beings of the world and the indestructible Self that transcends material existence."
+        },
+        "tags": ["spirit", "perishable", "indestructible"]
+      },
+      "17": {
+        "original_verse": "But the highest spirit is other than this; it is called the highest self, and when it enters the three worlds, it holds them up as the imperishable lord.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The supreme Self, beyond both the perishable and indestructible, sustains the entire creation as the imperishable lord."
+        },
+        "tags": ["highest self", "imperishable", "creation"]
+      },
+      "18": {
+        "original_verse": "Since I go beyond that which is destroyed and am higher even than the indestructible, I am known as the highest self – in the world and in the Veda.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna asserts His transcendence over all beings, including the indestructible Self, affirming His identity as the supreme reality recognized in the Vedas."
+        },
+        "tags": ["transcendence", "Vedas", "supreme reality"]
+      },
+      "19": {
+        "original_verse": "Son of Bharata, the one who is not confused recognizes me as the highest spirit; recognizing all, that one is devoted to me with fullness of being.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "True wisdom lies in perceiving Krishna as the highest spirit and devoting oneself entirely to Him with clarity and understanding."
+        },
+        "tags": ["devotion", "highest spirit", "clarity"]
+      },
+      "20": {
+        "original_verse": "Blameless One, Son of Bharata, this most secret rule is told by me, and when one has awakened, one would be filled with insight, and finished with one’s task.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna concludes by revealing that understanding this secret teaching leads to enlightenment and the ultimate fulfillment of life's purpose."
+        },
+        "tags": ["secret teaching", "enlightenment", "fulfillment"]
+      }
+    }
+  },
+  "16": {
+    "verses": {
+      "1": {
+        "original_verse": "Purity in truth; being without fear; abiding in the yoga of wisdom; sacrifice, self-control and charity; the right path, heated discipline and study of the Vedas;",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna outlines the qualities of the divine, emphasizing fearlessness, inner purity, and steadfastness in spiritual discipline and selfless action."
+        },
+        "tags": ["fearlessness", "purity", "self-control"]
+      },
+      "2": {
+        "original_verse": "absence of harm; truthfulness; absence of anger; renunciation and peace; avoidance of slander; compassion for beings; freedom from lust, kindness, modesty and discretion;",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "These traits embody non-violence, honesty, and control over one's emotions, marking divine behavior."
+        },
+        "tags": ["non-violence", "truthfulness", "compassion"]
+      },
+      "3": {
+        "original_verse": "Son of Bharata, energy, patience, courage and purity; absence of hatred; moderation in honour: these are the traits of those born to the divine condition.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Divine individuals exhibit endurance, courage, and an absence of hatred, focusing on inner purity and humility."
+        },
+        "tags": ["endurance", "courage", "purity"]
+      },
+      "4": {
+        "original_verse": "Son of Pritha, fraud, insolence and hostile conceit; anger, rough speech too, and ignorance; these are the traits of those born to the demonic condition.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna contrasts divine traits with demonic ones, emphasizing deceit, arrogance, and ignorance as characteristics to be avoided."
+        },
+        "tags": ["deceit", "arrogance", "ignorance"]
+      },
+      "5": {
+        "original_verse": "The divine condition leads to freedom, and the demonic condition leads to bondage. Do not be sorrowful; you are born to the divine condition, Son of Pandu.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna reassures Arjuna of his divine nature, which leads to liberation, unlike the bondage caused by demonic traits."
+        },
+        "tags": ["freedom", "liberation", "bondage"]
+      },
+      "6": {
+        "original_verse": "In this realm, there are created two kinds of beings: divine and demonic. The divine has been told in detail; now hear from me about the demonic, Son of Pritha.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna introduces a deeper explanation of the demonic nature to highlight what should be avoided."
+        },
+        "tags": ["divine", "demonic", "nature"]
+      },
+      "7": {
+        "original_verse": "Demonic men recognize neither exertion, nor its cessation, neither purity nor even good action. There is no truth found in them.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Demonic individuals lack discernment and truthfulness, ignoring purity and righteous action."
+        },
+        "tags": ["demonic", "truthlessness", "inaction"]
+      },
+      "8": {
+        "original_verse": "They do not have truth, and have no place to stand. They say that the earth is godless, not created in causal succession. How else is it caused? They say: ‘It is caused by desire!’",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Demonic perspectives deny divine causation, attributing creation solely to desire, rejecting spiritual foundations."
+        },
+        "tags": ["creation", "desire", "denial"]
+      },
+      "9": {
+        "original_verse": "Supporting this view, those whose selves are lost, whose insight is narrow and whose actions are cruel come into being as enemies bent on the destruction of the world.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Those blinded by ignorance and cruelty become adversaries of the world, leading to chaos and destruction."
+        },
+        "tags": ["ignorance", "cruelty", "destruction"]
+      },
+      "10": {
+        "original_verse": "Dependent on desire which is hard to satisfy, steeped in fraud, pride and drunkenness, they have grasped false ideas through confusion, and move ahead with impure vows.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Demonic individuals are driven by insatiable desires, false beliefs, and impure intentions, causing harm to themselves and others."
+        },
+        "tags": ["desire", "pride", "confusion"]
+      },
+      "11": {
+        "original_verse": "With no end of anxious thoughts, clinging to an end which is dissolution, their highest goal is the enjoyment of desire. Without a doubt of [their] truth,",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Driven by endless worries and desires, they remain trapped in the pursuit of transient pleasures."
+        },
+        "tags": ["anxiety", "desires", "transience"]
+      },
+      "12": {
+        "original_verse": "they are bound by a hundred snares of hope; their highest goals are anger and desire; they seek hoards of wealth in mistaken ways, for the enjoyment of desire.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Bound by false hopes, demonic individuals are consumed by anger, greed, and unethical pursuit of wealth."
+        },
+        "tags": ["greed", "anger", "wealth"]
+      },
+      "13": {
+        "original_verse": "‘This has been gained by me today! And I will get this desire – a desire which carries the mind like a chariot. This wealth is also mine, and so will this be mine!",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Their minds are ensnared by greed and a sense of ownership, constantly chasing material gains."
+        },
+        "tags": ["greed", "desires", "ownership"]
+      },
+      "14": {
+        "original_verse": "This enemy has been struck down by me, and I will strike others too! I am the lord, the one who enjoys, fulfilled, strong and happy.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Demonic pride manifests in dominance over others, coupled with self-centered joy and arrogance."
+        },
+        "tags": ["pride", "arrogance", "dominance"]
+      },
+      "15": {
+        "original_verse": "I am rich and well born; who else is there like me? I will sacrifice; I will give; I will be joyful!’ Thus say those confused by ignorance.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Confusion by ignorance leads to self-conceit and false notions of superiority and generosity."
+        },
+        "tags": ["self-conceit", "ignorance", "arrogance"]
+      },
+      "16": {
+        "original_verse": "Wandering away with many thoughts, they are covered by a net of confusion. Clinging to the enjoyment of desire, they fall into an impure hell.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The demonic individuals, consumed by endless desires and confusion, are entrapped in a cycle of ignorance and ultimately fall into spiritual degradation."
+        },
+        "tags": ["desires", "confusion", "degradation"]
+      },
+      "17": {
+        "original_verse": "Immovable, self-absorbed, accompanied by lust, pride and wealth, they sacrifice in name only, fraudulently, and without Vedic rules.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Their sacrifices lack sincerity and adhere to no Vedic principles, driven by ego, lust, and the desire for recognition."
+        },
+        "tags": ["ego", "pride", "insincerity"]
+      },
+      "18": {
+        "original_verse": "They cling to anger and desire, arrogance and force, and ‘I’-making; those who grumble in this way hate me, whether in their own or another’s body.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Such individuals are consumed by selfishness and hatred, failing to recognize Krishna's presence within themselves and others."
+        },
+        "tags": ["anger", "selfishness", "hatred"]
+      },
+      "19": {
+        "original_verse": "In cycles of rebirth, over and over, I throw the impure, wretched people, cruel and filled with hate, into the wombs of demons.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Those entrenched in demonic traits are condemned to repeated births in inferior states, perpetuating their suffering."
+        },
+        "tags": ["rebirth", "demonic", "suffering"]
+      },
+      "20": {
+        "original_verse": "Son of Kunti, when they have entered the demon womb, they are deluded birth after birth. They do not reach me, and then they travel on the lowest way.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Demonic tendencies lead to delusion and spiritual ignorance, preventing individuals from attaining liberation or Krishna's grace."
+        },
+        "tags": ["delusion", "ignorance", "bondage"]
+      },
+      "21": {
+        "original_verse": "This is the threefold gate of hell, which destroys the self. Therefore, one should let go the threefold group of greed, anger and desire.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna warns against greed, anger, and desire, describing them as gateways to spiritual ruin and urging their abandonment."
+        },
+        "tags": ["greed", "anger", "desire"]
+      },
+      "22": {
+        "original_verse": "Son of Kunti, when one is freed from the three gates of dark tamas, one proceeds in the best way for the self. Thus one goes on the highest way.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Liberation from tamas and its associated vices allows one to walk the path of righteousness and self-realization."
+        },
+        "tags": ["tamas", "liberation", "righteousness"]
+      },
+      "23": {
+        "original_verse": "The one who lets go of the rule of Vedic law and exists according to his own desires, reaches neither fulfilment nor happiness nor the highest way.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Ignoring the Vedic principles leads to spiritual stagnation, unfulfilled desires, and failure to attain liberation."
+        },
+        "tags": ["Vedic law", "desires", "unfulfillment"]
+      },
+      "24": {
+        "original_verse": "Thus, following Vedic law, which focuses on that to be done and not to be done, and knowing Vedic law, you should perform action here in this world.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna emphasizes the importance of aligning actions with Vedic teachings, which guide one toward righteousness and liberation."
+        },
+        "tags": ["Vedic law", "action", "righteousness"]
+      }
+    }
+  },
+  "17": {
+    "verses": {
+      "1": {
+        "original_verse": "Krishna, what is the place of those who let go of the rule of Vedic law, but who sacrifice filled with trust? Is it sattva, or rajas or tamas?",
+        "speaker": "Arjuna",
+        "commentary": {
+          "shankaracharya": "Arjuna asks Krishna about the nature of those who worship with faith but do not follow scriptural injunctions, seeking clarity on their classification among the gunas."
+        },
+        "tags": ["faith", "Vedic law", "gunas"]
+      },
+      "2": {
+        "original_verse": "There are three kinds of trust; it is born of one’s own nature. Listen to this: it can be sattvic, or rajasic, or tamasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Faith varies based on an individual's inherent nature, aligning with the qualities of sattva, rajas, or tamas."
+        },
+        "tags": ["faith", "nature", "gunas"]
+      },
+      "3": {
+        "original_verse": "Son of Bharata, trust follows the truth of each guna. Humans are made of trust; they grow to become whatever they trust.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "A person's faith shapes their essence and actions, influenced by the predominant guna in their nature."
+        },
+        "tags": ["trust", "gunas", "nature"]
+      },
+      "4": {
+        "original_verse": "The sattvic people sacrifice to gods, and the rajasic ones to demons and yakshas. The others, the tamasic ones, sacrifice to the dead and gangs of ghosts.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sacrificial preferences vary based on the gunas: sattvic individuals worship gods, rajasic ones revere power-oriented beings, and tamasic ones are drawn to dark entities."
+        },
+        "tags": ["sacrifice", "worship", "gunas"]
+      },
+      "5": {
+        "original_verse": "People who undergo fierce, heated disciplines, not ordained by Vedic law, joined to ‘I’-making and fraud, together with force, rage and desire –",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna criticizes extreme practices driven by ego, desire, and pride that lack scriptural backing and cause harm."
+        },
+        "tags": ["ego", "desire", "discipline"]
+      },
+      "6": {
+        "original_verse": "recognize these as demonic in intent, thoughtlessly harming the multitude of elements in the body, and also harming me, who exists in the body.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Harmful practices arising from tamas are not only self-destructive but also disrespect the divine essence within all beings."
+        },
+        "tags": ["demonic", "harm", "divine essence"]
+      },
+      "7": {
+        "original_verse": "Food is also dear to everyone in three ways: as sacrifice, as heat and also as gift. Hear now the difference between them.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Food preferences are influenced by the gunas and reflect one's nature, impacting health, satisfaction, and spiritual progress."
+        },
+        "tags": ["food", "sacrifice", "gunas"]
+      },
+      "8": {
+        "original_verse": "The foods that increase satisfaction, pleasure, health, strength, truth and long life, that are flavourful, smooth, firm and pleasant, are dear to the sattvic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic food promotes vitality, clarity, and longevity, aligning with spiritual well-being and harmony."
+        },
+        "tags": ["sattvic", "health", "vitality"]
+      },
+      "9": {
+        "original_verse": "Foods that are hot, salty and sour, sharp, burning, rough and fiery, are desired by the rajasic, yielding disease, grief and sorrow.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic food stimulates excessive energy but often leads to physical and emotional imbalance."
+        },
+        "tags": ["rajasic", "imbalance", "disease"]
+      },
+      "10": {
+        "original_verse": "Food that is dear to the tamasic is not fit for sacrifice; it is a leftover, and stale, stinking, tasteless and spoiled.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic food depletes vitality and clarity, contributing to ignorance and lethargy."
+        },
+        "tags": ["tamasic", "lethargy", "ignorance"]
+      },
+      "11": {
+        "original_verse": "Sacrifice is sattvic when offered according to Vedic law by those who desire no fruit, and who focus the mind on that which is to be sacrificed.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic sacrifice is selfless, adhering to scriptural guidance and performed with devotion and detachment."
+        },
+        "tags": ["sacrifice", "sattvic", "selfless"]
+      },
+      "12": {
+        "original_verse": "But recognize that sacrifice is rajasic when it is offered with the fruit held in mind, and also offered toward a fraudulent end, Best of the Bharatas.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic sacrifices are driven by personal gain or recognition, lacking the purity of intent found in sattvic acts."
+        },
+        "tags": ["rajasic", "sacrifice", "self-interest"]
+      },
+      "13": {
+        "original_verse": "People see as tamasic a sacrifice given without confidence, without sponsorship, the mantras thrown away, the food not offered and Vedic law disparaged.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic sacrifices are devoid of faith and respect for tradition, performed carelessly and without proper ritual."
+        },
+        "tags": ["tamasic", "sacrifice", "carelessness"]
+      },
+      "14": {
+        "original_verse": "Honouring the gods, twice-born teachers and people of wisdom; purity, virtue, chastity and absence of harm, are said to be the heated discipline of the body.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Discipline of the body includes respect for the divine, purity, and adherence to virtuous conduct."
+        },
+        "tags": ["discipline", "purity", "virtue"]
+      },
+      "15": {
+        "original_verse": "Speech that does not cause distress, that is truthful, pleasant and beneficial, and the practice of Vedic study, are said to be the heated discipline of the word.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Discipline of speech emphasizes truthfulness, kindness, and the pursuit of spiritual wisdom through study."
+        },
+        "tags": ["speech", "truthfulness", "discipline"]
+      },
+      "16": {
+        "original_verse": "Clarity of mind, gentleness, self-control, silence and purity of being are said to be the heated discipline of the mind.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Mental discipline involves cultivating clarity, calmness, and inner purity, essential for spiritual growth."
+        },
+        "tags": ["mental discipline", "clarity", "self-control"]
+      },
+      "17": {
+        "original_verse": "They regard this threefold heated discipline as sattvic when it is practised with the highest trust by those who are joined to yoga and desire no fruit.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic discipline is marked by selflessness, trust, and alignment with yoga, focusing on spiritual goals rather than material rewards."
+        },
+        "tags": ["sattvic", "selflessness", "yoga"]
+      },
+      "18": {
+        "original_verse": "That heated discipline is said to be rajasic, wavering and unfixed, when it is done fraudulently, with the purpose of honour, respect and favour.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic discipline is driven by ego and desire for recognition, lacking consistency and purity of intent."
+        },
+        "tags": ["rajasic", "ego", "recognition"]
+      },
+      "19": {
+        "original_verse": "That heated discipline is said to be tamasic when it is done with torment, with self-deluded ideas, or with the purpose of destroying another being.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic discipline involves harmful intent, delusion, and self-inflicted suffering, deviating from spiritual principles."
+        },
+        "tags": ["tamasic", "delusion", "harm"]
+      },
+      "20": {
+        "original_verse": "That gift given to one who has not done a previous favour, and only with the thought ‘This is to be given’, in the right time and place, and to the right person, that gift is known as sattvic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic giving is selfless, thoughtful, and aligns with dharma, focusing on the act rather than expecting a return."
+        },
+        "tags": ["sattvic", "selfless", "giving"]
+      },
+      "21": {
+        "original_verse": "But that given with the purpose of reward, or with regard to the fruit, and that given unwillingly, that gift is known as rajasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic giving is transactional, motivated by selfishness or expectation of a return, and lacks sincerity."
+        },
+        "tags": ["rajasic", "selfishness", "transactional"]
+      },
+      "22": {
+        "original_verse": "And that gift given at the wrong place and time, and to the wrong person, without the proper decorum of ritual, and with disrespect, that gift is said to be tamasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic giving is careless, inappropriate, and performed without respect or understanding of dharma."
+        },
+        "tags": ["tamasic", "carelessness", "disrespect"]
+      },
+      "23": {
+        "original_verse": "Thus, the Om tat sat is known as the threefold designation of Brahman. In ancient times, the brahmins, the sacrifices and the Vedas were arranged in this way.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The threefold designation 'Om tat sat' represents Brahman and serves as a guiding principle for sacrifices and Vedic practices."
+        },
+        "tags": ["Om tat sat", "Brahman", "sacrifice"]
+      },
+      "24": {
+        "original_verse": "When sacrifice, gifts and acts of heated discipline are begun, then ‘Om’ is uttered by those who speak of Brahman, as is told by Vedic law.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The utterance of 'Om' sanctifies actions like sacrifice and giving, connecting them to Brahman and Vedic tradition."
+        },
+        "tags": ["Om", "Brahman", "sanctification"]
+      },
+      "25": {
+        "original_verse": "Saying ‘tat’ without interest in their fruits, acts of heated discipline, and sacrifice, and different acts of giving, are performed by those who desire freedom.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The utterance of 'tat' signifies detachment from material results, aligning actions with the pursuit of liberation."
+        },
+        "tags": ["tat", "detachment", "freedom"]
+      },
+      "26": {
+        "original_verse": "‘Sat’ is said in its meaning of true reality and real goodness; thus the word ‘sat’ is also used for a worthy act, Son of Pritha.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The term 'sat' represents truth and virtue, symbolizing actions that are rooted in righteousness and goodness."
+        },
+        "tags": ["sat", "truth", "virtue"]
+      },
+      "27": {
+        "original_verse": "In sacrifice, in heated discipline and in giving, sat is also called ‘being steadfast’, and action which has this end is also shown to be sat.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Steadfastness in righteous actions such as giving and discipline is aligned with the principle of 'sat' and reflects spiritual commitment."
+        },
+        "tags": ["steadfastness", "discipline", "giving"]
+      },
+      "28": {
+        "original_verse": "Oblation given, or heated discipline undertaken without trust, is called asat. That is not for us – neither here, nor after death, Son of Pritha.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Actions performed without faith or sincerity are considered 'asat,' leading to no spiritual benefit in this life or the next."
+        },
+        "tags": ["asat", "faithlessness", "spiritual loss"]
+      }
+    }
+  },
+  "18": {
+    "verses": {
+      "1": {
+        "original_verse": "O mighty-armed Hrishikesha, I want to know severally the truth about sannyasa as also about tyaga.",
+        "speaker": "Arjuna",
+        "commentary": {
+          "shankaracharya": "Arjuna inquires about the difference between renunciation of actions (sannyasa) and the renunciation of the fruits of actions (tyaga), desiring a clear distinction."
+        },
+        "tags": ["sannyasa", "tyaga", "renunciation"]
+      },
+      "2": {
+        "original_verse": "The learned ones know sannyasa to be the giving up of actions done with a desire for reward. The adepts call the abandonment of the results of all works as tyaga.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sannyasa is the renunciation of desire-motivated actions, while tyaga refers to abandoning attachment to the results of actions."
+        },
+        "tags": ["sannyasa", "tyaga", "action"]
+      },
+      "3": {
+        "original_verse": "Some learned persons say that action, beset with evil, should be given up, and others say that the practice of sacrifice, charity, and austerity should not be given up.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "There are differing views on renunciation: some advocate abandoning all actions due to their binding nature, while others uphold the value of certain practices for purification."
+        },
+        "tags": ["renunciation", "action", "sacrifice"]
+      },
+      "4": {
+        "original_verse": "O the most excellent among the descendants of Bharata, hear from me the firm conclusion regarding that tyaga. For tyaga has been clearly declared to be of three kinds.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna emphasizes that renunciation (tyaga) is of three types and is essential for spiritual clarity."
+        },
+        "tags": ["tyaga", "renunciation", "clarity"]
+      },
+      "5": {
+        "original_verse": "The practice of sacrifice, charity, and austerity is not to be abandoned; it is surely to be undertaken. Sacrifice, charity, and austerity are verily the purifiers of the wise.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna highlights the importance of continuing acts of sacrifice, charity, and austerity as they purify the mind and lead to wisdom."
+        },
+        "tags": ["sacrifice", "charity", "austerity"]
+      },
+      "6": {
+        "original_verse": "But even these actions have to be undertaken by renouncing attachment and (hankering for) results. This is my firm and best conclusion, O Partha.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Actions should be performed selflessly, without attachment to their fruits, aligning with sattvic renunciation."
+        },
+        "tags": ["attachment", "selflessness", "sattvic"]
+      },
+      "7": {
+        "original_verse": "The abandoning of daily obligatory acts is not justifiable. Giving up that through delusion is declared to be based on tamas.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Renouncing obligatory duties out of ignorance or delusion is tamasic and does not lead to spiritual growth."
+        },
+        "tags": ["obligatory duties", "delusion", "tamas"]
+      },
+      "8": {
+        "original_verse": "Whatever action one may relinquish merely as being painful, from fear of physical suffering, he, having resorted to renunciation based on rajas, will surely not acquire the fruits of renunciation.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic renunciation arises from avoidance of discomfort or pain, lacking the purity of intent required for true liberation."
+        },
+        "tags": ["rajasic", "renunciation", "pain"]
+      },
+      "9": {
+        "original_verse": "Whatever obligatory duty is performed just because it is a bounden duty, by giving up attachment and the result as well, that renunciation is considered to be based on sattva.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic renunciation entails performing duties selflessly and without seeking personal gain."
+        },
+        "tags": ["sattvic", "duty", "selflessness"]
+      },
+      "10": {
+        "original_verse": "The man of renunciation who has become imbued with sattva, who is wise and freed from doubts, does not hate unbefitting action, nor does he become attached to befitting activity.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "A true renunciate transcends likes and dislikes, acting wisely without attachment or aversion."
+        },
+        "tags": ["wisdom", "renunciation", "sattva"]
+      },
+      "11": {
+        "original_verse": "Since it is not possible for one who holds on to a body to give up actions entirely, therefore he, on the other hand, who renounces results of actions is called a man of renunciation.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Complete renunciation of actions is impractical, but abandoning attachment to results defines true renunciation."
+        },
+        "tags": ["action", "results", "renunciation"]
+      },
+      "12": {
+        "original_verse": "The threefold results of actions—the undesirable, the desirable, and the mixed—accrues after death to those who do not resort to renunciation, but never to those who resort to monasticism.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Actions bear results based on intent and attachment; true renunciates transcend these outcomes."
+        },
+        "tags": ["results", "monasticism", "renunciation"]
+      },
+      "13": {
+        "original_verse": "O mighty-armed one, learn from me these five factors for the accomplishment of all actions, which have been spoken of in Vedanta.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna introduces the five factors essential for understanding the mechanics of action and their spiritual implications."
+        },
+        "tags": ["action", "Vedanta", "factors"]
+      },
+      "14": {
+        "original_verse": "The locus as also the agent, the different kinds of organs, the many and distinct activities, and, the divine is here the fifth.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The five factors include the body, the doer, the senses, actions, and divine will as the basis of all activities."
+        },
+        "tags": ["action", "factors", "divine will"]
+      },
+      "15": {
+        "original_verse": "Whatever action a man performs with the body, speech and mind, be it just or its reverse, of it these five are the causes.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Actions performed through body, speech, or mind are driven by these five interconnected causes."
+        },
+        "tags": ["action", "body", "mind"]
+      },
+      "16": {
+        "original_verse": "This being true, the one who sees his own self as the only agent is hard-headed, and does not see, because of insight which is incomplete.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna critiques the delusion of egoism, where one sees themselves as the sole doer, ignoring the interconnectedness of all factors in action."
+        },
+        "tags": ["ego", "delusion", "incomplete insight"]
+      },
+      "17": {
+        "original_verse": "The one who has no sense of ‘mine’ and whose insight is not stained, that one is not bound and does not kill, even when he kills these very people.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "A person free from attachment and ego acts without incurring bondage, as their actions are aligned with divine will and dharma."
+        },
+        "tags": ["non-attachment", "action", "freedom"]
+      },
+      "18": {
+        "original_verse": "The three kinds of impulses for action are the wisdom of knowledge, the knower and that which is to be known. The three factors of action are the agent, the act and the means.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Action arises from the triad of knowledge, the knower, and the object of knowledge, along with the actor, the deed, and its instruments."
+        },
+        "tags": ["action", "knowledge", "factors"]
+      },
+      "19": {
+        "original_verse": "In accounting for the gunas, it is told that wisdom of knowledge, action and means are also threefold, distinguished by gunas. Listen properly to these, also.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The gunas influence all aspects of action, including knowledge, deeds, and methods, and Krishna explains their distinctions."
+        },
+        "tags": ["gunas", "action", "knowledge"]
+      },
+      "20": {
+        "original_verse": "That wisdom of knowledge by which one sees the imperishable in all beings, and the whole in multiplicities – recognize that wisdom as sattvic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic knowledge perceives unity in diversity, recognizing the eternal presence of Brahman in all beings."
+        },
+        "tags": ["sattvic", "unity", "Brahman"]
+      },
+      "21": {
+        "original_verse": "But that wisdom which understands different natures of different kinds, each separate in all beings – recognize that wisdom as rajasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic knowledge perceives distinctions and separateness among beings, focusing on dualities and differences."
+        },
+        "tags": ["rajasic", "dualities", "separation"]
+      },
+      "22": {
+        "original_verse": "But that which clings to only one action to be done without motive, trifling and without true aim – that is said to be tamasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic knowledge is narrow, lacking purpose and insight, leading to ignorance and stagnation."
+        },
+        "tags": ["tamasic", "ignorance", "stagnation"]
+      },
+      "23": {
+        "original_verse": "That action which is free from clinging and restrained, performed without hatred or desire, without longing to acquire the fruit, that action is said to be sattvic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic action is selfless, disciplined, and motivated by duty rather than personal gain or aversion."
+        },
+        "tags": ["sattvic", "selflessness", "discipline"]
+      },
+      "24": {
+        "original_verse": "But that action performed with longing to acquire, with a strong sense of ‘I’, or further, with much striving, is said to be rajasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic actions are driven by ego and ambition, often resulting in overexertion and attachment to outcomes."
+        },
+        "tags": ["rajasic", "ego", "ambition"]
+      },
+      "25": {
+        "original_verse": "That action begun because of delusion, without heeding the consequences, or the effects of power, or loss, or injury, is said to be tamasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic actions are reckless and unwise, performed without consideration of consequences or dharma."
+        },
+        "tags": ["tamasic", "recklessness", "dharma"]
+      },
+      "26": {
+        "original_verse": "The actor who is free from clinging and talk of self, who is accompanied by effort and courage, unchanged by fulfilment or lack of fulfilment, is said to be sattvic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic individuals act with determination, courage, and detachment from success or failure."
+        },
+        "tags": ["sattvic", "courage", "detachment"]
+      },
+      "27": {
+        "original_verse": "The passionate actor longing to acquire the fruit of action, impure, greedy, whose nature is violent and filled with pain and pleasure, is said to be rajasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic actors are dominated by desires and emotional extremes, leading to unrest and impurity."
+        },
+        "tags": ["rajasic", "desires", "emotional extremes"]
+      },
+      "28": {
+        "original_verse": "The actor who is stubborn and vulgar, not joined to yoga, lazy, false and wicked, despondent and procrastinating, is said to be tamasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic individuals are characterized by laziness, deceit, and a lack of discipline, resulting in spiritual stagnation."
+        },
+        "tags": ["tamasic", "laziness", "stagnation"]
+      },
+      "29": {
+        "original_verse": "Arjuna, Winner of Wealth, now hear the three kinds of insight and courage, according to the gunas, set forth completely, one by one.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna introduces the threefold classification of insight and courage, explaining their alignment with the gunas."
+        },
+        "tags": ["insight", "courage", "gunas"]
+      },
+      "30": {
+        "original_verse": "Son of Pritha, that insight which distinguishes exertion from inertia; that to be done from that not to be done; that to be feared from that not to be feared, is sattvic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic insight is discerning and clear, enabling one to make wise decisions aligned with dharma."
+        },
+        "tags": ["sattvic", "discernment", "dharma"]
+      }
+      "31": {
+        "original_verse": "And, Son of Pritha, the insight which does not distinguish correctly between dharma and its absence, between that to be done and that not to be done, is rajasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic insight is clouded by partiality and ambition, leading to misjudgment in discerning right from wrong."
+        },
+        "tags": ["rajasic", "insight", "misjudgment"]
+      },
+      "32": {
+        "original_verse": "Son of Pritha, the insight wrapped in darkness which thinks that all things are backwards, and that the dharma is its absence, is tamasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic insight is deluded, confusing righteousness with its opposite, resulting in moral and spiritual darkness."
+        },
+        "tags": ["tamasic", "insight", "delusion"]
+      },
+      "33": {
+        "original_verse": "Son of Pritha, by yoga which does not stray, the steadiness with which one maintains the actions of the senses, the vital breath and the mind, that steadiness is sattvic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic steadiness arises from unwavering focus and self-control, aligning actions with spiritual discipline."
+        },
+        "tags": ["sattvic", "steadiness", "discipline"]
+      },
+      "34": {
+        "original_verse": "But Arjuna, Son of Pritha, the steadiness with which one maintains wealth, desire and dharma, longing for the fruit with clinging, that steadiness is rajasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic steadiness is driven by attachment to material gains, ambition, and the desire for recognition."
+        },
+        "tags": ["rajasic", "steadiness", "attachment"]
+      },
+      "35": {
+        "original_verse": "Son of Pritha, the steadiness with which a dull-witted one holds on to pride and despondence, or pain, fear and sleep, that steadiness is tamasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic steadiness stems from ignorance, leading to inaction, fear, and procrastination."
+        },
+        "tags": ["tamasic", "steadiness", "ignorance"]
+      },
+      "36": {
+        "original_verse": "But now, hear from me, Bull of the Bharatas, the three grades of joy which one can experience through practice, and arrive at an end of sorrow:",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna introduces the three types of joy classified by the gunas, emphasizing their effects on spiritual progress."
+        },
+        "tags": ["joy", "gunas", "sorrow"]
+      },
+      "37": {
+        "original_verse": "That joy which is like poison in the beginning, and is like nectar when transformed, born from clarity in the insight of the self, is said to be sattvic;",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sattvic joy arises from spiritual discipline, initially challenging but ultimately rewarding and liberating."
+        },
+        "tags": ["sattvic", "joy", "clarity"]
+      },
+      "38": {
+        "original_verse": "That joy which is like nectar in the beginning, and poison when transformed through contact between the senses and their objects, is known as rajasic;",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Rajasic joy stems from sensory pleasures, initially enticing but eventually leading to dissatisfaction and bondage."
+        },
+        "tags": ["rajasic", "joy", "sensory pleasures"]
+      },
+      "39": {
+        "original_verse": "And that joy which in its beginning and in its end deludes the self, and arises from confusion, laziness and sleep, is said to be tamasic.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Tamasic joy is rooted in ignorance and apathy, offering neither immediate nor lasting fulfillment."
+        },
+        "tags": ["tamasic", "joy", "ignorance"]
+      },
+      "40": {
+        "original_verse": "There is no being on earth, or in heaven, or among the gods – no being who is free from these three gunas born of nature.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna asserts that all beings are influenced by the gunas, which govern their nature and actions."
+        },
+        "tags": ["gunas", "nature", "universality"]
+      },
+      "41": {
+        "original_verse": "Scorcher of the Enemy, the actions of brahmin priests, kshatriya warriors and vaishya merchants are portioned out by the gunas, sources of each innate nature.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Each caste's duties arise naturally from their dominant guna, shaping their roles in society and dharma."
+        },
+        "tags": ["gunas", "duties", "society"]
+      },
+      "42": {
+        "original_verse": "Brahmin action is born from the nature within: calmness, restraint, heated discipline, purity, patience, honesty, wisdom, discernment and a sense of presence.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "The qualities of a Brahmin align with sattva, emphasizing wisdom, self-control, and purity as essential for spiritual guidance."
+        },
+        "tags": ["brahmin", "qualities", "sattva"]
+      },
+      "43": {
+        "original_verse": "Warrior action is born from the nature within: might, inner light, courage and skill, and not fleeing in battle, generosity and a lordly temperament.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Kshatriyas embody rajas, characterized by strength, bravery, and leadership in fulfilling their duty to protect and govern."
+        },
+        "tags": ["kshatriya", "qualities", "rajas"]
+      },
+      "44": {
+        "original_verse": "Vaishya merchant action is born from the nature within: trade, cow-herding and ploughing; and the action of service is born from the nature within of shudras, those who serve.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Vaishyas and Shudras contribute through commerce and service, each role aligned with their dominant guna."
+        },
+        "tags": ["vaishya", "shudra", "duties"]
+      },
+      "45": {
+        "original_verse": "Content in one’s own action, one gains complete fulfilment. Hear then how one who is content in his own action finds fulfilment:",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Performing one's dharma with contentment leads to self-fulfillment and spiritual progress."
+        },
+        "tags": ["contentment", "dharma", "fulfillment"]
+      },
+      "46": {
+        "original_verse": "Honouring by one’s own action the one from whom all beings come forth, the one by whom all the world is pervaded, a human being finds fulfilment.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Performing one’s natural duties with devotion to the all-pervading divine source leads to ultimate fulfillment."
+        },
+        "tags": ["action", "devotion", "fulfillment"]
+      },
+      "47": {
+        "original_verse": "One’s own dharma, however badly done, is a higher good than another’s dharma, however well done; if one performs action as set down by one’s own nature, one does not create fault.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "It is better to follow one’s natural path, even imperfectly, than to excel in another’s duties, as one’s own dharma aligns with inherent nature."
+        },
+        "tags": ["dharma", "natural action", "faultlessness"]
+      },
+      "48": {
+        "original_verse": "Son of Kunti, one should not let go of one’s natural action, even if it is flawed. All beginnings are surrounded by error, as fire is surrounded by smoke.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Flaws in natural actions are unavoidable, much like smoke accompanies fire; perseverance is key to progress."
+        },
+        "tags": ["natural action", "perseverance", "imperfection"]
+      },
+      "49": {
+        "original_verse": "With insight that clings to nothing, with longing passed away, one’s self subdued, through renunciation one goes to the highest fulfilment in the state beyond action.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Renouncing attachment and desires leads to liberation, transcending the cycle of action and its consequences."
+        },
+        "tags": ["renunciation", "liberation", "fulfillment"]
+      },
+      "50": {
+        "original_verse": "Son of Kunti, learn from me briefly: the one who has found fulfilment also gains Brahman, the highest state of wisdom.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Attaining fulfillment through detachment and self-realization leads to union with Brahman, the ultimate wisdom."
+        },
+        "tags": ["Brahman", "fulfillment", "wisdom"]
+      },
+      "51": {
+        "original_verse": "Joined to pure insight and restraining the self with steadiness, letting go of the objects of sense, starting with sound, throwing aside passion and hatred,",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Self-restraint and detachment from sensory pleasures, combined with clarity and neutrality, purify the mind."
+        },
+        "tags": ["self-restraint", "detachment", "purification"]
+      },
+      "52": {
+        "original_verse": "Consuming lightly, dwelling apart, controlled in body, mind and speech, eternally holding the yoga of meditation as the highest end,",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "A disciplined lifestyle of simplicity, solitude, and focused meditation aligns the self with higher spiritual goals."
+        },
+        "tags": ["discipline", "meditation", "simplicity"]
+      },
+      "53": {
+        "original_verse": "Releasing pride, force and the focus on ‘I’ of grasping, anger and desire, at peace and without a sense of ‘mine’, one becomes fit for the being of Brahman.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Letting go of ego, attachment, and negative emotions prepares the mind for union with Brahman."
+        },
+        "tags": ["ego", "Brahman", "peace"]
+      },
+      "54": {
+        "original_verse": "The one whose self is tranquil, of one being with Brahman, who neither grieves nor desires, for whom all beings are the same, gains the highest devotion to me.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Equanimity and absence of desires foster tranquility, leading to unwavering devotion to Krishna."
+        },
+        "tags": ["tranquility", "devotion", "equanimity"]
+      },
+      "55": {
+        "original_verse": "Through devotion to me one comes to know how far I reach; and who I truly am. And then, when one knows me truly, one enters me in an instant.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "True understanding of Krishna’s infinite nature through devotion leads to spiritual union with Him."
+        },
+        "tags": ["devotion", "understanding", "union"]
+      },
+      "56": {
+        "original_verse": "Further, if one is always performing all actions while taking refuge in me, one reaches through my grace an imperishable, unchanging home.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Surrendering all actions to Krishna ensures His grace, leading to liberation and an eternal abode."
+        },
+        "tags": ["grace", "refuge", "liberation"]
+      },
+      "57": {
+        "original_verse": "Renouncing by thought all actions to me, and holding me as the highest, take refuge in the yoga of insight, and think of me always.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Devotion combined with thoughtful renunciation and constant focus on Krishna leads to spiritual alignment."
+        },
+        "tags": ["renunciation", "focus", "devotion"]
+      },
+      "58": {
+        "original_verse": "When you think of me, through my grace you will cross into all those places so hard to reach, but if you cannot listen, from a sense of ‘mine’, you will die.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna assures that His grace overcomes all obstacles, but attachment to ego leads to spiritual failure."
+        },
+        "tags": ["grace", "ego", "spiritual failure"]
+      },
+      "59": {
+        "original_verse": "If you take refuge in the sense of ‘mine’, and think, ‘I will not fight’, your resolve is hopeless, and the force of nature will command you.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Clinging to ego and avoiding one’s duty is futile, as the force of nature ensures the fulfillment of one’s destiny."
+        },
+        "tags": ["duty", "ego", "destiny"]
+      },
+      "60": {
+        "original_verse": "Son of Kunti, through that which arises out of your own nature, bound by your own action in confusion you will do even that which you do not want to do.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "One’s innate nature and past actions compel them to act in alignment with their dharma, even against their desires."
+        },
+        "tags": ["nature", "action", "dharma"]
+      },
+      "61": {
+        "original_verse": "Arjuna, the lord of all beings dwells in the place of the heart, and causes all beings to wander in illusion, as if following a great cosmic map.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna explains that the divine resides within all beings, orchestrating their actions through the power of maya (illusion)."
+        },
+        "tags": ["divine", "maya", "illusion"]
+      },
+      "62": {
+        "original_verse": "Son of Bharata, go, with your whole being, to that one refuge, and from that grace you will reach the eternal dwelling place, and the highest peace.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Seeking refuge in Krishna with total surrender leads to liberation and eternal peace."
+        },
+        "tags": ["refuge", "peace", "liberation"]
+      },
+      "63": {
+        "original_verse": "So this wisdom told to you by me is more hidden than the hidden; and when you have pondered this completely, then do as you like.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna emphasizes that this teaching is esoteric and encourages Arjuna to reflect deeply before deciding his course of action."
+        },
+        "tags": ["wisdom", "reflection", "freedom"]
+      },
+      "64": {
+        "original_verse": "Even further, listen to my highest word: the most hidden of all; you are greatly loved by me, so I will speak for your benefit.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Out of divine love for Arjuna, Krishna reveals the most profound and secret knowledge for his ultimate benefit."
+        },
+        "tags": ["love", "guidance", "hidden wisdom"]
+      },
+      "65": {
+        "original_verse": "Devoted to me, keep your mind intent on me, give honour to me, and sacrifice to me. In this way, you will truly go to me, I promise, for you are my beloved.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Complete devotion and surrender to Krishna ensure union with Him, as promised by the divine out of love."
+        },
+        "tags": ["devotion", "surrender", "union"]
+      },
+      "66": {
+        "original_verse": "Letting go of all dharmas, take me alone as your place of rest, and do not grieve, because I will free you from all evils.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Abandoning all other paths and surrendering solely to Krishna brings freedom from sin and sorrow."
+        },
+        "tags": ["surrender", "freedom", "grace"]
+      },
+      "67": {
+        "original_verse": "This should never be spoken by you to one who lacks the heat of discipline, or who is not devoted to me, or who does not want to hear what is to be said, or who sneers at me.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna advises that this sacred teaching is meant only for those with faith, devotion, and an earnest desire to learn."
+        },
+        "tags": ["teaching", "devotion", "faith"]
+      },
+      "68": {
+        "original_verse": "The one who sets forth this highest, hidden truth to those who are devoted to me, and has shown the highest love for me, will without a doubt go to me.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Sharing this wisdom with devoted individuals demonstrates the highest form of love for Krishna and ensures spiritual union with Him."
+        },
+        "tags": ["teaching", "love", "union"]
+      },
+      "69": {
+        "original_verse": "No one among all humankind will give more love to me, and there will be no other on earth dearer to me than that one.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna expresses unparalleled affection for those who spread His teachings with devotion and sincerity."
+        },
+        "tags": ["devotion", "teaching", "love"]
+      },
+      "70": {
+        "original_verse": "And my thought is this: one who learns and recites this conversation of ours so filled with dharma would sacrifice to me with the sacrifice of knowledge.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Reciting and understanding the Gita constitutes a supreme offering of knowledge, pleasing to Krishna."
+        },
+        "tags": ["sacrifice", "knowledge", "recitation"]
+      },
+      "71": {
+        "original_verse": "And also one who would hear without sneering, full of trust, would be freed, and would reach those happy worlds where actions are pure.",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Listening to the Gita with faith and trust leads to liberation and higher spiritual realms."
+        },
+        "tags": ["listening", "trust", "liberation"]
+      },
+      "72": {
+        "original_verse": "Son of Pritha, have you listened to this with focused thought? Have your ignorance and confusion been taken away, Winner of Wealth?",
+        "speaker": "Krishna",
+        "commentary": {
+          "shankaracharya": "Krishna asks if Arjuna has truly understood and overcome his doubts through the teachings."
+        },
+        "tags": ["understanding", "reflection", "clarity"]
+      },
+      "73": {
+        "original_verse": "Unfailing Krishna, through your grace, I have gained wise memory, and lost delusion. I stand here with my doubt gone. I will do what you say.",
+        "speaker": "Arjuna",
+        "commentary": {
+          "shankaracharya": "Arjuna acknowledges the transformative power of Krishna's teachings, resolving to follow His guidance."
+        },
+        "tags": ["grace", "resolution", "guidance"]
+      },
+      "74": {
+        "original_verse": "Thus, I have heard the conversation between the son of Vasudeva and the son of Pritha, whose nature is great. It was miraculous and caused my hair to stand on end!",
+        "speaker": "Sanjaya",
+        "commentary": {
+          "shankaracharya": "Sanjaya marvels at the divine dialogue, recognizing its profound and transformative nature."
+        },
+        "tags": ["conversation", "divine", "marvel"]
+      },
+      "75": {
+        "original_verse": "By the grace of Vyasa, the composer, I have heard this highest, hidden yoga from Krishna, lord of yoga, speaking himself, right before my eyes.",
+        "speaker": "Sanjaya",
+        "commentary": {
+          "shankaracharya": "Through Vyasa’s grace, Sanjaya witnesses and recounts the profound dialogue, recognizing Krishna as the ultimate teacher of yoga."
+        },
+        "tags": ["Vyasa", "grace", "yoga"]
+      },
+      "76": {
+        "original_verse": "King, remembering continually this miraculous and sacred dialogue between Arjuna and lovely-haired Krishna, I rejoice again and again.",
+        "speaker": "Sanjaya",
+        "commentary": {
+          "shankaracharya": "Sanjaya expresses profound joy and gratitude for witnessing the sacred dialogue between Krishna and Arjuna, which is both miraculous and transformative."
+        },
+        "tags": ["dialogue", "joy", "sacred"]
+      },
+      "77": {
+        "original_verse": "King, remembering again and again the miraculous form of Hari, my wonder is great, and I rejoice again and again.",
+        "speaker": "Sanjaya",
+        "commentary": {
+          "shankaracharya": "Reflecting on Krishna’s divine form fills Sanjaya with awe and wonder, inspiring repeated joy and reverence."
+        },
+        "tags": ["divine form", "wonder", "rejoicing"]
+      },
+      "78": {
+        "original_verse": "This is my thought: wherever there is Krishna, the lord of yoga, wherever there is Arjuna, Son of Pritha, bearing his bow, there will always be splendour, victory, well-being, and wise conduct.",
+        "speaker": "Sanjaya",
+        "commentary": {
+          "shankaracharya": "Sanjaya concludes with confidence that Krishna's guidance and Arjuna's righteous action will ensure success, prosperity, and wisdom."
+        },
+        "tags": ["Krishna", "Arjuna", "victory"]
+      }
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
   }
