@@ -20,26 +20,33 @@ class GitaChatbot:
         question_embedding = self.model.encode(normalized_question)
 
         cursor = self.conn.cursor()
-        verses = cursor.execute('SELECT id, chapter, verse_number, original_verse, commentary, embedding FROM verses').fetchall()
+        cursor.execute('SELECT id, chapter, verse_number, original_verse, commentary, embedding FROM verses')
 
-        similarities = []
-        for verse_id, chapter, verse_num, original_verse, commentary, db_embedding in verses:
+        best_match = None
+        highest_similarity = -1  # Initialize with the lowest possible similarity
+
+        for verse_id, chapter, verse_num, original_verse, commentary, db_embedding in cursor:
+            if db_embedding is None:
+                continue  # Skip rows with NULL embeddings
+
             embedding = np.frombuffer(db_embedding, dtype=np.float32)
-            
+
             similarity = np.dot(question_embedding, embedding) / (
                 np.linalg.norm(question_embedding) * np.linalg.norm(embedding)
             )
-            similarities.append((similarity, verse_id, chapter, verse_num, original_verse, commentary))
 
-        best_match = max(similarities, key=lambda x: x[0])
-        
-        return {
-            "similarity_score": best_match[0],
-            "chapter": best_match[1],
-            "verse_number": best_match[3],
-            "original_verse": best_match[4],
-            "commentary": best_match[5]
-        }
+            if similarity > highest_similarity:
+                highest_similarity = similarity
+                best_match = {
+                    "similarity_score": similarity,
+                    "chapter": chapter,
+                    "verse_number": verse_num,
+                    "original_verse": original_verse,
+                    "commentary": commentary
+                }
+
+        return best_match
+
 
     def chat(self, question: str) -> str:
         relevant_verse = self.find_most_similar_verse(question)
