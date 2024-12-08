@@ -16,7 +16,7 @@ class GitaChatbot:
         anthropic_api_key = os.getenv("ANTHROPIC_API_KEY")
         if not anthropic_api_key:
             raise ValueError("ANTHROPIC_API_KEY not found in environment variables.")
-        
+
         self.client = anthropic.Anthropic(api_key=anthropic_api_key)
 
     def normalize_text(self, text: str) -> str:
