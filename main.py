@@ -121,8 +121,9 @@ class GitaChatbot:
 
             guidance += """
             - Start with "Gita Says:"
-            - 30-45 words long
+            - 50-100 words long
             - Inspired by Krishna's teachings
+            - Add a PERSONAL TOUCH to the answer
             - MUST include chapter and verse number in format: (Chapter X, Verse Y)
             - Ensure ONLY ONE response is generated
             - Ensure ONLY ONE verse is generated 
@@ -202,13 +203,13 @@ class GitaChatbot:
 
 def main():
 
-    st.set_page_config(page_title="🕉️ Bhagavad Gita Chatbot(RELIG 397)", page_icon="🕉️")
+    st.set_page_config(page_title="🕉️ Bhagavad Gita Chatbot)", page_icon="🕉️")
     
-    st.title("🕉️ Bhagavad Gita Chatbot(RELIG 397")
+    st.title("🕉️ Bhagavad Gita Chatbot")
 
     st.sidebar.markdown("""
     ### About this App
-    Project for Relig 397\n
+    Project for RELIG 397\n
     Team :\n  
             Kabirvansh Chadha\n
         Aaron Lad\n 
