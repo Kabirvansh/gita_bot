@@ -121,13 +121,12 @@ class GitaChatbot:
 
             guidance += """
             - Start with "Gita Says:" and KEEP IT FIRST PERSON
-            - 100-125 words long
+            - 75-100 words long
             - Inspired by Krishna's teachings
             - Add a PERSONAL TOUCH to the answer
             - MUST include chapter and verse number in format: (Chapter X, Verse Y)
             - Ensure ONLY ONE response is generated
             - Ensure ONLY ONE verse is generated 
-            - Ensure CHAPTER 2 VERSE 47 is used only while refering to desire
             """
 
             response = self.client.messages.create(
