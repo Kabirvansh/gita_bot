@@ -120,7 +120,7 @@ class GitaChatbot:
                 guidance += "\n\nREQUIREMENTS:"
 
             guidance += """
-            - Start with "Gita Says:" 
+            - DO NOT GIVE ANSWERS TO FACTUAL QUESTIONS, JUST SAY DONT KNOW
             - 75-100 words long
             - Inspired by Krishna's teachings
             - Add a PERSONAL TOUCH to the answer
@@ -155,9 +155,6 @@ class GitaChatbot:
             verse_number = int(verse_match.group(2))
 
             response_text = raw_response.replace(full_verse_ref, '').strip()
-
-            if not response_text.startswith("Gita Says:"):
-                response_text = f"Gita Says: {response_text}"
             
             return {
                 "response": f"{response_text}",
