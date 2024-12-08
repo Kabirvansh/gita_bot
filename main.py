@@ -43,7 +43,7 @@ class GitaChatbot:
         return None
 
     def generate_philosophical_response(self, question: str):
-        """Generate a philosophical response using Claude API."""
+        """Generate a philosophical response."""
         
         condition_verse_guide = {
             "ANGER": {
@@ -110,7 +110,7 @@ class GitaChatbot:
                     condition = key
                     break
    
-            guidance = "Provide a philosophical response based on the Bhagavad Gita"
+            guidance = "Provide a first-person philosophical response with personal touch based on the Bhagavad Gita"
             if condition and condition in condition_verse_guide:
                 condition_data = condition_verse_guide[condition]
                 guidance += f"\n\nSpecific Guidance for {condition}:\n"
@@ -120,8 +120,8 @@ class GitaChatbot:
                 guidance += "\n\nREQUIREMENTS:"
 
             guidance += """
-            - Start with "Gita Says:"
-            - 50-100 words long
+            - Start with "Gita Says:" and KEEP IT FIRST PERSON
+            - 100-125 words long
             - Inspired by Krishna's teachings
             - Add a PERSONAL TOUCH to the answer
             - MUST include chapter and verse number in format: (Chapter X, Verse Y)
