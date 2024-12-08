@@ -110,7 +110,7 @@ class GitaChatbot:
                     condition = key
                     break
    
-            guidance = "Provide a first-person philosophical response with personal touch based on the Bhagavad Gita"
+            guidance = "Provide a second-person philosophical response with personal touch based on the Bhagavad Gita"
             if condition and condition in condition_verse_guide:
                 condition_data = condition_verse_guide[condition]
                 guidance += f"\n\nSpecific Guidance for {condition}:\n"
