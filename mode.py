@@ -23,11 +23,11 @@ class GitaChatbot:
         cursor.execute('SELECT id, chapter, verse_number, original_verse, commentary, embedding FROM verses')
 
         best_match = None
-        highest_similarity = -1  # Initialize with the lowest possible similarity
+        highest_similarity = -1  
 
         for verse_id, chapter, verse_num, original_verse, commentary, db_embedding in cursor:
             if db_embedding is None:
-                continue  # Skip rows with NULL embeddings
+                continue  
 
             embedding = np.frombuffer(db_embedding, dtype=np.float32)
 
