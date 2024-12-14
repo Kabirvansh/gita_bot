@@ -131,7 +131,7 @@ class GitaChatbot:
 
             response = self.client.messages.create(
                 model="claude-3-haiku-20240307",
-                max_tokens=150,
+                max_tokens=300,
                 messages=[
                     {
                         "role": "user", 
