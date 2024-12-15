@@ -44,6 +44,8 @@ class GitaChatbot:
 
     def generate_philosophical_response(self, question: str):
         """Generate a philosophical response."""
+        import random
+
         condition_verse_guide = {
             "ANGER": {
                 "chapters": [2, 16],
@@ -103,6 +105,7 @@ class GitaChatbot:
 
         try:
             condition = None
+            selected_verse = None
             for key, value in condition_verse_guide.items():
                 if key.lower() in question.lower():
                     condition = value
@@ -112,21 +115,27 @@ class GitaChatbot:
             if condition:
                 guidance += f"\n\nSpecific Guidance for {key}:\n"
                 guidance += condition.get('guidance', '')
-                guidance += "\n\nREQUIREMENTS:"
+                key_verses = condition.get('key_verses', [])
+                if key_verses:
+                    random_key_verse = random.choice(key_verses)
+                    selected_verse = {
+                        "chapter": random_key_verse['chapter'],
+                        "verse": random.choice(random_key_verse['verses'])
+                    }
             else:
-                guidance += "\n\nREQUIREMENTS:"
+                # Fallback to a general response if no condition matches
+                guidance += "\nNo specific condition matched. Please provide general guidance based on the Bhagavad Gita."
 
-            guidance += """
-            - DO NOT GIVE ANSWERS TO FACTUAL QUESTIONS, JUST SAY DONT KNOW
-            - 75-100 words long
-            - Ensure the ENTIRE response is generated completely
-            - Do NOT truncate or leave the response incomplete
-            - Inspired by Krishna's teachings
-            - Add a PERSONAL TOUCH to the answer
-            - MUST include chapter and verse number in format: (Chapter X, Verse Y)
-            - Ensure ONLY ONE response is generated
-            - Ensure ONLY ONE verse is generated 
-            """
+            guidance += "\n\nREQUIREMENTS:"\
+                       "\n- DO NOT GIVE ANSWERS TO FACTUAL QUESTIONS, JUST SAY DON'T KNOW"\
+                       "\n- 75-100 words long"\
+                       "\n- Ensure the ENTIRE response is generated completely"\
+                       "\n- Do NOT truncate or leave the response incomplete"\
+                       "\n- Inspired by Krishna's teachings"\
+                       "\n- Add a PERSONAL TOUCH to the answer"\
+                       "\n- MUST include chapter and verse number in format: (Chapter X, Verse Y)"\
+                       "\n- Ensure ONLY ONE response is generated"\
+                       "\n- Ensure ONLY ONE verse is generated"
 
             response = self.client.messages.create(
                 model="claude-3-haiku-20240307",
@@ -142,34 +151,17 @@ class GitaChatbot:
             raw_response = response.content[0].text.strip()
             print(f"Raw API Response: {raw_response}")
 
-            verse_match = re.search(r'\(Chapter (\d+), Verse (\d+)\)', raw_response)
-
-            if not verse_match:
-                print("No verse reference found in the response")
-                return None
-
-            full_verse_ref = verse_match.group(0)
-            chapter = int(verse_match.group(1))
-            verse_number = int(verse_match.group(2))
-
-            # Check if chapter is not Chapter 2
-            if chapter != 2:
+            if selected_verse:
                 return {
-                    "response": raw_response.replace(full_verse_ref, '').strip(),
-                    "chapter": chapter,
-                    "verse_number": verse_number
+                    "response": raw_response,
+                    "chapter": selected_verse['chapter'],
+                    "verse_number": selected_verse['verse']
                 }
 
-            # Fallback to Chapter 2
-            print("Falling back to Chapter 2...")
-            fallback_chapter = 2
-            fallback_verses = [56, 62, 63]
-            fallback_verse = np.random.choice(fallback_verses)
-
             return {
-                "response": "This is a fallback response as no other chapter's verse was found.",
-                "chapter": fallback_chapter,
-                "verse_number": fallback_verse
+                "response": raw_response,
+                "chapter": None,
+                "verse_number": None
             }
 
         except Exception as e:
