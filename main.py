@@ -129,6 +129,7 @@ class GitaChatbot:
             - MUST include chapter and verse number in format: (Chapter X, Verse Y)
             - Ensure ONLY ONE response is generated
             - Ensure ONLY ONE verse is generated 
+            - First try to find verses from other chapters(3-18) if couldnt find then search chapter 2 
             """
 
             response = self.client.messages.create(
