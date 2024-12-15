@@ -44,12 +44,11 @@ class GitaChatbot:
 
     def generate_philosophical_response(self, question: str):
         """Generate a philosophical response."""
-        
         condition_verse_guide = {
             "ANGER": {
-                "chapters": [16],
+                "chapters": [2, 16],
                 "key_verses": [
-                    # {"chapter": 2, "verses": [56, 62, 63]},
+                    {"chapter": 2, "verses": [56, 62, 63]},
                     {"chapter": 16, "verses": [2, 3, 21]}
                 ],
                 "guidance": "Focus on verses that discuss controlling anger, emotional regulation, and the destructive nature of uncontrolled rage."
@@ -75,19 +74,18 @@ class GitaChatbot:
                 ],
                 "guidance": "Choose verses that highlight compassion, humility, and the spiritual strength of forgiveness."
             },
-            
             "DEPRESSION": {
                 "chapters": [2, 5],
                 "key_verses": [
-                    # {"chapter": 2, "verses": [3, 14]},
+                    {"chapter": 2, "verses": [3, 14]},
                     {"chapter": 5, "verses": [21]}
                 ],
                 "guidance": "Select verses that offer hope, resilience, and spiritual perspective during emotional low points."
             },
             "FEAR": {
-                "chapters": [ 4, 18],
+                "chapters": [2, 4, 18],
                 "key_verses": [
-                    # {"chapter": 2, "verses": [50]},
+                    {"chapter": 2, "verses": [50]},
                     {"chapter": 4, "verses": [10]},
                     {"chapter": 18, "verses": [30]}
                 ],
@@ -105,16 +103,15 @@ class GitaChatbot:
 
         try:
             condition = None
-            for key in condition_verse_guide.keys():
+            for key, value in condition_verse_guide.items():
                 if key.lower() in question.lower():
-                    condition = key
+                    condition = value
                     break
-   
+
             guidance = "Provide a philosophical response with personal touch based on the Bhagavad Gita"
-            if condition and condition in condition_verse_guide:
-                condition_data = condition_verse_guide[condition]
-                guidance += f"\n\nSpecific Guidance for {condition}:\n"
-                guidance += condition_data.get('guidance', '')
+            if condition:
+                guidance += f"\n\nSpecific Guidance for {key}:\n"
+                guidance += condition.get('guidance', '')
                 guidance += "\n\nREQUIREMENTS:"
             else:
                 guidance += "\n\nREQUIREMENTS:"
@@ -129,7 +126,6 @@ class GitaChatbot:
             - MUST include chapter and verse number in format: (Chapter X, Verse Y)
             - Ensure ONLY ONE response is generated
             - Ensure ONLY ONE verse is generated 
-            - First try to find verses from other chapters(3-18) if couldnt find then search chapter 2 
             """
 
             response = self.client.messages.create(
@@ -146,9 +142,8 @@ class GitaChatbot:
             raw_response = response.content[0].text.strip()
             print(f"Raw API Response: {raw_response}")
 
-
             verse_match = re.search(r'\(Chapter (\d+), Verse (\d+)\)', raw_response)
-            
+
             if not verse_match:
                 print("No verse reference found in the response")
                 return None
@@ -157,17 +152,30 @@ class GitaChatbot:
             chapter = int(verse_match.group(1))
             verse_number = int(verse_match.group(2))
 
-            response_text = raw_response.replace(full_verse_ref, '').strip()
-            
+            # Check if chapter is not Chapter 2
+            if chapter != 2:
+                return {
+                    "response": raw_response.replace(full_verse_ref, '').strip(),
+                    "chapter": chapter,
+                    "verse_number": verse_number
+                }
+
+            # Fallback to Chapter 2
+            print("Falling back to Chapter 2...")
+            fallback_chapter = 2
+            fallback_verses = [56, 62, 63]
+            fallback_verse = np.random.choice(fallback_verses)
+
             return {
-                "response": f"{response_text}",
-                "chapter": chapter,
-                "verse_number": verse_number
+                "response": "This is a fallback response as no other chapter's verse was found.",
+                "chapter": fallback_chapter,
+                "verse_number": fallback_verse
             }
-        
+
         except Exception as e:
             print(f"Error generating response: {e}")
             return None
+
 
     def chat(self, question: str):
         """Main chat method to process question and retrieve verse."""
