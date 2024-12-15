@@ -135,7 +135,8 @@ class GitaChatbot:
                        "\n- Add a PERSONAL TOUCH to the answer"\
                        "\n- MUST include chapter and verse number in format: (Chapter X, Verse Y)"\
                        "\n- Ensure ONLY ONE response is generated"\
-                       "\n- Ensure ONLY ONE verse is generated"
+                       "\n- Ensure ONLY ONE verse is generated"\
+                       "\n- Search for a matching verse from all chapters and then compare those verses for the most accurate response"
 
             response = self.client.messages.create(
                 model="claude-3-haiku-20240307",
