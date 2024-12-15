@@ -47,9 +47,9 @@ class GitaChatbot:
         
         condition_verse_guide = {
             "ANGER": {
-                "chapters": [2, 16],
+                "chapters": [16],
                 "key_verses": [
-                    {"chapter": 2, "verses": [56, 62, 63]},
+                    # {"chapter": 2, "verses": [56, 62, 63]},
                     {"chapter": 16, "verses": [2, 3, 21]}
                 ],
                 "guidance": "Focus on verses that discuss controlling anger, emotional regulation, and the destructive nature of uncontrolled rage."
@@ -79,15 +79,15 @@ class GitaChatbot:
             "DEPRESSION": {
                 "chapters": [2, 5],
                 "key_verses": [
-                    {"chapter": 2, "verses": [3, 14]},
+                    # {"chapter": 2, "verses": [3, 14]},
                     {"chapter": 5, "verses": [21]}
                 ],
                 "guidance": "Select verses that offer hope, resilience, and spiritual perspective during emotional low points."
             },
             "FEAR": {
-                "chapters": [2, 4, 18],
+                "chapters": [ 4, 18],
                 "key_verses": [
-                    {"chapter": 2, "verses": [50]},
+                    # {"chapter": 2, "verses": [50]},
                     {"chapter": 4, "verses": [10]},
                     {"chapter": 18, "verses": [30]}
                 ],
