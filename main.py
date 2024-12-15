@@ -171,29 +171,10 @@ class GitaChatbot:
     def chat(self, question: str):
         """Main chat method to process question and retrieve verse."""
 
-        # Check if the question is about who built the chatbot
-        creator_keywords = [
-            "who built you", 
-            "who created you", 
-            "who made you", 
-            "your creators", 
-            "developers", 
-            "team behind"
-        ]
-
-        if any(keyword in question.lower() for keyword in creator_keywords):
-            return {
-                "question": question,
-                "philosophical_response": "Gita Says: I was built by Kabirvansh Chadha",
-                "chapter": 2,
-                "verse_number": 47,
-                "original_verse": "I was built by Kabirvansh Chadha",
-                "commentary": "A creation born of passion and knowledge."
-            }
-
         try:
             api_response = self.generate_philosophical_response(question)
             
+
             if not api_response or isinstance(api_response, str):
                 return "Unable to generate a response."
             
